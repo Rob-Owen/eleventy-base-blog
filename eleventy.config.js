@@ -78,6 +78,35 @@ module.exports = function(eleventyConfig) {
 		return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
 	});
 
+	eleventyConfig.addFilter("prefixAppStoreMeta", value => {
+		return `app-id=${value}`
+	});
+
+	eleventyConfig.addFilter("pressPage", (collection, page) => {
+		for (let item of collection) {
+			if (item.url.includes(`${page}/press`)) {
+				return item
+			}
+		}
+	});
+
+	eleventyConfig.addFilter("privacyPage", (collection, page) => {
+		for (let item of collection) {
+			if (item.url.includes(`${page}/privacy`)) {
+				return item
+			}
+		}
+	});
+
+
+	eleventyConfig.addFilter("faqsPage", (collection, page) => {
+		for (let item of collection) {
+			if (item.url.includes(`${page}/faqs`)) {
+				return item
+			}
+		}
+	});
+
 	// Customize Markdown library settings:
 	eleventyConfig.amendLibrary("md", mdLib => {
 		mdLib.use(markdownItAnchor, {

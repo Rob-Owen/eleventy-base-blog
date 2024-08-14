@@ -166,6 +166,21 @@ header {
 	margin: 0;
 	list-style: none;
 }
+
+/* Copy content from nav class */
+nav ul {
+	display: flex;
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+/* Copy content from nav-item class */
+nav li {
+	display: inline-block;
+	margin-right: 1em;
+}
+
 .nav-item {
 	display: inline-block;
 	margin-right: 1em;
