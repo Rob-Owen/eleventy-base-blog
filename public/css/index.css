@@ -167,20 +167,6 @@ header {
 	list-style: none;
 }
 
-/* Copy content from nav class */
-nav ul {
-	display: flex;
-	padding: 0;
-	margin: 0;
-	list-style: none;
-}
-
-/* Copy content from nav-item class */
-nav li {
-	display: inline-block;
-	margin-right: 1em;
-}
-
 .nav-item {
 	display: inline-block;
 	margin-right: 1em;
@@ -240,7 +226,6 @@ nav li {
 	display: inline-flex;
 	align-items: center;
 	justify-content: center;
-	text-transform: capitalize;
 	font-style: italic;
 }
 .postlist-item > .post-tag {
@@ -282,4 +267,20 @@ a[href].header-anchor:focus,
 
 h2 + .header-anchor {
 	font-size: 1.5em;
+}
+
+.img-container img {
+	height: 100%;
+	width: 100%;
+	object-fit: contain;
+}
+
+.circle-crop {
+	overflow: hidden;
+	border-radius: 50%;  
+}
+
+.circle-crop img {
+	display: inline;
+    margin: 0 auto;
 }

@@ -5,31 +5,38 @@ layout: layouts/base.njk
 {%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %}
 {%- css %}{% include "public/css/prism-diff.css" %}{%- endcss %}
 
-<h1>{{ title }}</h1>
+{% include "apptitle.njk" %}
 
 <ul class="post-metadata">
-	<li><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
 	{%- for tag in tags | filterTagList %}
 	{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
 	<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
 	{%- endfor %}
 </ul>
 
-{{ content | safe }}
 
 {%- set pressPage = collections.all | pressPage(page.fileSlug) %}
 {%- set privacyPage = collections.all | privacyPage(page.fileSlug) %}
 {%- set faqsPage = collections.all | faqsPage(page.fileSlug) %}
 
+<ul class="flex-container">
+	{% if faqsPage %}
+	<li>
+		<a class="app-detail-link" href="{{ faqsPage.url }}">FAQs</a>
+	</li>
+	{% endif %}
+	
+	{% if pressPage %}
+	<li>
+		<a class="app-detail-link" href="{{ pressPage.url }}">Press</a>
+	</li>
+	{% endif %}
+	
+	{% if privacyPage %}
+	<li>
+		<a class="app-detail-link" href="{{ privacyPage.url }}">Privacy</a>
+	</li>
+	{% endif %}	
+</ul>
 
-{% if faqsPage %}
-<a href="{{ faqsPage.url }}">FAQs</a>
-{% endif %}
-
-{% if pressPage %}
-<a href="{{ pressPage.url }}">Press</a>
-{% endif %}
-
-{% if privacyPage %}
-<a href="{{ privacyPage.url }}">Privacy</a>
-{% endif %}
+{{ content | safe }}

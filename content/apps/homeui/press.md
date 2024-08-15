@@ -7,10 +7,16 @@ eleventyNavigation:
 ---
 Last updated for HomeUI version 1.5.
 
-
 ## App Icon
-
 ### visionOS
+
+<div class="img-container">
+  {% image "./icon.png", "App Icon", "40em" %}
+</div>
+
+<div class="img-container circle-crop">
+  {% image "./icon.png", "App Icon", "40em" %}
+</div>
 
 ## Description
 
@@ -26,7 +32,7 @@ Switches
 Outlets
 Fans
 Locks
-& more via Scenes\
+& more via Scenes
 
 ## Pricing
 
@@ -34,4 +40,14 @@ HomeUI is a one-off purchase costing $9.99.
 
 ## Screenshots
 
-TODO
+<div class="img-container">
+  {% image "./homeui-cameras.png", "App Screenshot", "40em" %}
+</div>
+
+<div class="img-container">
+  {% image "./homeui-controls.png", "App Screenshot", "40em" %}
+</div>
+
+<div class="img-container">
+  {% image "./homeui-main-window.png", "App Screenshot", "40em" %}
+</div>

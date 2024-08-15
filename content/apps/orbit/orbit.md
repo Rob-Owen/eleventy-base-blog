@@ -1,7 +1,8 @@
 ---
 layout: "layouts/app.njk"
 title: Orbit
-tags: apps
+tags: 
+  - Apps
 appleAppId: 6503322144
 eleventyNavigation:
   parent: Apps
