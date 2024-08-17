@@ -1,6 +1,7 @@
 ---
 layout: "layouts/app.njk"
 title: HomeUI
+description: Smart Home controls for visionOS.
 tags: 
   - Apps
   - visionOS

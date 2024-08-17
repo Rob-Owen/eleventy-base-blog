@@ -17,8 +17,20 @@ eleventyNavigation:
 {% endif %} -->
 
 {# List every content page in the project #}
-<ul>
+<ul class="app-list">
 	{%- for entry in collections.Apps %}
-	<li><a href="{{ entry.url }}"><code>{{ entry.url }}</code></a></li>
+	<li class="app-list-entry">
+	<div class="app-header-container">
+		<div class="app-header">
+			{%- set iconPath = "apps/" + entry.data.title.toLowerCase() + "/icon.png" %}
+			{% image iconPath, "App Icon", "(max-width: 300px) 256px,
+			512px", [256, 512] %}
+		</div>
+		<a href="{{ entry.url }}">
+			<h2>{{ entry.data.title }}</h2>
+		</a>
+	</div>
+	<p>{{ entry.data.description }}</p>
+	</li>
 	{%- endfor %}
 </ul>

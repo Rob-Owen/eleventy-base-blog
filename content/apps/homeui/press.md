@@ -14,10 +14,6 @@ Last updated for HomeUI version 1.5.
   {% image "./icon.png", "App Icon", "40em" %}
 </div>
 
-<div class="img-container circle-crop">
-  {% image "./icon.png", "App Icon", "40em" %}
-</div>
-
 ## Description
 
 HomeUI turns your Vision Pro into a smart home control suite.

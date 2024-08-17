@@ -275,12 +275,40 @@ h2 + .header-anchor {
 	object-fit: contain;
 }
 
-.circle-crop {
-	overflow: hidden;
-	border-radius: 50%;  
+.app-header-container {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+	padding: 0;
+	margin: 0;
 }
 
-.circle-crop img {
-	display: inline;
-    margin: 0 auto;
+.app-header {
+    display: inline-block;
+    margin: 0 1em 0 0;
+}
+
+.app-header img {
+	width: 50px;
+    height: fit-content;
+	object-fit: contain;
+}
+
+/* App Listing */
+.app-list {
+	list-style: none;
+	padding: 0;
+	padding-left: 1.5rem;
+}
+.app-list-entry {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	align-items: baseline;
+	counter-increment: start-from -1;
+	margin-bottom: 2em;
+}
+
+.app-list-entry p {
+	margin: 0;
 }

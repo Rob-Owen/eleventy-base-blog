@@ -1,6 +1,7 @@
 ---
 layout: "layouts/app.njk"
 title: Octoscope
+description: Octopus Energy data & prices.
 tags: 
   - Apps
   - iOS

@@ -10,7 +10,7 @@ Welcome to the new website. I'll be using this site to host App-related content 
 
 For me, a static website beats a web server architecture for this sort of thing every time - better scalability, lower latency, far lower running costs, few security concerns, the list goes on. I can write markdown and turn that into content with no WYSIWYG interface to learn.
 
-This site is built on eleventy (11ty - see [here](https://www.11ty.dev)), a 'simple' static site generator built in javascript. Any static site generator would have been suitable, so don't take this as a technology recommendation.
+This site is built on [eleventy](https://www.11ty.dev), a static site generator built in javascript. Any static site generator would have been suitable, so don't take this as a technology recommendation. I'm using [Vercel](https://vercel.com/) for hosting.
 
 My experience of 11ty so far has been good. I've built on top of the [Eleventy Base Blog](https://github.com/11ty/eleventy-base-blog) which has help me bootstrap a working setup without re-inventing the wheel. The builds are fast and I can write in markdown syntax on my local machine.
 
