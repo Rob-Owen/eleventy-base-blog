@@ -10,5 +10,4 @@ eleventyNavigation:
 
 ## Hello, I'm Rob.
 
-I'm a professional software engineer & Dad living near Cambridge in the UK. I'm deeply int
-erested in environemntal science, climate change and energy systems. On the side I build the apps you can find on this site, enjoy gaming and running.
+I'm a professional software engineer & Dad living near Cambridge in the UK. I'm deeply interested in environemntal science, climate change and energy systems. On the side I build the apps you can find on this site, and I enjoy gaming and running.

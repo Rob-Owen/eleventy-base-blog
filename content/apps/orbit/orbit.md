@@ -1,7 +1,7 @@
 ---
 layout: "layouts/app.njk"
 title: Orbit
-description: Distraction-free prioritisation.
+description: Distraction-free daily prioritization.
 tags: 
   - Apps
   - iOS
@@ -12,4 +12,7 @@ eleventyNavigation:
   key: Orbit
   title: Daily Reviews & Prioritisation
 ---
-Orbit is a new productivity app in public beta. Launching with iOS 18.
+
+Orbit is an upcoming iOS 18 app for planning your day. Prioritize, refine, and complete key tasks without the overhead of managing endless task lists. Orbit keeps you focused with a clear UI, deep system integrations, a daily review flow, and helpful friction.
+
+To join the public beta, get in touch via Mastodon or email.
