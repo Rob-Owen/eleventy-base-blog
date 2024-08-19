@@ -3,20 +3,19 @@ layout: layouts/home.njk
 eleventyNavigation:
   key: Apps
   order: 0
+permalink: "index.html"
 ---
 <h1>My Apps</h1>
-<!-- 
-{% set appList = collections.alls | head(-1 * numberOfLatestPostsToShow) %}
-{% set postslistCounter = postsCount %}
-{% include "postslist.njk" %} -->
 
-<!-- 
-{% set morePosts = postsCount - numberOfLatestPostsToShow %}
-{% if morePosts > 0 %}
-<p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="/blog/">the archive</a>.</p>
-{% endif %} -->
+<p>
+	Here you can find all my apps for Apple platforms, including iOS, iPadOS, watchOS and visionOS.
+</p>
 
-{# List every content page in the project #}
+<p>
+	I work with the latest native frameworks, continually developing and improving based on user feedback. 
+	Every app is built with privacy in mind - no user tracking, no advertising. These apps are entirely supported by users.
+</p>
+
 <ul class="app-list">
 	{%- for entry in collections.Apps %}
 	<li class="app-list-entry">

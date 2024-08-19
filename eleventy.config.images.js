@@ -1,5 +1,6 @@
 const path = require("path");
 const eleventyImage = require("@11ty/eleventy-img");
+const metadata = require("./_data/metadata");
 
 function relativeToInputPath(inputPath, relativeFilePath) {
 	let split = inputPath.split("/");
@@ -7,6 +8,18 @@ function relativeToInputPath(inputPath, relativeFilePath) {
 
 	return path.resolve(split.join(path.sep), relativeFilePath);
 
+}
+
+function relativeToSite(relativeFilePath) {
+	return relativeFilePath.replace("SITE:", metadata.url)
+}
+
+function isSiteUrl(url) {
+	if (url.startsWith("SITE:")) {
+		return true;
+	} else {
+		return false;
+	}
 }
 
 function isFullUrl(url) {
@@ -26,7 +39,9 @@ module.exports = function(eleventyConfig) {
 		// Warning: Avif can be resource-intensive so take care!
 		let formats = ["avif", "webp", "auto"];
 		let input;
-		if(isFullUrl(src)) {
+		if (isSiteUrl(src)) {
+			input = relativeToSite(src);
+		} else if (isFullUrl(src)) {
 			input = src;
 		} else {
 			input = relativeToInputPath(this.page.inputPath, src);

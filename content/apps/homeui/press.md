@@ -1,5 +1,5 @@
 ---
-title: HomeUI
+title: HomeUI Press Kit
 draft: false
 eleventyNavigation:
   parent: HomeUI
@@ -10,9 +10,14 @@ Last updated for HomeUI version 1.5.
 ## App Icon
 ### visionOS
 
-<div class="img-container">
-  {% image "./icon.png", "App Icon", "40em" %}
+<div class="img-container-50">
+  {% image "homeui-icon-square.png", "App Icon", "40em" %}
+  {% image "homeui-icon-circle.png", "App Icon", "40em" %}
 </div>
+
+Download full resolution icons:
+- <a href="/img/homeui-icon-circle.png" download>Circle</a>
+- <a href="/img/homeui-icon-square.png" download>Square (uncropped)</a>
 
 ## Description
 
@@ -22,17 +27,17 @@ Built from the ground-up for visionOS, HomeUI places camera screens and interact
 
 HomeUI supports the following HomeKit accessories, including three-dimensional spatial controls for Lights:
 
-Cameras
-Lights
-Switches
-Outlets
-Fans
-Locks
-& more via Scenes
+- Cameras
+- Lights
+- Switches
+- Outlets
+- Fans
+- Locks
+- & more via Scenes
 
 ## Pricing
 
-HomeUI is a one-off purchase costing $9.99.
+HomeUI is a one-off purchase costing 9.99 USD and equivalent in other countries.
 
 ## Screenshots
 

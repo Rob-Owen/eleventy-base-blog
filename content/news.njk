@@ -4,7 +4,6 @@ eleventyNavigation:
   key: News
   order: 1
 numberOfLatestPostsToShow: 3
-permalink: index.html
 ---
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
