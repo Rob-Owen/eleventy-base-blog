@@ -10,12 +10,11 @@
 	--color-gray-50: #C0C0C0;
 	--color-gray-90: #333;
 
-	--background-color: #fff;
+	--background-color: #e9e0e0;
 
 	--text-color: var(--color-gray-90);
-	--text-color-link: #082840;
-	--text-color-link-active: #5f2b48;
-	--text-color-link-visited: #17050F;
+	--text-color-link: #9c090b;
+	--text-color-link-active: #ff0000;
 
 	--syntax-tab-size: 2;
 }
@@ -27,11 +26,10 @@
 		--color-gray-90: #dad8d8;
 
 		/* --text-color is assigned to --color-gray-_ above */
-		--text-color-link: #1493fb;
-		--text-color-link-active: #6969f7;
-		--text-color-link-visited: #a6a6f8;
+		--text-color-link: #ff5e61;
+		--text-color-link-active: #ff0000;
 
-		--background-color: #15202b;
+		--background-color: #2a1f1f;
 	}
 }
 
@@ -80,9 +78,7 @@ li {
 
 a[href] {
 	color: var(--text-color-link);
-}
-a[href]:visited {
-	color: var(--text-color-link-visited);
+	text-decoration: none;
 }
 a[href]:hover,
 a[href]:active {
@@ -170,12 +166,15 @@ header {
 .nav-item {
 	display: inline-block;
 	margin-right: 1em;
+	
 }
 .nav-item a[href]:not(:hover) {
 	text-decoration: none;
+	padding-bottom: 0.2em;
+	border-bottom: 2px solid rgba(0, 0, 0, 0);
 }
 .nav a[href][aria-current="page"] {
-	text-decoration: underline;
+	border-bottom-color: var(--text-color-link);
 }
 
 /* Posts list */
@@ -278,7 +277,7 @@ h2 + .header-anchor {
 
 .img-container-50 img {
 	height: 49%;
-	width:49%;
+	width: 49%;
 	object-fit: contain;
 }
 
