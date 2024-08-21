@@ -1,0 +1,19 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appID": "2FQW47U53P.io.robowen.Cera",
+             "components": [
+               {
+                  "/": "/apps/orbit/data/in-app",
+                  "comment": "Path for all Orbit in-app view links."
+               },
+               {
+                "/": "/apps/orbit/contact",
+                 "comment": "Path for orbit contact details."
+               }
+             ]
+           }
+       ]
+   }
+}
