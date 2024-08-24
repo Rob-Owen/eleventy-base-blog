@@ -2,7 +2,7 @@
   "applinks": {
       "details": [
            {
-             "appID": "2FQW47U53P.io.robowen.Cera",
+             "appIDs": ["2FQW47U53P.io.robowen.Cera", "2FQW47U53P.io.robowen.Cera.CeraWidgets"],
              "components": [
                {
                   "/": "/apps/orbit/data/in-app",
