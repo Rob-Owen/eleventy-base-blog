@@ -22,7 +22,7 @@
 @media (prefers-color-scheme: dark) {
 	:root {
 		--color-gray-20: #e0e0e0;
-		--color-gray-50: #C0C0C0;
+		--color-gray-50: #909090;
 		--color-gray-90: #dad8d8;
 
 		/* --text-color is assigned to --color-gray-_ above */
@@ -108,12 +108,19 @@ header:after {
 }
 
 table {
-	margin: 1em 0;
+	border-collapse: collapse; /* Merge borders between cells */
+    width: 100%; /* Optional: Make the table width 100% of its container */
 }
 table td,
 table th {
-	padding-right: 1em;
+	border: 1px solid var(--color-gray-50); /* Set the border style for table, header cells (th), and data cells (td) */
 }
+
+th, td {
+    padding: 5px; /* Add some padding for better readability */
+    text-align: left; /* Align text to the left */
+}
+
 
 pre,
 code {
@@ -280,6 +287,13 @@ h2 + .header-anchor {
 	width: 49%;
 	object-fit: contain;
 }
+
+.img-container-33 img {
+	height: 32%;
+	width: 32%;
+	object-fit: contain;
+}
+
 
 
 .img-container-40 img {

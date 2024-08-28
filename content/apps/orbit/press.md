@@ -8,31 +8,73 @@ eleventyNavigation:
 
 Orbit Pre-release Press Kit
 
-## App Icon
-
-<div class="img-container-50">
-  {% image "orbit-icon-light.png", "App Icon", "40em" %}
-  {% image "orbit-icon-dark2.png", "App Icon", "40em" %}
-</div>
-
-
-Download uncropped icons:
-- <a href="/img/orbit-icon-light.png" download>Light mode</a>
-- <a href="/img/orbit-icon-dark.png" download>Dark mode (background)</a>
-- <a href="/img/orbit-icon-dark2.png" download>Dark mode (transparent)</a>
+Questions or comments? Get in touch: <a href="mailto:orbit@robowen.io">orbit@robowen.io</a>
 
 ## Description
 
-Orbit is an upcoming iOS 18 app for planning your day. Prioritize, refine, and complete key tasks without the overhead of managing endless task lists. Orbit keeps you focused with a clear UI, deep system integrations, a daily review flow, and helpful friction.
+Orbit helps you plan your day and stay focused on what matters. Prioritise, review, and get things done without endless task lists. Orbit keeps you focused with a clear UI, deep system integrations, a daily review flow, and helpful friction.
 
-Orbit is designed to stand out from GTD-inspired task management apps. Instead of bringing workplace-inspired project management into your personal life, Orbit encourages you to focus on what's important to you, checking in daily to keep yourself on track and tackling one thing at a time.
+## Key Features
 
-You can use Orbit as a standalone daily prioritization app or integrate it with your existing task management workflow. Orbit supports rich App Intents, Interactive Widgets, and new iOS 18 Controls. You can add anything you like, and organise tasks into Contexts for specific areas of you life, priortizing independently within each Context. Orbit supports arbitrary markdown notes.
+- Capture tasks in all areas of your life, and use contexts to organise them at scale.
+- Prioritise tasks and maintain focus using simple in-app tools.
+- Track and complete your current tasks via Control Center, Live Activities, and Interactive Widgets.
+- Add rich notes to tasks with Markdown support.
+- Automate most things with Shortcuts.
+- Access data with Siri and Spotlight using rich semantic search (Apple Intelligence).
+- Customise your experience with icons and colours.
+- Seamlessly sync data between all your devices using iCloud.
 
-## Pricing
+## Platform Support
 
-TBC.
+Version 1.0 is designed for iPhone. I plan to add dedicated Watch, iPad, and visionOS support in future updates, provided there's customer interest.
+
+## Feature Comparison
+
+| Feature                                                  | Free      | Premium   |
+| -------------------------------------------------------- | --------- | --------- |
+| Number of Tasks                                          | Unlimited | Unlimited |
+| Number of Contexts                                       | 1         | Unlimited |
+| iCloud Sync                                              | ✅        | ✅        |
+| Interactive Widgets                                      | ✅        | ✅        |
+| Control Center                                           | ✅        | ✅        |
+| Live Activities                                          | ✅        | ✅        |
+| Shortcuts Actions                                        | ✅        | ✅        |
+| Historic Data                                            |           | ✅        |
+| UI Customisation (e.g. symbols & colours)                |           | ✅        |
+| Process Customisation (e.g. WIP limits & review disable) |           | ✅        |
+
+
+> Note: Further content can be found on the [main Orbit page](https://robowen.io/apps/orbit/)
+
+## App Icon
+
+### iOS
+<div class="img-container-33">
+  {% fullResImage "orbit-icon-light.png", "App Icon - Light Mode" %}
+  {% fullResImage "orbit-icon-dark2.png", "App Icon - Dark Mode" %}
+  {% fullResImage "orbit-icon-dark.png", "App Icon - Dark Mode without Background" %}
+</div>
+
+<div class="img-container-50">
+  {% fullResImage "orbit-icon-light-crop.png", "App Icon - Light mode cropped" %}
+  {% fullResImage "orbit-icon-dark-crop.png", "App Icon - Dark mode cropped" %}
+</div>
 
 ## Screenshots
 
+### iOS
+
+<div class="img-container-33">
+  {% fullResImage "orbit-screen-main-light.png", "Orbit Screenshot - the main view in light mode" %}
+  {% fullResImage "orbit-screen-main-dark.png", "Orbit Screenshot - the main view in dark mode" %}
+  {% fullResImage "orbit-screen-review-light.png", "Orbit Screenshot - the review view" %}
+</div>
+
+## Hero Images
+
 TODO.
+
+## About the Developer
+
+See [about](https://robowen.io/about/).
