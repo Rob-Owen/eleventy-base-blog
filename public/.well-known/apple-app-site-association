@@ -2,18 +2,24 @@
   "applinks": {
       "details": [
            {
-             "appIDs": ["2FQW47U53P.io.robowen.Cera", "2FQW47U53P.io.robowen.Cera.CeraWidgets"],
+             "appID": "2FQW47U53P.io.robowen.Cera",
              "components": [
                {
-                  "/": "/apps/orbit/data/in-app",
-                  "comment": "Path for all Orbit in-app view links."
+                  "/": "/apps/orbit/data/in-app"
                },
                {
-                "/": "/apps/orbit/contact",
-                 "comment": "Path for orbit contact details."
+                "/": "/apps/orbit/contact"
                }
              ]
-           }
+           },
+           {
+            "appID": "2FQW47U53P.io.robowen.Cera.CeraWidgets",
+            "components": [
+              {
+                 "/": "/apps/orbit/data/in-app"
+              }
+            ]
+          }
        ]
    }
 }
