@@ -8,6 +8,8 @@ eleventyNavigation:
 
 Orbit Pre-release Press Kit
 
+> **⚠️ Content may change before App Store release, and may not be up to date with the latest TestFlight build. Press kit will be finalised and correct at time of iOS 18 launch.**
+
 Questions or comments? Get in touch: <a href="mailto:orbit@robowen.io">orbit@robowen.io</a>
 
 ## Description
