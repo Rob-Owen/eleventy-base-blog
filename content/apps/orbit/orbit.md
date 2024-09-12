@@ -15,6 +15,8 @@ eleventyNavigation:
 
 Orbit is an upcoming iOS 18 app for daily priorities. Prioritise, refine, and make progress on what's important to you without managing endless task lists. Orbit keeps you focused with a clean UI, deep system integrations and an interactive daily review flow.
 
+Orbit launches 16th September 2024.
+
 <div class="img-container">
   {% image "./orbit-demo.png", "Orbit screenshots showing prioritised daily task lists for personal growth and exercise, and a preview of the app's daily review screen.", "80em" %}
 </div>
@@ -23,9 +25,9 @@ Orbit is due to launch with iOS 18 in September 2024. If you're running an iOS B
 
 ## The Orbit Philosphy
 
-Mainstream task management apps encourage you to capture all actions, assign due dates and schedule workloads against planned personal capacity. This is great in a workplace, however intense GTD-style timeboxing is a poor fit for our personal lives where deep goals should fit flexibly around regular employment, school, health, family and/or everything else in our lives. Live is complicated and unpredictable, and I find it demoralising to see a list of menial chores with overdue dates against them.
+Mainstream task management apps encourage you to capture all actions, assign due dates and schedule workloads against planned personal capacity. This is great in a workplace, however I find intense GTD-style timeboxing is a poor fit for our personal lives where deep goals should fit flexibly around regular employment, school, health, family and/or everything else. Live is complicated and unpredictable, and I find it demoralising to see a list of menial chores with overdue dates against them.
 
-Orbit is a tool for managing personal, non-urgent productivity. Inspired by proven pen-and-paper methods, Orbit's core features revolve around **prioritisation** and **daily review**.
+Orbit is a tool for managing personal, non-urgent productivity. Orbit's core features revolve around **prioritisation** and **daily review**.
 
 ### Prioritisation
 
