@@ -16,6 +16,8 @@ eleventyNavigation:
 
 A native Octopus Energy app for iOS, iPadOS, watchOS and macOS.
 
+<a class="apple-cta" href="https://apps.apple.com/gb/app/octoscope-electricity-gas/id6447790899?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/white/en-us?size=250x83&amp;releaseDate=1690416000" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+
 <div class="img-container">
   {% image "./octoscope-web-banner.png", "Octoscope App Screenshots", "40em" %}
 </div>
@@ -24,4 +26,3 @@ Octoscope brings your electricity use to life with simple and powerful tools to 
 
 For Octopus Energy UK customers.
 
-<a href="https://apps.apple.com/gb/app/octoscope-electricity-gas/id6447790899?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/white/en-us?size=250x83&amp;releaseDate=1690416000" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>

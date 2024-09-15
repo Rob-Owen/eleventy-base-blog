@@ -14,7 +14,9 @@ eleventyNavigation:
   title: HomeKit Controls for VisionOS
 ---
 
-HomeUI is a Vision Pro app for Apple Home.
+HomeUI is a a rich HomeKit app for Apple Vision Pro.
+
+<a class="apple-cta" href="https://apps.apple.com/app/homeui/id6477536116" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/white/en-us?size=250x83&amp;releaseDate=1690416000" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
 <div class="img-container">
   {% image "./homeui-controls.png", "A screenshot of HomeUI running on visionOS showing HomeKit Camera feeds and 2D and 3D controls", "40em" %}
@@ -26,5 +28,3 @@ HomeUI brings live HomeKit camera feeds to your Apple Vision Pro. Set up interac
 <div class="img-container">
   {% image "./homeui-main-window.png", "A screenshot of HomeUI running on visionOS showing the main configuration window and several controls", "40em" %}
 </div>
-
-<a href="https://apps.apple.com/app/homeui/id6477536116" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/white/en-us?size=250x83&amp;releaseDate=1690416000" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
