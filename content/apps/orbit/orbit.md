@@ -2,9 +2,6 @@
 layout: "layouts/app.njk"
 title: Orbit
 description: Distraction-free daily prioritization.
-tags: 
-  - Apps
-  - iOS
 appleAppId: 6503322144
 eleventyNavigation:
   parent: Apps

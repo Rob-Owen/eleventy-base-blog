@@ -9,15 +9,24 @@
                },
                {
                 "/": "/apps/orbit/contact"
-               }
-             ]
+               },
+               {
+                "/": "/apps/stylus/data/in-app"
+              },
+              {
+                "/": "/apps/stylus/contact"
+              }
+              ]
            },
            {
             "appID": "2FQW47U53P.io.robowen.Cera.CeraWidgets",
             "components": [
               {
                  "/": "/apps/orbit/data/in-app"
-              }
+              },
+              {
+                "/": "/apps/stylus/data/in-app"
+             }
             ]
           }
        ]

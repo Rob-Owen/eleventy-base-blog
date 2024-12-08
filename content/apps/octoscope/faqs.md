@@ -28,7 +28,7 @@ Yes. Note that gas pricing and carbon emissions are estimates based on typical c
 
 ## Does Octoscope support my tariff?
 
-Yes, with a caveat.
+Yes.
 
 Octoscope automatically identifies and retrieves pricing data for all current and historic tariffs. This includes fixed tariffs, as well as smart electricity tariffs (e.g. Octopus Go, Tracker and Agile).
 
