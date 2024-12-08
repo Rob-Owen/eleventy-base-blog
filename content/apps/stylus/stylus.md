@@ -2,10 +2,10 @@
 layout: "layouts/app.njk"
 title: Stylus
 description: Distraction-free daily prioritization.
+appleAppId: 6503322144
 tags: 
   - Apps
   - iOS
-appleAppId: 6503322144
 eleventyNavigation:
   parent: Apps
   key: Stylus
