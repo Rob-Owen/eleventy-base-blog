@@ -28,6 +28,38 @@
                 "/": "/apps/stylus/data/in-app"
              }
             ]
+          },
+          {
+            "appID": "2FQW47U53P.rocks.robecca.energy",
+            "components": [
+              {
+                "/": "/apps/octoscope/auth"
+              }
+            ]
+          },
+          {
+            "appID": "2FQW47U53P.rocks.robecca.energy.energyWidgets",
+            "components": [
+              {
+                "/": "/apps/octoscope/auth"
+              }
+            ]
+          },
+          {
+            "appID": "2FQW47U53P.rocks.robecca.energy.watchkitapp",
+            "components": [
+              {
+                "/": "/apps/octoscope/auth"
+              }
+            ]
+          },
+          {
+            "appID": "2FQW47U53P.rocks.robecca.energy.watchkitapp.energyWidgets",
+            "components": [
+              {
+                "/": "/apps/octoscope/auth"
+              }
+            ]
           }
        ]
    }
