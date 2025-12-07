@@ -1,0 +1,2006 @@
+{
+  "version": 1,
+  "generatedAt": "2025-12-07T00:00:00Z",
+  "binoculars": [
+    {
+      "id": "nikon-aculon-7x35",
+      "name": "Aculon A211 7x35",
+      "manufacturer": "Nikon",
+      "aperture": 35,
+      "magnification": 7,
+      "fieldOfView": 9.3
+    },
+    {
+      "id": "nikon-aculon-7x50",
+      "name": "Aculon A211 7x50",
+      "manufacturer": "Nikon",
+      "aperture": 50,
+      "magnification": 7,
+      "fieldOfView": 6.4
+    },
+    {
+      "id": "nikon-aculon-10x42",
+      "name": "Aculon A211 10x42",
+      "manufacturer": "Nikon",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 5.6
+    },
+    {
+      "id": "nikon-aculon-10x50",
+      "name": "Aculon A211 10x50",
+      "manufacturer": "Nikon",
+      "aperture": 50,
+      "magnification": 10,
+      "fieldOfView": 6.5
+    },
+    {
+      "id": "nikon-aculon-12x50",
+      "name": "Aculon A211 12x50",
+      "manufacturer": "Nikon",
+      "aperture": 50,
+      "magnification": 12,
+      "fieldOfView": 5.2
+    },
+    {
+      "id": "nikon-aculon-16x50",
+      "name": "Aculon A211 16x50",
+      "manufacturer": "Nikon",
+      "aperture": 50,
+      "magnification": 16,
+      "fieldOfView": 4.2
+    },
+    {
+      "id": "nikon-action-ex-7x35",
+      "name": "Action Extreme 7x35",
+      "manufacturer": "Nikon",
+      "aperture": 35,
+      "magnification": 7,
+      "fieldOfView": 9.3
+    },
+    {
+      "id": "nikon-action-ex-7x50",
+      "name": "Action Extreme 7x50",
+      "manufacturer": "Nikon",
+      "aperture": 50,
+      "magnification": 7,
+      "fieldOfView": 6.8
+    },
+    {
+      "id": "nikon-action-ex-8x40",
+      "name": "Action Extreme 8x40",
+      "manufacturer": "Nikon",
+      "aperture": 40,
+      "magnification": 8,
+      "fieldOfView": 8.2
+    },
+    {
+      "id": "nikon-action-ex-10x50",
+      "name": "Action Extreme 10x50",
+      "manufacturer": "Nikon",
+      "aperture": 50,
+      "magnification": 10,
+      "fieldOfView": 6.5
+    },
+    {
+      "id": "nikon-action-ex-12x50",
+      "name": "Action Extreme 12x50",
+      "manufacturer": "Nikon",
+      "aperture": 50,
+      "magnification": 12,
+      "fieldOfView": 5.5
+    },
+    {
+      "id": "nikon-action-ex-16x50",
+      "name": "Action Extreme 16x50",
+      "manufacturer": "Nikon",
+      "aperture": 50,
+      "magnification": 16,
+      "fieldOfView": 4.2
+    },
+    {
+      "id": "nikon-prostaff-3s-8x42",
+      "name": "Prostaff 3S 8x42",
+      "manufacturer": "Nikon",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 8.0
+    },
+    {
+      "id": "nikon-prostaff-3s-10x42",
+      "name": "Prostaff 3S 10x42",
+      "manufacturer": "Nikon",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.1
+    },
+    {
+      "id": "nikon-prostaff-5-8x42",
+      "name": "Prostaff 5 8x42",
+      "manufacturer": "Nikon",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 7.1
+    },
+    {
+      "id": "nikon-prostaff-5-10x42",
+      "name": "Prostaff 5 10x42",
+      "manufacturer": "Nikon",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.0
+    },
+    {
+      "id": "nikon-prostaff-5-10x50",
+      "name": "Prostaff 5 10x50",
+      "manufacturer": "Nikon",
+      "aperture": 50,
+      "magnification": 10,
+      "fieldOfView": 5.8
+    },
+    {
+      "id": "nikon-prostaff-5-12x50",
+      "name": "Prostaff 5 12x50",
+      "manufacturer": "Nikon",
+      "aperture": 50,
+      "magnification": 12,
+      "fieldOfView": 5.0
+    },
+    {
+      "id": "nikon-prostaff-7s-8x30",
+      "name": "Prostaff 7S 8x30",
+      "manufacturer": "Nikon",
+      "aperture": 30,
+      "magnification": 8,
+      "fieldOfView": 8.1
+    },
+    {
+      "id": "nikon-prostaff-7s-8x42",
+      "name": "Prostaff 7S 8x42",
+      "manufacturer": "Nikon",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 8.0
+    },
+    {
+      "id": "nikon-prostaff-7s-10x30",
+      "name": "Prostaff 7S 10x30",
+      "manufacturer": "Nikon",
+      "aperture": 30,
+      "magnification": 10,
+      "fieldOfView": 6.2
+    },
+    {
+      "id": "nikon-prostaff-7s-10x42",
+      "name": "Prostaff 7S 10x42",
+      "manufacturer": "Nikon",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.2
+    },
+    {
+      "id": "nikon-monarch-5-8x42",
+      "name": "Monarch 5 8x42",
+      "manufacturer": "Nikon",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 7.5
+    },
+    {
+      "id": "nikon-monarch-5-10x42",
+      "name": "Monarch 5 10x42",
+      "manufacturer": "Nikon",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.2
+    },
+    {
+      "id": "nikon-monarch-5-12x42",
+      "name": "Monarch 5 12x42",
+      "manufacturer": "Nikon",
+      "aperture": 42,
+      "magnification": 12,
+      "fieldOfView": 5.0
+    },
+    {
+      "id": "nikon-monarch-5-16x56",
+      "name": "Monarch 5 16x56",
+      "manufacturer": "Nikon",
+      "aperture": 56,
+      "magnification": 16,
+      "fieldOfView": 4.4
+    },
+    {
+      "id": "nikon-monarch-5-20x56",
+      "name": "Monarch 5 20x56",
+      "manufacturer": "Nikon",
+      "aperture": 56,
+      "magnification": 20,
+      "fieldOfView": 3.6
+    },
+    {
+      "id": "nikon-monarch-7-8x30",
+      "name": "Monarch 7 8x30",
+      "manufacturer": "Nikon",
+      "aperture": 30,
+      "magnification": 8,
+      "fieldOfView": 8.3
+    },
+    {
+      "id": "nikon-monarch-7-8x42",
+      "name": "Monarch 7 8x42",
+      "manufacturer": "Nikon",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 8.0
+    },
+    {
+      "id": "nikon-monarch-7-10x30",
+      "name": "Monarch 7 10x30",
+      "manufacturer": "Nikon",
+      "aperture": 30,
+      "magnification": 10,
+      "fieldOfView": 6.7
+    },
+    {
+      "id": "nikon-monarch-7-10x42",
+      "name": "Monarch 7 10x42",
+      "manufacturer": "Nikon",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.7
+    },
+    {
+      "id": "nikon-monarch-hg-8x42",
+      "name": "Monarch HG 8x42",
+      "manufacturer": "Nikon",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 8.3
+    },
+    {
+      "id": "nikon-monarch-hg-10x42",
+      "name": "Monarch HG 10x42",
+      "manufacturer": "Nikon",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.9
+    },
+    {
+      "id": "canon-8x25-is",
+      "name": "8x25 IS",
+      "manufacturer": "Canon",
+      "aperture": 25,
+      "magnification": 8,
+      "fieldOfView": 6.6
+    },
+    {
+      "id": "canon-10x30-is-ii",
+      "name": "10x30 IS II",
+      "manufacturer": "Canon",
+      "aperture": 30,
+      "magnification": 10,
+      "fieldOfView": 6.0
+    },
+    {
+      "id": "canon-10x42-l-is-wp",
+      "name": "10x42 L IS WP",
+      "manufacturer": "Canon",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.5
+    },
+    {
+      "id": "canon-12x32-is",
+      "name": "12x32 IS",
+      "manufacturer": "Canon",
+      "aperture": 32,
+      "magnification": 12,
+      "fieldOfView": 5.0
+    },
+    {
+      "id": "canon-12x36-is-iii",
+      "name": "12x36 IS III",
+      "manufacturer": "Canon",
+      "aperture": 36,
+      "magnification": 12,
+      "fieldOfView": 5.0
+    },
+    {
+      "id": "canon-14x32-is",
+      "name": "14x32 IS",
+      "manufacturer": "Canon",
+      "aperture": 32,
+      "magnification": 14,
+      "fieldOfView": 4.5
+    },
+    {
+      "id": "canon-15x50-is-aw",
+      "name": "15x50 IS All Weather",
+      "manufacturer": "Canon",
+      "aperture": 50,
+      "magnification": 15,
+      "fieldOfView": 4.5
+    },
+    {
+      "id": "canon-18x50-is-aw",
+      "name": "18x50 IS All Weather",
+      "manufacturer": "Canon",
+      "aperture": 50,
+      "magnification": 18,
+      "fieldOfView": 3.7
+    },
+    {
+      "id": "fujinon-fmtr-sx-7x50",
+      "name": "FMTR-SX 7x50",
+      "manufacturer": "Fujinon",
+      "aperture": 50,
+      "magnification": 7,
+      "fieldOfView": 7.5
+    },
+    {
+      "id": "fujinon-fmt-sx-10x50",
+      "name": "FMT-SX 10x50",
+      "manufacturer": "Fujinon",
+      "aperture": 50,
+      "magnification": 10,
+      "fieldOfView": 6.5
+    },
+    {
+      "id": "fujinon-fmt-sx-16x70",
+      "name": "FMT-SX 16x70",
+      "manufacturer": "Fujinon",
+      "aperture": 70,
+      "magnification": 16,
+      "fieldOfView": 4.2
+    },
+    {
+      "id": "fujinon-techno-stabi-12x28",
+      "name": "Techno-Stabi 12x28",
+      "manufacturer": "Fujinon",
+      "aperture": 28,
+      "magnification": 12,
+      "fieldOfView": 4.8
+    },
+    {
+      "id": "fujinon-techno-stabi-14x40",
+      "name": "Techno-Stabi 14x40",
+      "manufacturer": "Fujinon",
+      "aperture": 40,
+      "magnification": 14,
+      "fieldOfView": 4.0
+    },
+    {
+      "id": "fujinon-techno-stabi-16x28",
+      "name": "Techno-Stabi 16x28",
+      "manufacturer": "Fujinon",
+      "aperture": 28,
+      "magnification": 16,
+      "fieldOfView": 4.0
+    },
+    {
+      "id": "fujinon-kf-8x42",
+      "name": "KF 8x42",
+      "manufacturer": "Fujinon",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 8.0
+    },
+    {
+      "id": "fujinon-kf-10x42",
+      "name": "KF 10x42",
+      "manufacturer": "Fujinon",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.5
+    },
+    {
+      "id": "fujinon-hyper-clarity-8x42",
+      "name": "Hyper-Clarity 8x42",
+      "manufacturer": "Fujinon",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 7.5
+    },
+    {
+      "id": "fujinon-hyper-clarity-10x42",
+      "name": "Hyper-Clarity 10x42",
+      "manufacturer": "Fujinon",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.3
+    },
+    {
+      "id": "fujinon-polaris-fmtr-sx-10x70",
+      "name": "Polaris FMTR-SX 10x70",
+      "manufacturer": "Fujinon",
+      "aperture": 70,
+      "magnification": 10,
+      "fieldOfView": 5.2
+    },
+    {
+      "id": "fujinon-mt-sx-10x50",
+      "name": "MT-SX 10x50",
+      "manufacturer": "Fujinon",
+      "aperture": 50,
+      "magnification": 10,
+      "fieldOfView": 6.0
+    },
+    {
+      "id": "fujinon-25x150-em-sx",
+      "name": "25x150 EM-SX",
+      "manufacturer": "Fujinon",
+      "aperture": 150,
+      "magnification": 25,
+      "fieldOfView": 2.6
+    },
+    {
+      "id": "fujinon-40x150-em-sx",
+      "name": "40x150 EM-SX",
+      "manufacturer": "Fujinon",
+      "aperture": 150,
+      "magnification": 40,
+      "fieldOfView": 1.8
+    },
+    {
+      "id": "zeiss-conquest-hd-8x32",
+      "name": "Conquest HD 8x32",
+      "manufacturer": "Zeiss",
+      "aperture": 32,
+      "magnification": 8,
+      "fieldOfView": 8.0
+    },
+    {
+      "id": "zeiss-conquest-hd-8x42",
+      "name": "Conquest HD 8x42",
+      "manufacturer": "Zeiss",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 7.4
+    },
+    {
+      "id": "zeiss-conquest-hd-8x56",
+      "name": "Conquest HD 8x56",
+      "manufacturer": "Zeiss",
+      "aperture": 56,
+      "magnification": 8,
+      "fieldOfView": 7.0
+    },
+    {
+      "id": "zeiss-conquest-hd-10x32",
+      "name": "Conquest HD 10x32",
+      "manufacturer": "Zeiss",
+      "aperture": 32,
+      "magnification": 10,
+      "fieldOfView": 6.3
+    },
+    {
+      "id": "zeiss-conquest-hd-10x42",
+      "name": "Conquest HD 10x42",
+      "manufacturer": "Zeiss",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.3
+    },
+    {
+      "id": "zeiss-conquest-hd-10x56",
+      "name": "Conquest HD 10x56",
+      "manufacturer": "Zeiss",
+      "aperture": 56,
+      "magnification": 10,
+      "fieldOfView": 6.1
+    },
+    {
+      "id": "zeiss-conquest-hd-15x56",
+      "name": "Conquest HD 15x56",
+      "manufacturer": "Zeiss",
+      "aperture": 56,
+      "magnification": 15,
+      "fieldOfView": 4.4
+    },
+    {
+      "id": "zeiss-terra-ed-8x32",
+      "name": "Terra ED 8x32",
+      "manufacturer": "Zeiss",
+      "aperture": 32,
+      "magnification": 8,
+      "fieldOfView": 7.5
+    },
+    {
+      "id": "zeiss-terra-ed-8x42",
+      "name": "Terra ED 8x42",
+      "manufacturer": "Zeiss",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 7.1
+    },
+    {
+      "id": "zeiss-terra-ed-10x32",
+      "name": "Terra ED 10x32",
+      "manufacturer": "Zeiss",
+      "aperture": 32,
+      "magnification": 10,
+      "fieldOfView": 6.0
+    },
+    {
+      "id": "zeiss-terra-ed-10x42",
+      "name": "Terra ED 10x42",
+      "manufacturer": "Zeiss",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.3
+    },
+    {
+      "id": "zeiss-sf-8x32",
+      "name": "SF 8x32",
+      "manufacturer": "Zeiss",
+      "aperture": 32,
+      "magnification": 8,
+      "fieldOfView": 8.7
+    },
+    {
+      "id": "zeiss-sf-8x42",
+      "name": "SF 8x42",
+      "manufacturer": "Zeiss",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 8.3
+    },
+    {
+      "id": "zeiss-sf-10x32",
+      "name": "SF 10x32",
+      "manufacturer": "Zeiss",
+      "aperture": 32,
+      "magnification": 10,
+      "fieldOfView": 6.9
+    },
+    {
+      "id": "zeiss-sf-10x42",
+      "name": "SF 10x42",
+      "manufacturer": "Zeiss",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 7.0
+    },
+    {
+      "id": "zeiss-victory-ht-8x42",
+      "name": "Victory HT 8x42",
+      "manufacturer": "Zeiss",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 7.4
+    },
+    {
+      "id": "zeiss-victory-ht-8x54",
+      "name": "Victory HT 8x54",
+      "manufacturer": "Zeiss",
+      "aperture": 54,
+      "magnification": 8,
+      "fieldOfView": 7.3
+    },
+    {
+      "id": "zeiss-victory-ht-10x42",
+      "name": "Victory HT 10x42",
+      "manufacturer": "Zeiss",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.5
+    },
+    {
+      "id": "zeiss-victory-ht-10x54",
+      "name": "Victory HT 10x54",
+      "manufacturer": "Zeiss",
+      "aperture": 54,
+      "magnification": 10,
+      "fieldOfView": 6.5
+    },
+    {
+      "id": "zeiss-20x60-s",
+      "name": "20x60 S",
+      "manufacturer": "Zeiss",
+      "aperture": 60,
+      "magnification": 20,
+      "fieldOfView": 3.0
+    },
+    {
+      "id": "swarovski-cl-companion-8x30",
+      "name": "CL Companion 8x30",
+      "manufacturer": "Swarovski",
+      "aperture": 30,
+      "magnification": 8,
+      "fieldOfView": 7.4
+    },
+    {
+      "id": "swarovski-cl-companion-10x30",
+      "name": "CL Companion 10x30",
+      "manufacturer": "Swarovski",
+      "aperture": 30,
+      "magnification": 10,
+      "fieldOfView": 6.2
+    },
+    {
+      "id": "swarovski-cl-pocket-8x25",
+      "name": "CL Pocket 8x25",
+      "manufacturer": "Swarovski",
+      "aperture": 25,
+      "magnification": 8,
+      "fieldOfView": 6.8
+    },
+    {
+      "id": "swarovski-cl-pocket-10x25",
+      "name": "CL Pocket 10x25",
+      "manufacturer": "Swarovski",
+      "aperture": 25,
+      "magnification": 10,
+      "fieldOfView": 5.7
+    },
+    {
+      "id": "swarovski-el-8x32",
+      "name": "EL 8x32",
+      "manufacturer": "Swarovski",
+      "aperture": 32,
+      "magnification": 8,
+      "fieldOfView": 8.2
+    },
+    {
+      "id": "swarovski-el-8.5x42",
+      "name": "EL 8.5x42",
+      "manufacturer": "Swarovski",
+      "aperture": 42,
+      "magnification": 8.5,
+      "fieldOfView": 7.6
+    },
+    {
+      "id": "swarovski-el-10x32",
+      "name": "EL 10x32",
+      "manufacturer": "Swarovski",
+      "aperture": 32,
+      "magnification": 10,
+      "fieldOfView": 6.6
+    },
+    {
+      "id": "swarovski-el-10x42",
+      "name": "EL 10x42",
+      "manufacturer": "Swarovski",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.4
+    },
+    {
+      "id": "swarovski-el-10x50",
+      "name": "EL 10x50",
+      "manufacturer": "Swarovski",
+      "aperture": 50,
+      "magnification": 10,
+      "fieldOfView": 6.3
+    },
+    {
+      "id": "swarovski-el-12x50",
+      "name": "EL 12x50",
+      "manufacturer": "Swarovski",
+      "aperture": 50,
+      "magnification": 12,
+      "fieldOfView": 5.5
+    },
+    {
+      "id": "swarovski-nlp-8x32",
+      "name": "NL Pure 8x32",
+      "manufacturer": "Swarovski",
+      "aperture": 32,
+      "magnification": 8,
+      "fieldOfView": 9.1
+    },
+    {
+      "id": "swarovski-nlp-10x32",
+      "name": "NL Pure 10x32",
+      "manufacturer": "Swarovski",
+      "aperture": 32,
+      "magnification": 10,
+      "fieldOfView": 7.3
+    },
+    {
+      "id": "swarovski-nlp-8x42",
+      "name": "NL Pure 8x42",
+      "manufacturer": "Swarovski",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 9.1
+    },
+    {
+      "id": "swarovski-nlp-10x42",
+      "name": "NL Pure 10x42",
+      "manufacturer": "Swarovski",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 7.3
+    },
+    {
+      "id": "swarovski-nlp-12x42",
+      "name": "NL Pure 12x42",
+      "manufacturer": "Swarovski",
+      "aperture": 42,
+      "magnification": 12,
+      "fieldOfView": 6.2
+    },
+    {
+      "id": "swarovski-slc-8x42",
+      "name": "SLC 8x42",
+      "manufacturer": "Swarovski",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 7.4
+    },
+    {
+      "id": "swarovski-slc-10x42",
+      "name": "SLC 10x42",
+      "manufacturer": "Swarovski",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.0
+    },
+    {
+      "id": "swarovski-slc-8x56",
+      "name": "SLC 8x56",
+      "manufacturer": "Swarovski",
+      "aperture": 56,
+      "magnification": 8,
+      "fieldOfView": 7.2
+    },
+    {
+      "id": "swarovski-slc-10x56",
+      "name": "SLC 10x56",
+      "manufacturer": "Swarovski",
+      "aperture": 56,
+      "magnification": 10,
+      "fieldOfView": 6.4
+    },
+    {
+      "id": "swarovski-slc-15x56",
+      "name": "SLC 15x56",
+      "manufacturer": "Swarovski",
+      "aperture": 56,
+      "magnification": 15,
+      "fieldOfView": 4.5
+    },
+    {
+      "id": "leica-trinovid-8x32-hd",
+      "name": "Trinovid 8x32 HD",
+      "manufacturer": "Leica",
+      "aperture": 32,
+      "magnification": 8,
+      "fieldOfView": 7.6
+    },
+    {
+      "id": "leica-trinovid-8x42-hd",
+      "name": "Trinovid 8x42 HD",
+      "manufacturer": "Leica",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 7.1
+    },
+    {
+      "id": "leica-trinovid-10x32-hd",
+      "name": "Trinovid 10x32 HD",
+      "manufacturer": "Leica",
+      "aperture": 32,
+      "magnification": 10,
+      "fieldOfView": 6.1
+    },
+    {
+      "id": "leica-trinovid-10x42-hd",
+      "name": "Trinovid 10x42 HD",
+      "manufacturer": "Leica",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.2
+    },
+    {
+      "id": "leica-ultravid-8x32-hd-plus",
+      "name": "Ultravid 8x32 HD-Plus",
+      "manufacturer": "Leica",
+      "aperture": 32,
+      "magnification": 8,
+      "fieldOfView": 7.6
+    },
+    {
+      "id": "leica-ultravid-8x42-hd-plus",
+      "name": "Ultravid 8x42 HD-Plus",
+      "manufacturer": "Leica",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 7.3
+    },
+    {
+      "id": "leica-ultravid-8x50-hd-plus",
+      "name": "Ultravid 8x50 HD-Plus",
+      "manufacturer": "Leica",
+      "aperture": 50,
+      "magnification": 8,
+      "fieldOfView": 7.0
+    },
+    {
+      "id": "leica-ultravid-10x32-hd-plus",
+      "name": "Ultravid 10x32 HD-Plus",
+      "manufacturer": "Leica",
+      "aperture": 32,
+      "magnification": 10,
+      "fieldOfView": 6.0
+    },
+    {
+      "id": "leica-ultravid-10x42-hd-plus",
+      "name": "Ultravid 10x42 HD-Plus",
+      "manufacturer": "Leica",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.4
+    },
+    {
+      "id": "leica-ultravid-10x50-hd-plus",
+      "name": "Ultravid 10x50 HD-Plus",
+      "manufacturer": "Leica",
+      "aperture": 50,
+      "magnification": 10,
+      "fieldOfView": 6.2
+    },
+    {
+      "id": "leica-ultravid-12x50-hd-plus",
+      "name": "Ultravid 12x50 HD-Plus",
+      "manufacturer": "Leica",
+      "aperture": 50,
+      "magnification": 12,
+      "fieldOfView": 5.3
+    },
+    {
+      "id": "leica-noctivid-8x42",
+      "name": "Noctivid 8x42",
+      "manufacturer": "Leica",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 7.6
+    },
+    {
+      "id": "leica-noctivid-10x42",
+      "name": "Noctivid 10x42",
+      "manufacturer": "Leica",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.6
+    },
+    {
+      "id": "leica-geovid-pro-8x32",
+      "name": "Geovid Pro 8x32",
+      "manufacturer": "Leica",
+      "aperture": 32,
+      "magnification": 8,
+      "fieldOfView": 7.5
+    },
+    {
+      "id": "leica-geovid-pro-8x42",
+      "name": "Geovid Pro 8x42",
+      "manufacturer": "Leica",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 7.1
+    },
+    {
+      "id": "leica-geovid-pro-10x32",
+      "name": "Geovid Pro 10x32",
+      "manufacturer": "Leica",
+      "aperture": 32,
+      "magnification": 10,
+      "fieldOfView": 6.0
+    },
+    {
+      "id": "leica-geovid-pro-10x42",
+      "name": "Geovid Pro 10x42",
+      "manufacturer": "Leica",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.2
+    },
+    {
+      "id": "celestron-cometron-7x50",
+      "name": "Cometron 7x50",
+      "manufacturer": "Celestron",
+      "aperture": 50,
+      "magnification": 7,
+      "fieldOfView": 6.8
+    },
+    {
+      "id": "celestron-cometron-12x70",
+      "name": "Cometron 12x70",
+      "manufacturer": "Celestron",
+      "aperture": 70,
+      "magnification": 12,
+      "fieldOfView": 4.7
+    },
+    {
+      "id": "celestron-upclose-g2-7x35",
+      "name": "UpClose G2 7x35",
+      "manufacturer": "Celestron",
+      "aperture": 35,
+      "magnification": 7,
+      "fieldOfView": 9.0
+    },
+    {
+      "id": "celestron-upclose-g2-10x50",
+      "name": "UpClose G2 10x50",
+      "manufacturer": "Celestron",
+      "aperture": 50,
+      "magnification": 10,
+      "fieldOfView": 6.5
+    },
+    {
+      "id": "celestron-upclose-g2-20x50",
+      "name": "UpClose G2 20x50",
+      "manufacturer": "Celestron",
+      "aperture": 50,
+      "magnification": 20,
+      "fieldOfView": 3.2
+    },
+    {
+      "id": "celestron-nature-dx-8x32",
+      "name": "Nature DX 8x32",
+      "manufacturer": "Celestron",
+      "aperture": 32,
+      "magnification": 8,
+      "fieldOfView": 6.5
+    },
+    {
+      "id": "celestron-nature-dx-8x42",
+      "name": "Nature DX 8x42",
+      "manufacturer": "Celestron",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 6.5
+    },
+    {
+      "id": "celestron-nature-dx-10x42",
+      "name": "Nature DX 10x42",
+      "manufacturer": "Celestron",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 5.7
+    },
+    {
+      "id": "celestron-nature-dx-10x50",
+      "name": "Nature DX 10x50",
+      "manufacturer": "Celestron",
+      "aperture": 50,
+      "magnification": 10,
+      "fieldOfView": 5.6
+    },
+    {
+      "id": "celestron-nature-dx-12x56",
+      "name": "Nature DX 12x56",
+      "manufacturer": "Celestron",
+      "aperture": 56,
+      "magnification": 12,
+      "fieldOfView": 4.7
+    },
+    {
+      "id": "celestron-trailseeker-8x32",
+      "name": "TrailSeeker ED 8x32",
+      "manufacturer": "Celestron",
+      "aperture": 32,
+      "magnification": 8,
+      "fieldOfView": 7.0
+    },
+    {
+      "id": "celestron-trailseeker-8x42",
+      "name": "TrailSeeker ED 8x42",
+      "manufacturer": "Celestron",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 7.0
+    },
+    {
+      "id": "celestron-trailseeker-10x32",
+      "name": "TrailSeeker ED 10x32",
+      "manufacturer": "Celestron",
+      "aperture": 32,
+      "magnification": 10,
+      "fieldOfView": 5.7
+    },
+    {
+      "id": "celestron-trailseeker-10x42",
+      "name": "TrailSeeker ED 10x42",
+      "manufacturer": "Celestron",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 5.7
+    },
+    {
+      "id": "celestron-skymaster-12x60",
+      "name": "SkyMaster 12x60",
+      "manufacturer": "Celestron",
+      "aperture": 60,
+      "magnification": 12,
+      "fieldOfView": 4.6
+    },
+    {
+      "id": "celestron-skymaster-15x70",
+      "name": "SkyMaster 15x70",
+      "manufacturer": "Celestron",
+      "aperture": 70,
+      "magnification": 15,
+      "fieldOfView": 4.4
+    },
+    {
+      "id": "celestron-skymaster-20x80",
+      "name": "SkyMaster 20x80",
+      "manufacturer": "Celestron",
+      "aperture": 80,
+      "magnification": 20,
+      "fieldOfView": 3.7
+    },
+    {
+      "id": "celestron-skymaster-25x70",
+      "name": "SkyMaster 25x70",
+      "manufacturer": "Celestron",
+      "aperture": 70,
+      "magnification": 25,
+      "fieldOfView": 2.8
+    },
+    {
+      "id": "celestron-skymaster-25x100",
+      "name": "SkyMaster 25x100",
+      "manufacturer": "Celestron",
+      "aperture": 100,
+      "magnification": 25,
+      "fieldOfView": 3.0
+    },
+    {
+      "id": "celestron-skymaster-pro-15x70",
+      "name": "SkyMaster Pro 15x70",
+      "manufacturer": "Celestron",
+      "aperture": 70,
+      "magnification": 15,
+      "fieldOfView": 4.4
+    },
+    {
+      "id": "celestron-skymaster-pro-20x80",
+      "name": "SkyMaster Pro 20x80",
+      "manufacturer": "Celestron",
+      "aperture": 80,
+      "magnification": 20,
+      "fieldOfView": 3.7
+    },
+    {
+      "id": "celestron-echelon-10x70",
+      "name": "Echelon 10x70",
+      "manufacturer": "Celestron",
+      "aperture": 70,
+      "magnification": 10,
+      "fieldOfView": 5.5
+    },
+    {
+      "id": "celestron-echelon-16x70",
+      "name": "Echelon 16x70",
+      "manufacturer": "Celestron",
+      "aperture": 70,
+      "magnification": 16,
+      "fieldOfView": 4.1
+    },
+    {
+      "id": "celestron-echelon-20x70",
+      "name": "Echelon 20x70",
+      "manufacturer": "Celestron",
+      "aperture": 70,
+      "magnification": 20,
+      "fieldOfView": 3.5
+    },
+    {
+      "id": "orion-scenix-7x50",
+      "name": "Scenix 7x50",
+      "manufacturer": "Orion",
+      "aperture": 50,
+      "magnification": 7,
+      "fieldOfView": 7.1
+    },
+    {
+      "id": "orion-scenix-10x50",
+      "name": "Scenix 10x50",
+      "manufacturer": "Orion",
+      "aperture": 50,
+      "magnification": 10,
+      "fieldOfView": 6.5
+    },
+    {
+      "id": "orion-ultraview-10x50",
+      "name": "UltraView 10x50",
+      "manufacturer": "Orion",
+      "aperture": 50,
+      "magnification": 10,
+      "fieldOfView": 5.0
+    },
+    {
+      "id": "orion-resolux-7x50",
+      "name": "Resolux 7x50",
+      "manufacturer": "Orion",
+      "aperture": 50,
+      "magnification": 7,
+      "fieldOfView": 6.4
+    },
+    {
+      "id": "orion-resolux-10x50",
+      "name": "Resolux 10x50",
+      "manufacturer": "Orion",
+      "aperture": 50,
+      "magnification": 10,
+      "fieldOfView": 6.5
+    },
+    {
+      "id": "orion-resolux-10.5x70",
+      "name": "Resolux 10.5x70",
+      "manufacturer": "Orion",
+      "aperture": 70,
+      "magnification": 10.5,
+      "fieldOfView": 5.1
+    },
+    {
+      "id": "orion-resolux-15x70",
+      "name": "Resolux 15x70",
+      "manufacturer": "Orion",
+      "aperture": 70,
+      "magnification": 15,
+      "fieldOfView": 4.0
+    },
+    {
+      "id": "orion-astronomy-11x70",
+      "name": "Astronomy 11x70",
+      "manufacturer": "Orion",
+      "aperture": 70,
+      "magnification": 11,
+      "fieldOfView": 4.7
+    },
+    {
+      "id": "orion-astronomy-15x70",
+      "name": "Astronomy 15x70",
+      "manufacturer": "Orion",
+      "aperture": 70,
+      "magnification": 15,
+      "fieldOfView": 4.1
+    },
+    {
+      "id": "orion-astronomy-20x80",
+      "name": "Astronomy 20x80",
+      "manufacturer": "Orion",
+      "aperture": 80,
+      "magnification": 20,
+      "fieldOfView": 3.2
+    },
+    {
+      "id": "orion-giant-view-15x70",
+      "name": "Giant View 15x70",
+      "manufacturer": "Orion",
+      "aperture": 70,
+      "magnification": 15,
+      "fieldOfView": 4.4
+    },
+    {
+      "id": "orion-giant-view-20x80",
+      "name": "Giant View 20x80",
+      "manufacturer": "Orion",
+      "aperture": 80,
+      "magnification": 20,
+      "fieldOfView": 3.2
+    },
+    {
+      "id": "orion-giant-view-25x100",
+      "name": "Giant View 25x100",
+      "manufacturer": "Orion",
+      "aperture": 100,
+      "magnification": 25,
+      "fieldOfView": 2.8
+    },
+    {
+      "id": "orion-giantview-ed-8x42",
+      "name": "GiantView ED 8x42",
+      "manufacturer": "Orion",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 7.1
+    },
+    {
+      "id": "orion-giantview-ed-9x63",
+      "name": "GiantView ED 9x63",
+      "manufacturer": "Orion",
+      "aperture": 63,
+      "magnification": 9,
+      "fieldOfView": 5.8
+    },
+    {
+      "id": "orion-giantview-ed-16x80",
+      "name": "GiantView ED 16x80",
+      "manufacturer": "Orion",
+      "aperture": 80,
+      "magnification": 16,
+      "fieldOfView": 4.2
+    },
+    {
+      "id": "orion-mini-giant-9x63",
+      "name": "Mini Giant 9x63",
+      "manufacturer": "Orion",
+      "aperture": 63,
+      "magnification": 9,
+      "fieldOfView": 5.6
+    },
+    {
+      "id": "orion-mini-giant-15x63",
+      "name": "Mini Giant 15x63",
+      "manufacturer": "Orion",
+      "aperture": 63,
+      "magnification": 15,
+      "fieldOfView": 4.1
+    },
+    {
+      "id": "vixen-ascot-7x50",
+      "name": "Ascot 7x50",
+      "manufacturer": "Vixen",
+      "aperture": 50,
+      "magnification": 7,
+      "fieldOfView": 7.1
+    },
+    {
+      "id": "vixen-ascot-10x50",
+      "name": "Ascot 10x50",
+      "manufacturer": "Vixen",
+      "aperture": 50,
+      "magnification": 10,
+      "fieldOfView": 6.0
+    },
+    {
+      "id": "vixen-foresta-zr-8x42",
+      "name": "Foresta ZR 8x42",
+      "manufacturer": "Vixen",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 7.5
+    },
+    {
+      "id": "vixen-foresta-zr-10x42",
+      "name": "Foresta ZR 10x42",
+      "manufacturer": "Vixen",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.3
+    },
+    {
+      "id": "vixen-artes-j-hr-8x42",
+      "name": "Artes J HR 8x42",
+      "manufacturer": "Vixen",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 8.0
+    },
+    {
+      "id": "vixen-artes-j-hr-10x42",
+      "name": "Artes J HR 10x42",
+      "manufacturer": "Vixen",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.5
+    },
+    {
+      "id": "vixen-sg-6.5x32",
+      "name": "SG 6.5x32",
+      "manufacturer": "Vixen",
+      "aperture": 32,
+      "magnification": 6.5,
+      "fieldOfView": 9.0
+    },
+    {
+      "id": "vixen-sg-2.1x42",
+      "name": "SG 2.1x42",
+      "manufacturer": "Vixen",
+      "aperture": 42,
+      "magnification": 2.1,
+      "fieldOfView": 25.0
+    },
+    {
+      "id": "vixen-bt-81s-a",
+      "name": "BT-81S-A",
+      "manufacturer": "Vixen",
+      "aperture": 81,
+      "magnification": 20,
+      "fieldOfView": 2.1
+    },
+    {
+      "id": "vixen-bt-126ss-a",
+      "name": "BT-126SS-A",
+      "manufacturer": "Vixen",
+      "aperture": 126,
+      "magnification": 32,
+      "fieldOfView": 1.4
+    },
+    {
+      "id": "oberwerk-ultra-8x42",
+      "name": "Ultra 8x42",
+      "manufacturer": "Oberwerk",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 7.5
+    },
+    {
+      "id": "oberwerk-ultra-10x42",
+      "name": "Ultra 10x42",
+      "manufacturer": "Oberwerk",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.2
+    },
+    {
+      "id": "oberwerk-ultra-10x50",
+      "name": "Ultra 10x50",
+      "manufacturer": "Oberwerk",
+      "aperture": 50,
+      "magnification": 10,
+      "fieldOfView": 5.6
+    },
+    {
+      "id": "oberwerk-ultra-12x60",
+      "name": "Ultra 12x60",
+      "manufacturer": "Oberwerk",
+      "aperture": 60,
+      "magnification": 12,
+      "fieldOfView": 5.0
+    },
+    {
+      "id": "oberwerk-deluxe-11x70",
+      "name": "Deluxe 11x70",
+      "manufacturer": "Oberwerk",
+      "aperture": 70,
+      "magnification": 11,
+      "fieldOfView": 5.0
+    },
+    {
+      "id": "oberwerk-deluxe-15x70",
+      "name": "Deluxe 15x70",
+      "manufacturer": "Oberwerk",
+      "aperture": 70,
+      "magnification": 15,
+      "fieldOfView": 4.3
+    },
+    {
+      "id": "oberwerk-deluxe-20x80",
+      "name": "Deluxe 20x80",
+      "manufacturer": "Oberwerk",
+      "aperture": 80,
+      "magnification": 20,
+      "fieldOfView": 3.5
+    },
+    {
+      "id": "oberwerk-sport-8x42",
+      "name": "Sport ED 8x42",
+      "manufacturer": "Oberwerk",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 7.8
+    },
+    {
+      "id": "oberwerk-sport-10x42",
+      "name": "Sport ED 10x42",
+      "manufacturer": "Oberwerk",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.5
+    },
+    {
+      "id": "oberwerk-bt-70-45",
+      "name": "BT-70-45",
+      "manufacturer": "Oberwerk",
+      "aperture": 70,
+      "magnification": 22,
+      "fieldOfView": 2.8
+    },
+    {
+      "id": "oberwerk-bt-100-45",
+      "name": "BT-100-45",
+      "manufacturer": "Oberwerk",
+      "aperture": 100,
+      "magnification": 22,
+      "fieldOfView": 2.8
+    },
+    {
+      "id": "oberwerk-bt-100xla-sd",
+      "name": "BT-100XL-SD",
+      "manufacturer": "Oberwerk",
+      "aperture": 100,
+      "magnification": 22,
+      "fieldOfView": 3.0
+    },
+    {
+      "id": "oberwerk-xla-8x42",
+      "name": "XL 8x42",
+      "manufacturer": "Oberwerk",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 8.5
+    },
+    {
+      "id": "oberwerk-xla-10x42",
+      "name": "XL 10x42",
+      "manufacturer": "Oberwerk",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 7.0
+    },
+    {
+      "id": "apm-ms-16x80-ed",
+      "name": "MS 16x80 ED APO",
+      "manufacturer": "APM",
+      "aperture": 80,
+      "magnification": 16,
+      "fieldOfView": 4.4
+    },
+    {
+      "id": "apm-ms-20x80-ed",
+      "name": "MS 20x80 ED APO",
+      "manufacturer": "APM",
+      "aperture": 80,
+      "magnification": 20,
+      "fieldOfView": 3.8
+    },
+    {
+      "id": "apm-ms-25x100-ed",
+      "name": "MS 25x100 ED APO",
+      "manufacturer": "APM",
+      "aperture": 100,
+      "magnification": 25,
+      "fieldOfView": 3.0
+    },
+    {
+      "id": "apm-sd-70x90",
+      "name": "70mm 90-degree",
+      "manufacturer": "APM",
+      "aperture": 70,
+      "magnification": 18,
+      "fieldOfView": 4.0
+    },
+    {
+      "id": "apm-sd-100x90",
+      "name": "100mm 90-degree",
+      "manufacturer": "APM",
+      "aperture": 100,
+      "magnification": 25,
+      "fieldOfView": 3.0
+    },
+    {
+      "id": "apm-sd-120x90",
+      "name": "120mm 90-degree SD APO",
+      "manufacturer": "APM",
+      "aperture": 120,
+      "magnification": 30,
+      "fieldOfView": 2.5
+    },
+    {
+      "id": "apm-sd-150x90",
+      "name": "150mm 90-degree SD APO",
+      "manufacturer": "APM",
+      "aperture": 150,
+      "magnification": 38,
+      "fieldOfView": 2.0
+    },
+    {
+      "id": "pentax-ad-8x36-wp",
+      "name": "AD 8x36 WP",
+      "manufacturer": "Pentax",
+      "aperture": 36,
+      "magnification": 8,
+      "fieldOfView": 7.5
+    },
+    {
+      "id": "pentax-ad-9x32-wp",
+      "name": "AD 9x32 WP",
+      "manufacturer": "Pentax",
+      "aperture": 32,
+      "magnification": 9,
+      "fieldOfView": 5.5
+    },
+    {
+      "id": "pentax-sp-8x40",
+      "name": "SP 8x40 WP",
+      "manufacturer": "Pentax",
+      "aperture": 40,
+      "magnification": 8,
+      "fieldOfView": 8.2
+    },
+    {
+      "id": "pentax-sp-10x50",
+      "name": "SP 10x50 WP",
+      "manufacturer": "Pentax",
+      "aperture": 50,
+      "magnification": 10,
+      "fieldOfView": 6.5
+    },
+    {
+      "id": "pentax-sp-12x50",
+      "name": "SP 12x50 WP",
+      "manufacturer": "Pentax",
+      "aperture": 50,
+      "magnification": 12,
+      "fieldOfView": 5.5
+    },
+    {
+      "id": "pentax-sp-16x50",
+      "name": "SP 16x50 WP",
+      "manufacturer": "Pentax",
+      "aperture": 50,
+      "magnification": 16,
+      "fieldOfView": 4.5
+    },
+    {
+      "id": "pentax-sp-20x60",
+      "name": "SP 20x60 WP",
+      "manufacturer": "Pentax",
+      "aperture": 60,
+      "magnification": 20,
+      "fieldOfView": 3.0
+    },
+    {
+      "id": "pentax-zd-8x43-ed",
+      "name": "ZD 8x43 ED",
+      "manufacturer": "Pentax",
+      "aperture": 43,
+      "magnification": 8,
+      "fieldOfView": 7.5
+    },
+    {
+      "id": "pentax-zd-10x43-ed",
+      "name": "ZD 10x43 ED",
+      "manufacturer": "Pentax",
+      "aperture": 43,
+      "magnification": 10,
+      "fieldOfView": 6.0
+    },
+    {
+      "id": "pentax-zd-10x50-ed",
+      "name": "ZD 10x50 ED",
+      "manufacturer": "Pentax",
+      "aperture": 50,
+      "magnification": 10,
+      "fieldOfView": 6.0
+    },
+    {
+      "id": "steiner-navigator-7x50",
+      "name": "Navigator 7x50",
+      "manufacturer": "Steiner",
+      "aperture": 50,
+      "magnification": 7,
+      "fieldOfView": 7.5
+    },
+    {
+      "id": "steiner-navigator-7x50-c",
+      "name": "Navigator 7x50 C",
+      "manufacturer": "Steiner",
+      "aperture": 50,
+      "magnification": 7,
+      "fieldOfView": 7.5
+    },
+    {
+      "id": "steiner-commander-7x50",
+      "name": "Commander 7x50",
+      "manufacturer": "Steiner",
+      "aperture": 50,
+      "magnification": 7,
+      "fieldOfView": 7.0
+    },
+    {
+      "id": "steiner-commander-7x50-c",
+      "name": "Commander 7x50 C",
+      "manufacturer": "Steiner",
+      "aperture": 50,
+      "magnification": 7,
+      "fieldOfView": 7.0
+    },
+    {
+      "id": "steiner-safari-8x30",
+      "name": "Safari UltraSharp 8x30",
+      "manufacturer": "Steiner",
+      "aperture": 30,
+      "magnification": 8,
+      "fieldOfView": 7.4
+    },
+    {
+      "id": "steiner-safari-10x42",
+      "name": "Safari UltraSharp 10x42",
+      "manufacturer": "Steiner",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.0
+    },
+    {
+      "id": "steiner-hx-8x42",
+      "name": "HX 8x42",
+      "manufacturer": "Steiner",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 7.8
+    },
+    {
+      "id": "steiner-hx-10x42",
+      "name": "HX 10x42",
+      "manufacturer": "Steiner",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.4
+    },
+    {
+      "id": "steiner-hx-10x56",
+      "name": "HX 10x56",
+      "manufacturer": "Steiner",
+      "aperture": 56,
+      "magnification": 10,
+      "fieldOfView": 6.2
+    },
+    {
+      "id": "steiner-hx-15x56",
+      "name": "HX 15x56",
+      "manufacturer": "Steiner",
+      "aperture": 56,
+      "magnification": 15,
+      "fieldOfView": 4.5
+    },
+    {
+      "id": "maven-b1-8x30",
+      "name": "B.1 8x30",
+      "manufacturer": "Maven",
+      "aperture": 30,
+      "magnification": 8,
+      "fieldOfView": 8.0
+    },
+    {
+      "id": "maven-b1-10x30",
+      "name": "B.1 10x30",
+      "manufacturer": "Maven",
+      "aperture": 30,
+      "magnification": 10,
+      "fieldOfView": 6.0
+    },
+    {
+      "id": "maven-b1-8x42",
+      "name": "B.1 8x42",
+      "manufacturer": "Maven",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 8.0
+    },
+    {
+      "id": "maven-b1-10x42",
+      "name": "B.1 10x42",
+      "manufacturer": "Maven",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.5
+    },
+    {
+      "id": "maven-b2-9x45",
+      "name": "B.2 9x45",
+      "manufacturer": "Maven",
+      "aperture": 45,
+      "magnification": 9,
+      "fieldOfView": 7.4
+    },
+    {
+      "id": "maven-b2-11x45",
+      "name": "B.2 11x45",
+      "manufacturer": "Maven",
+      "aperture": 45,
+      "magnification": 11,
+      "fieldOfView": 6.0
+    },
+    {
+      "id": "maven-b3-10x50",
+      "name": "B.3 10x50",
+      "manufacturer": "Maven",
+      "aperture": 50,
+      "magnification": 10,
+      "fieldOfView": 6.5
+    },
+    {
+      "id": "maven-b3-12x50",
+      "name": "B.3 12x50",
+      "manufacturer": "Maven",
+      "aperture": 50,
+      "magnification": 12,
+      "fieldOfView": 5.6
+    },
+    {
+      "id": "maven-b5-12x56",
+      "name": "B.5 12x56",
+      "manufacturer": "Maven",
+      "aperture": 56,
+      "magnification": 12,
+      "fieldOfView": 5.5
+    },
+    {
+      "id": "maven-b5-15x56",
+      "name": "B.5 15x56",
+      "manufacturer": "Maven",
+      "aperture": 56,
+      "magnification": 15,
+      "fieldOfView": 4.5
+    },
+    {
+      "id": "maven-b5-18x56",
+      "name": "B.5 18x56",
+      "manufacturer": "Maven",
+      "aperture": 56,
+      "magnification": 18,
+      "fieldOfView": 3.9
+    },
+    {
+      "id": "bushnell-legend-8x42",
+      "name": "Legend Ultra HD 8x42",
+      "manufacturer": "Bushnell",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 7.1
+    },
+    {
+      "id": "bushnell-legend-10x42",
+      "name": "Legend Ultra HD 10x42",
+      "manufacturer": "Bushnell",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 5.8
+    },
+    {
+      "id": "bushnell-legend-l-8x42",
+      "name": "Legend L 8x42",
+      "manufacturer": "Bushnell",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 7.5
+    },
+    {
+      "id": "bushnell-legend-l-10x42",
+      "name": "Legend L 10x42",
+      "manufacturer": "Bushnell",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.2
+    },
+    {
+      "id": "bushnell-engage-8x42",
+      "name": "Engage 8x42",
+      "manufacturer": "Bushnell",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 7.3
+    },
+    {
+      "id": "bushnell-engage-10x42",
+      "name": "Engage 10x42",
+      "manufacturer": "Bushnell",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.0
+    },
+    {
+      "id": "bushnell-engage-10x50",
+      "name": "Engage 10x50",
+      "manufacturer": "Bushnell",
+      "aperture": 50,
+      "magnification": 10,
+      "fieldOfView": 6.0
+    },
+    {
+      "id": "bushnell-forge-8x42",
+      "name": "Forge 8x42",
+      "manufacturer": "Bushnell",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 8.0
+    },
+    {
+      "id": "bushnell-forge-10x42",
+      "name": "Forge 10x42",
+      "manufacturer": "Bushnell",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.5
+    },
+    {
+      "id": "bushnell-forge-10x50",
+      "name": "Forge 10x50",
+      "manufacturer": "Bushnell",
+      "aperture": 50,
+      "magnification": 10,
+      "fieldOfView": 6.2
+    },
+    {
+      "id": "bushnell-forge-15x56",
+      "name": "Forge 15x56",
+      "manufacturer": "Bushnell",
+      "aperture": 56,
+      "magnification": 15,
+      "fieldOfView": 4.5
+    },
+    {
+      "id": "kowa-bd-8x32",
+      "name": "BD 8x32",
+      "manufacturer": "Kowa",
+      "aperture": 32,
+      "magnification": 8,
+      "fieldOfView": 8.1
+    },
+    {
+      "id": "kowa-bd-10x32",
+      "name": "BD 10x32",
+      "manufacturer": "Kowa",
+      "aperture": 32,
+      "magnification": 10,
+      "fieldOfView": 6.8
+    },
+    {
+      "id": "kowa-bd-8x42",
+      "name": "BD 8x42",
+      "manufacturer": "Kowa",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 8.1
+    },
+    {
+      "id": "kowa-bd-10x42",
+      "name": "BD 10x42",
+      "manufacturer": "Kowa",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.5
+    },
+    {
+      "id": "kowa-bd-12x56",
+      "name": "BD 12x56",
+      "manufacturer": "Kowa",
+      "aperture": 56,
+      "magnification": 12,
+      "fieldOfView": 5.0
+    },
+    {
+      "id": "kowa-genesis-8x33",
+      "name": "Genesis 8x33",
+      "manufacturer": "Kowa",
+      "aperture": 33,
+      "magnification": 8,
+      "fieldOfView": 8.2
+    },
+    {
+      "id": "kowa-genesis-10x33",
+      "name": "Genesis 10x33",
+      "manufacturer": "Kowa",
+      "aperture": 33,
+      "magnification": 10,
+      "fieldOfView": 6.6
+    },
+    {
+      "id": "kowa-genesis-8x44",
+      "name": "Genesis 8x44",
+      "manufacturer": "Kowa",
+      "aperture": 44,
+      "magnification": 8,
+      "fieldOfView": 7.8
+    },
+    {
+      "id": "kowa-genesis-10x44",
+      "name": "Genesis 10x44",
+      "manufacturer": "Kowa",
+      "aperture": 44,
+      "magnification": 10,
+      "fieldOfView": 6.4
+    },
+    {
+      "id": "kowa-highlander-32x82",
+      "name": "Highlander 32x82",
+      "manufacturer": "Kowa",
+      "aperture": 82,
+      "magnification": 32,
+      "fieldOfView": 2.3
+    },
+    {
+      "id": "kowa-highlander-21x82",
+      "name": "Highlander 21x82",
+      "manufacturer": "Kowa",
+      "aperture": 82,
+      "magnification": 21,
+      "fieldOfView": 3.6
+    },
+    {
+      "id": "svbony-sv407-8x32",
+      "name": "SV407 8x32",
+      "manufacturer": "SVBony",
+      "aperture": 32,
+      "magnification": 8,
+      "fieldOfView": 6.5
+    },
+    {
+      "id": "svbony-sv407-8x42",
+      "name": "SV407 8x42",
+      "manufacturer": "SVBony",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 6.5
+    },
+    {
+      "id": "svbony-sv407-10x42",
+      "name": "SV407 10x42",
+      "manufacturer": "SVBony",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 5.8
+    },
+    {
+      "id": "svbony-sv47-8x32",
+      "name": "SV47 8x32",
+      "manufacturer": "SVBony",
+      "aperture": 32,
+      "magnification": 8,
+      "fieldOfView": 7.0
+    },
+    {
+      "id": "svbony-sv47-8x42",
+      "name": "SV47 8x42",
+      "manufacturer": "SVBony",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 7.0
+    },
+    {
+      "id": "svbony-sv47-10x42",
+      "name": "SV47 10x42",
+      "manufacturer": "SVBony",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 5.8
+    },
+    {
+      "id": "svbony-sv202-10x42",
+      "name": "SV202 10x42",
+      "manufacturer": "SVBony",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.0
+    },
+    {
+      "id": "svbony-sv202-12x50",
+      "name": "SV202 12x50",
+      "manufacturer": "SVBony",
+      "aperture": 50,
+      "magnification": 12,
+      "fieldOfView": 5.5
+    },
+    {
+      "id": "svbony-sv25-10x42",
+      "name": "SV25 10x42",
+      "manufacturer": "SVBony",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 5.8
+    },
+    {
+      "id": "svbony-sv206-15x70",
+      "name": "SV206 15x70",
+      "manufacturer": "SVBony",
+      "aperture": 70,
+      "magnification": 15,
+      "fieldOfView": 4.0
+    },
+    {
+      "id": "svbony-sv206-20x80",
+      "name": "SV206 20x80",
+      "manufacturer": "SVBony",
+      "aperture": 80,
+      "magnification": 20,
+      "fieldOfView": 3.2
+    },
+    {
+      "id": "svbony-sv206-25x100",
+      "name": "SV206 25x100",
+      "manufacturer": "SVBony",
+      "aperture": 100,
+      "magnification": 25,
+      "fieldOfView": 2.8
+    }
+  ]
+}

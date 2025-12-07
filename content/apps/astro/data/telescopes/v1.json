@@ -1,0 +1,2766 @@
+{
+  "version": 1,
+  "generatedAt": "2025-12-07T00:00:00Z",
+  "telescopes": [
+    {
+      "id": "celestron-nexstar-4se",
+      "name": "NexStar 4SE",
+      "manufacturer": "Celestron",
+      "type": "maksutovCassegrain",
+      "aperture": 102,
+      "focalLength": 1325
+    },
+    {
+      "id": "celestron-nexstar-5se",
+      "name": "NexStar 5SE",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 125,
+      "focalLength": 1250
+    },
+    {
+      "id": "celestron-nexstar-6se",
+      "name": "NexStar 6SE",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 150,
+      "focalLength": 1500
+    },
+    {
+      "id": "celestron-nexstar-8se",
+      "name": "NexStar 8SE",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 203.2,
+      "focalLength": 2032
+    },
+    {
+      "id": "celestron-nexstar-evolution-6",
+      "name": "NexStar Evolution 6",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 150,
+      "focalLength": 1500
+    },
+    {
+      "id": "celestron-nexstar-evolution-8",
+      "name": "NexStar Evolution 8",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 203.2,
+      "focalLength": 2032
+    },
+    {
+      "id": "celestron-nexstar-evolution-925",
+      "name": "NexStar Evolution 9.25",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 235,
+      "focalLength": 2350
+    },
+    {
+      "id": "celestron-cpc-800",
+      "name": "CPC 800 GPS",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 203.2,
+      "focalLength": 2032
+    },
+    {
+      "id": "celestron-cpc-925",
+      "name": "CPC 925 GPS",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 235,
+      "focalLength": 2350
+    },
+    {
+      "id": "celestron-cpc-1100",
+      "name": "CPC 1100 GPS",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 280,
+      "focalLength": 2800
+    },
+    {
+      "id": "celestron-cpc-deluxe-800",
+      "name": "CPC Deluxe 800 HD",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 203.2,
+      "focalLength": 2032
+    },
+    {
+      "id": "celestron-cpc-deluxe-925",
+      "name": "CPC Deluxe 925 HD",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 235,
+      "focalLength": 2350
+    },
+    {
+      "id": "celestron-cpc-deluxe-1100",
+      "name": "CPC Deluxe 1100 HD",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 280,
+      "focalLength": 2800
+    },
+    {
+      "id": "celestron-edgehd-800",
+      "name": "EdgeHD 800",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 203.2,
+      "focalLength": 2032
+    },
+    {
+      "id": "celestron-edgehd-925",
+      "name": "EdgeHD 925",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 235,
+      "focalLength": 2350
+    },
+    {
+      "id": "celestron-edgehd-1100",
+      "name": "EdgeHD 1100",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 280,
+      "focalLength": 2800
+    },
+    {
+      "id": "celestron-edgehd-1400",
+      "name": "EdgeHD 1400",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 356,
+      "focalLength": 3910
+    },
+    {
+      "id": "celestron-cgx-800",
+      "name": "CGX 800",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 203.2,
+      "focalLength": 2032
+    },
+    {
+      "id": "celestron-cgx-925",
+      "name": "CGX 925",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 235,
+      "focalLength": 2350
+    },
+    {
+      "id": "celestron-cgx-1100",
+      "name": "CGX 1100",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 280,
+      "focalLength": 2800
+    },
+    {
+      "id": "celestron-cgx-l-1100",
+      "name": "CGX-L 1100",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 280,
+      "focalLength": 2800
+    },
+    {
+      "id": "celestron-cgx-l-1400",
+      "name": "CGX-L 1400",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 356,
+      "focalLength": 3910
+    },
+    {
+      "id": "celestron-c5",
+      "name": "C5",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 127,
+      "focalLength": 1250
+    },
+    {
+      "id": "celestron-c6",
+      "name": "C6",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 150,
+      "focalLength": 1500
+    },
+    {
+      "id": "celestron-c8",
+      "name": "C8",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 203.2,
+      "focalLength": 2032
+    },
+    {
+      "id": "celestron-c925",
+      "name": "C9.25",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 235,
+      "focalLength": 2350
+    },
+    {
+      "id": "celestron-c11",
+      "name": "C11",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 280,
+      "focalLength": 2800
+    },
+    {
+      "id": "celestron-c14",
+      "name": "C14",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 356,
+      "focalLength": 3910
+    },
+    {
+      "id": "celestron-rasa-8",
+      "name": "RASA 8",
+      "manufacturer": "Celestron",
+      "type": "other",
+      "aperture": 203.2,
+      "focalLength": 400
+    },
+    {
+      "id": "celestron-rasa-11",
+      "name": "RASA 11",
+      "manufacturer": "Celestron",
+      "type": "other",
+      "aperture": 279,
+      "focalLength": 620
+    },
+    {
+      "id": "celestron-rasa-36",
+      "name": "RASA 36",
+      "manufacturer": "Celestron",
+      "type": "other",
+      "aperture": 356,
+      "focalLength": 790
+    },
+    {
+      "id": "celestron-starsense-explorer-lt-80az",
+      "name": "StarSense Explorer LT 80AZ",
+      "manufacturer": "Celestron",
+      "type": "refractor",
+      "aperture": 80,
+      "focalLength": 900
+    },
+    {
+      "id": "celestron-starsense-explorer-dx-102az",
+      "name": "StarSense Explorer DX 102AZ",
+      "manufacturer": "Celestron",
+      "type": "refractor",
+      "aperture": 102,
+      "focalLength": 660
+    },
+    {
+      "id": "celestron-starsense-explorer-dx-130az",
+      "name": "StarSense Explorer DX 130AZ",
+      "manufacturer": "Celestron",
+      "type": "newtonian",
+      "aperture": 130,
+      "focalLength": 650
+    },
+    {
+      "id": "celestron-astromaster-70az",
+      "name": "AstroMaster 70AZ",
+      "manufacturer": "Celestron",
+      "type": "refractor",
+      "aperture": 70,
+      "focalLength": 900
+    },
+    {
+      "id": "celestron-astromaster-90az",
+      "name": "AstroMaster 90AZ",
+      "manufacturer": "Celestron",
+      "type": "refractor",
+      "aperture": 90,
+      "focalLength": 1000
+    },
+    {
+      "id": "celestron-astromaster-102az",
+      "name": "AstroMaster 102AZ",
+      "manufacturer": "Celestron",
+      "type": "refractor",
+      "aperture": 102,
+      "focalLength": 660
+    },
+    {
+      "id": "celestron-astromaster-114eq",
+      "name": "AstroMaster 114EQ",
+      "manufacturer": "Celestron",
+      "type": "newtonian",
+      "aperture": 114,
+      "focalLength": 1000
+    },
+    {
+      "id": "celestron-astromaster-130eq",
+      "name": "AstroMaster 130EQ",
+      "manufacturer": "Celestron",
+      "type": "newtonian",
+      "aperture": 130,
+      "focalLength": 650
+    },
+    {
+      "id": "celestron-powerseeker-70az",
+      "name": "PowerSeeker 70AZ",
+      "manufacturer": "Celestron",
+      "type": "refractor",
+      "aperture": 70,
+      "focalLength": 700
+    },
+    {
+      "id": "celestron-powerseeker-80eq",
+      "name": "PowerSeeker 80EQ",
+      "manufacturer": "Celestron",
+      "type": "refractor",
+      "aperture": 80,
+      "focalLength": 900
+    },
+    {
+      "id": "celestron-powerseeker-127eq",
+      "name": "PowerSeeker 127EQ",
+      "manufacturer": "Celestron",
+      "type": "newtonian",
+      "aperture": 127,
+      "focalLength": 1000
+    },
+    {
+      "id": "celestron-inspire-80az",
+      "name": "Inspire 80AZ",
+      "manufacturer": "Celestron",
+      "type": "refractor",
+      "aperture": 80,
+      "focalLength": 900
+    },
+    {
+      "id": "celestron-inspire-100az",
+      "name": "Inspire 100AZ",
+      "manufacturer": "Celestron",
+      "type": "refractor",
+      "aperture": 100,
+      "focalLength": 660
+    },
+    {
+      "id": "celestron-omni-xlt-102",
+      "name": "Omni XLT 102",
+      "manufacturer": "Celestron",
+      "type": "refractor",
+      "aperture": 102,
+      "focalLength": 1000
+    },
+    {
+      "id": "celestron-omni-xlt-120",
+      "name": "Omni XLT 120",
+      "manufacturer": "Celestron",
+      "type": "refractor",
+      "aperture": 120,
+      "focalLength": 1000
+    },
+    {
+      "id": "celestron-omni-xlt-127",
+      "name": "Omni XLT 127",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 127,
+      "focalLength": 1250
+    },
+    {
+      "id": "celestron-omni-xlt-150",
+      "name": "Omni XLT 150",
+      "manufacturer": "Celestron",
+      "type": "newtonian",
+      "aperture": 150,
+      "focalLength": 750
+    },
+    {
+      "id": "celestron-advanced-vx-6",
+      "name": "Advanced VX 6\" Newtonian",
+      "manufacturer": "Celestron",
+      "type": "newtonian",
+      "aperture": 150,
+      "focalLength": 750
+    },
+    {
+      "id": "celestron-advanced-vx-8",
+      "name": "Advanced VX 8\" Newtonian",
+      "manufacturer": "Celestron",
+      "type": "newtonian",
+      "aperture": 200,
+      "focalLength": 1000
+    },
+    {
+      "id": "celestron-advanced-vx-8-sct",
+      "name": "Advanced VX 8\" SCT",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 203.2,
+      "focalLength": 2032
+    },
+    {
+      "id": "celestron-advanced-vx-925",
+      "name": "Advanced VX 9.25\" SCT",
+      "manufacturer": "Celestron",
+      "type": "schmidtCassegrain",
+      "aperture": 235,
+      "focalLength": 2350
+    },
+    {
+      "id": "skywatcher-heritage-76",
+      "name": "Heritage 76",
+      "manufacturer": "Sky-Watcher",
+      "type": "newtonian",
+      "aperture": 76,
+      "focalLength": 300
+    },
+    {
+      "id": "skywatcher-heritage-100p",
+      "name": "Heritage 100P",
+      "manufacturer": "Sky-Watcher",
+      "type": "newtonian",
+      "aperture": 100,
+      "focalLength": 400
+    },
+    {
+      "id": "skywatcher-heritage-130p",
+      "name": "Heritage 130P",
+      "manufacturer": "Sky-Watcher",
+      "type": "dobsonian",
+      "aperture": 130,
+      "focalLength": 650
+    },
+    {
+      "id": "skywatcher-heritage-150p",
+      "name": "Heritage 150P",
+      "manufacturer": "Sky-Watcher",
+      "type": "dobsonian",
+      "aperture": 150,
+      "focalLength": 750
+    },
+    {
+      "id": "skywatcher-skyliner-150p",
+      "name": "Skyliner 150P",
+      "manufacturer": "Sky-Watcher",
+      "type": "dobsonian",
+      "aperture": 150,
+      "focalLength": 1200
+    },
+    {
+      "id": "skywatcher-skyliner-200p",
+      "name": "Skyliner 200P",
+      "manufacturer": "Sky-Watcher",
+      "type": "dobsonian",
+      "aperture": 200,
+      "focalLength": 1200
+    },
+    {
+      "id": "skywatcher-skyliner-250px",
+      "name": "Skyliner 250PX",
+      "manufacturer": "Sky-Watcher",
+      "type": "dobsonian",
+      "aperture": 254,
+      "focalLength": 1200
+    },
+    {
+      "id": "skywatcher-skyliner-300p",
+      "name": "Skyliner 300P",
+      "manufacturer": "Sky-Watcher",
+      "type": "dobsonian",
+      "aperture": 305,
+      "focalLength": 1500
+    },
+    {
+      "id": "skywatcher-skyliner-350p",
+      "name": "Skyliner 350P",
+      "manufacturer": "Sky-Watcher",
+      "type": "dobsonian",
+      "aperture": 355,
+      "focalLength": 1600
+    },
+    {
+      "id": "skywatcher-skyliner-400p",
+      "name": "Skyliner 400P",
+      "manufacturer": "Sky-Watcher",
+      "type": "dobsonian",
+      "aperture": 406,
+      "focalLength": 1800
+    },
+    {
+      "id": "skywatcher-flextube-200p",
+      "name": "Skyliner 200P FlexTube",
+      "manufacturer": "Sky-Watcher",
+      "type": "dobsonian",
+      "aperture": 200,
+      "focalLength": 1200
+    },
+    {
+      "id": "skywatcher-flextube-250p",
+      "name": "Skyliner 250P FlexTube",
+      "manufacturer": "Sky-Watcher",
+      "type": "dobsonian",
+      "aperture": 254,
+      "focalLength": 1200
+    },
+    {
+      "id": "skywatcher-flextube-300p",
+      "name": "Skyliner 300P FlexTube",
+      "manufacturer": "Sky-Watcher",
+      "type": "dobsonian",
+      "aperture": 305,
+      "focalLength": 1500
+    },
+    {
+      "id": "skywatcher-flextube-350p",
+      "name": "Skyliner 350P FlexTube",
+      "manufacturer": "Sky-Watcher",
+      "type": "dobsonian",
+      "aperture": 355,
+      "focalLength": 1600
+    },
+    {
+      "id": "skywatcher-flextube-400p",
+      "name": "Skyliner 400P FlexTube",
+      "manufacturer": "Sky-Watcher",
+      "type": "dobsonian",
+      "aperture": 406,
+      "focalLength": 1800
+    },
+    {
+      "id": "skywatcher-goto-200p",
+      "name": "Skyliner 200P SynScan",
+      "manufacturer": "Sky-Watcher",
+      "type": "dobsonian",
+      "aperture": 200,
+      "focalLength": 1200
+    },
+    {
+      "id": "skywatcher-goto-250px",
+      "name": "Skyliner 250PX SynScan",
+      "manufacturer": "Sky-Watcher",
+      "type": "dobsonian",
+      "aperture": 254,
+      "focalLength": 1200
+    },
+    {
+      "id": "skywatcher-goto-300p",
+      "name": "Skyliner 300P SynScan",
+      "manufacturer": "Sky-Watcher",
+      "type": "dobsonian",
+      "aperture": 305,
+      "focalLength": 1500
+    },
+    {
+      "id": "skywatcher-startravel-80",
+      "name": "StarTravel 80",
+      "manufacturer": "Sky-Watcher",
+      "type": "refractor",
+      "aperture": 80,
+      "focalLength": 400
+    },
+    {
+      "id": "skywatcher-startravel-102",
+      "name": "StarTravel 102",
+      "manufacturer": "Sky-Watcher",
+      "type": "refractor",
+      "aperture": 102,
+      "focalLength": 500
+    },
+    {
+      "id": "skywatcher-startravel-120",
+      "name": "StarTravel 120",
+      "manufacturer": "Sky-Watcher",
+      "type": "refractor",
+      "aperture": 120,
+      "focalLength": 600
+    },
+    {
+      "id": "skywatcher-startravel-150",
+      "name": "StarTravel 150",
+      "manufacturer": "Sky-Watcher",
+      "type": "refractor",
+      "aperture": 150,
+      "focalLength": 750
+    },
+    {
+      "id": "skywatcher-evostar-72ed",
+      "name": "Evostar 72ED",
+      "manufacturer": "Sky-Watcher",
+      "type": "refractor",
+      "aperture": 72,
+      "focalLength": 420
+    },
+    {
+      "id": "skywatcher-evostar-80ed",
+      "name": "Evostar 80ED",
+      "manufacturer": "Sky-Watcher",
+      "type": "refractor",
+      "aperture": 80,
+      "focalLength": 600
+    },
+    {
+      "id": "skywatcher-evostar-100ed",
+      "name": "Evostar 100ED",
+      "manufacturer": "Sky-Watcher",
+      "type": "refractor",
+      "aperture": 100,
+      "focalLength": 900
+    },
+    {
+      "id": "skywatcher-evostar-120ed",
+      "name": "Evostar 120ED",
+      "manufacturer": "Sky-Watcher",
+      "type": "refractor",
+      "aperture": 120,
+      "focalLength": 900
+    },
+    {
+      "id": "skywatcher-esprit-80ed",
+      "name": "Esprit 80ED",
+      "manufacturer": "Sky-Watcher",
+      "type": "refractor",
+      "aperture": 80,
+      "focalLength": 400
+    },
+    {
+      "id": "skywatcher-esprit-100ed",
+      "name": "Esprit 100ED",
+      "manufacturer": "Sky-Watcher",
+      "type": "refractor",
+      "aperture": 100,
+      "focalLength": 550
+    },
+    {
+      "id": "skywatcher-esprit-120ed",
+      "name": "Esprit 120ED",
+      "manufacturer": "Sky-Watcher",
+      "type": "refractor",
+      "aperture": 120,
+      "focalLength": 840
+    },
+    {
+      "id": "skywatcher-esprit-150ed",
+      "name": "Esprit 150ED",
+      "manufacturer": "Sky-Watcher",
+      "type": "refractor",
+      "aperture": 150,
+      "focalLength": 1050
+    },
+    {
+      "id": "skywatcher-quattro-150p",
+      "name": "Quattro 150P",
+      "manufacturer": "Sky-Watcher",
+      "type": "newtonian",
+      "aperture": 150,
+      "focalLength": 600
+    },
+    {
+      "id": "skywatcher-quattro-200p",
+      "name": "Quattro 200P",
+      "manufacturer": "Sky-Watcher",
+      "type": "newtonian",
+      "aperture": 200,
+      "focalLength": 800
+    },
+    {
+      "id": "skywatcher-quattro-250p",
+      "name": "Quattro 250P",
+      "manufacturer": "Sky-Watcher",
+      "type": "newtonian",
+      "aperture": 254,
+      "focalLength": 1000
+    },
+    {
+      "id": "skywatcher-quattro-300p",
+      "name": "Quattro 300P",
+      "manufacturer": "Sky-Watcher",
+      "type": "newtonian",
+      "aperture": 305,
+      "focalLength": 1200
+    },
+    {
+      "id": "skywatcher-explorer-130",
+      "name": "Explorer 130",
+      "manufacturer": "Sky-Watcher",
+      "type": "newtonian",
+      "aperture": 130,
+      "focalLength": 900
+    },
+    {
+      "id": "skywatcher-explorer-150p",
+      "name": "Explorer 150P",
+      "manufacturer": "Sky-Watcher",
+      "type": "newtonian",
+      "aperture": 150,
+      "focalLength": 750
+    },
+    {
+      "id": "skywatcher-explorer-200p",
+      "name": "Explorer 200P",
+      "manufacturer": "Sky-Watcher",
+      "type": "newtonian",
+      "aperture": 200,
+      "focalLength": 1000
+    },
+    {
+      "id": "skywatcher-explorer-250p",
+      "name": "Explorer 250P",
+      "manufacturer": "Sky-Watcher",
+      "type": "newtonian",
+      "aperture": 254,
+      "focalLength": 1200
+    },
+    {
+      "id": "skywatcher-explorer-300p",
+      "name": "Explorer 300P",
+      "manufacturer": "Sky-Watcher",
+      "type": "newtonian",
+      "aperture": 305,
+      "focalLength": 1500
+    },
+    {
+      "id": "skywatcher-skymax-90",
+      "name": "SkyMax 90",
+      "manufacturer": "Sky-Watcher",
+      "type": "maksutovCassegrain",
+      "aperture": 90,
+      "focalLength": 1250
+    },
+    {
+      "id": "skywatcher-skymax-102",
+      "name": "SkyMax 102",
+      "manufacturer": "Sky-Watcher",
+      "type": "maksutovCassegrain",
+      "aperture": 102,
+      "focalLength": 1300
+    },
+    {
+      "id": "skywatcher-skymax-127",
+      "name": "SkyMax 127",
+      "manufacturer": "Sky-Watcher",
+      "type": "maksutovCassegrain",
+      "aperture": 127,
+      "focalLength": 1500
+    },
+    {
+      "id": "skywatcher-skymax-150",
+      "name": "SkyMax 150",
+      "manufacturer": "Sky-Watcher",
+      "type": "maksutovCassegrain",
+      "aperture": 150,
+      "focalLength": 1800
+    },
+    {
+      "id": "skywatcher-skymax-180",
+      "name": "SkyMax 180",
+      "manufacturer": "Sky-Watcher",
+      "type": "maksutovCassegrain",
+      "aperture": 180,
+      "focalLength": 2700
+    },
+    {
+      "id": "skywatcher-virtuoso-gti-150p",
+      "name": "Virtuoso GTi 150P",
+      "manufacturer": "Sky-Watcher",
+      "type": "newtonian",
+      "aperture": 150,
+      "focalLength": 750
+    },
+    {
+      "id": "skywatcher-az-gti-102",
+      "name": "AZ-GTi 102",
+      "manufacturer": "Sky-Watcher",
+      "type": "maksutovCassegrain",
+      "aperture": 102,
+      "focalLength": 1300
+    },
+    {
+      "id": "skywatcher-az-gti-127",
+      "name": "AZ-GTi 127",
+      "manufacturer": "Sky-Watcher",
+      "type": "maksutovCassegrain",
+      "aperture": 127,
+      "focalLength": 1500
+    },
+    {
+      "id": "orion-xt6",
+      "name": "SkyQuest XT6",
+      "manufacturer": "Orion",
+      "type": "dobsonian",
+      "aperture": 150,
+      "focalLength": 1200
+    },
+    {
+      "id": "orion-xt8",
+      "name": "SkyQuest XT8",
+      "manufacturer": "Orion",
+      "type": "dobsonian",
+      "aperture": 203,
+      "focalLength": 1200
+    },
+    {
+      "id": "orion-xt10",
+      "name": "SkyQuest XT10",
+      "manufacturer": "Orion",
+      "type": "dobsonian",
+      "aperture": 254,
+      "focalLength": 1200
+    },
+    {
+      "id": "orion-xt12",
+      "name": "SkyQuest XT12",
+      "manufacturer": "Orion",
+      "type": "dobsonian",
+      "aperture": 305,
+      "focalLength": 1500
+    },
+    {
+      "id": "orion-xt6-classic",
+      "name": "SkyQuest XT6 Classic",
+      "manufacturer": "Orion",
+      "type": "dobsonian",
+      "aperture": 150,
+      "focalLength": 1200
+    },
+    {
+      "id": "orion-xt8-classic",
+      "name": "SkyQuest XT8 Classic",
+      "manufacturer": "Orion",
+      "type": "dobsonian",
+      "aperture": 203,
+      "focalLength": 1200
+    },
+    {
+      "id": "orion-xt8-plus",
+      "name": "SkyQuest XT8 PLUS",
+      "manufacturer": "Orion",
+      "type": "dobsonian",
+      "aperture": 203,
+      "focalLength": 1200
+    },
+    {
+      "id": "orion-xt10-plus",
+      "name": "SkyQuest XT10 PLUS",
+      "manufacturer": "Orion",
+      "type": "dobsonian",
+      "aperture": 254,
+      "focalLength": 1200
+    },
+    {
+      "id": "orion-xt10i",
+      "name": "SkyQuest XT10i IntelliScope",
+      "manufacturer": "Orion",
+      "type": "dobsonian",
+      "aperture": 254,
+      "focalLength": 1200
+    },
+    {
+      "id": "orion-xt12i",
+      "name": "SkyQuest XT12i IntelliScope",
+      "manufacturer": "Orion",
+      "type": "dobsonian",
+      "aperture": 305,
+      "focalLength": 1500
+    },
+    {
+      "id": "orion-xx12i",
+      "name": "SkyQuest XX12i Truss",
+      "manufacturer": "Orion",
+      "type": "dobsonian",
+      "aperture": 305,
+      "focalLength": 1500
+    },
+    {
+      "id": "orion-xx14i",
+      "name": "SkyQuest XX14i Truss",
+      "manufacturer": "Orion",
+      "type": "dobsonian",
+      "aperture": 355,
+      "focalLength": 1600
+    },
+    {
+      "id": "orion-xx16g",
+      "name": "SkyQuest XX16g GoTo Truss",
+      "manufacturer": "Orion",
+      "type": "dobsonian",
+      "aperture": 406,
+      "focalLength": 1800
+    },
+    {
+      "id": "orion-starblast-45",
+      "name": "StarBlast 4.5",
+      "manufacturer": "Orion",
+      "type": "newtonian",
+      "aperture": 114,
+      "focalLength": 450
+    },
+    {
+      "id": "orion-starblast-6",
+      "name": "StarBlast 6",
+      "manufacturer": "Orion",
+      "type": "newtonian",
+      "aperture": 150,
+      "focalLength": 750
+    },
+    {
+      "id": "orion-starblast-6i",
+      "name": "StarBlast 6i IntelliScope",
+      "manufacturer": "Orion",
+      "type": "newtonian",
+      "aperture": 150,
+      "focalLength": 750
+    },
+    {
+      "id": "orion-spaceprobe-130st",
+      "name": "SpaceProbe 130ST",
+      "manufacturer": "Orion",
+      "type": "newtonian",
+      "aperture": 130,
+      "focalLength": 650
+    },
+    {
+      "id": "orion-ed80",
+      "name": "ED80",
+      "manufacturer": "Orion",
+      "type": "refractor",
+      "aperture": 80,
+      "focalLength": 600
+    },
+    {
+      "id": "orion-ed80t-cf",
+      "name": "ED80T CF",
+      "manufacturer": "Orion",
+      "type": "refractor",
+      "aperture": 80,
+      "focalLength": 480
+    },
+    {
+      "id": "orion-eon-85",
+      "name": "EON 85mm",
+      "manufacturer": "Orion",
+      "type": "refractor",
+      "aperture": 85,
+      "focalLength": 560
+    },
+    {
+      "id": "orion-eon-110",
+      "name": "EON 110mm",
+      "manufacturer": "Orion",
+      "type": "refractor",
+      "aperture": 110,
+      "focalLength": 616
+    },
+    {
+      "id": "orion-eon-130",
+      "name": "EON 130mm",
+      "manufacturer": "Orion",
+      "type": "refractor",
+      "aperture": 130,
+      "focalLength": 910
+    },
+    {
+      "id": "orion-shorttube-80",
+      "name": "ShortTube 80",
+      "manufacturer": "Orion",
+      "type": "refractor",
+      "aperture": 80,
+      "focalLength": 400
+    },
+    {
+      "id": "orion-observer-70",
+      "name": "Observer 70mm",
+      "manufacturer": "Orion",
+      "type": "refractor",
+      "aperture": 70,
+      "focalLength": 700
+    },
+    {
+      "id": "orion-observer-80st",
+      "name": "Observer 80ST",
+      "manufacturer": "Orion",
+      "type": "refractor",
+      "aperture": 80,
+      "focalLength": 400
+    },
+    {
+      "id": "orion-sirius-8",
+      "name": "Sirius 8",
+      "manufacturer": "Orion",
+      "type": "newtonian",
+      "aperture": 203,
+      "focalLength": 1000
+    },
+    {
+      "id": "orion-atlas-8",
+      "name": "Atlas 8",
+      "manufacturer": "Orion",
+      "type": "newtonian",
+      "aperture": 203,
+      "focalLength": 1000
+    },
+    {
+      "id": "orion-atlas-10",
+      "name": "Atlas 10",
+      "manufacturer": "Orion",
+      "type": "newtonian",
+      "aperture": 254,
+      "focalLength": 1000
+    },
+    {
+      "id": "orion-astrograph-8",
+      "name": "8\" f/3.9 Astrograph",
+      "manufacturer": "Orion",
+      "type": "newtonian",
+      "aperture": 203,
+      "focalLength": 800
+    },
+    {
+      "id": "orion-astrograph-10",
+      "name": "10\" f/3.9 Astrograph",
+      "manufacturer": "Orion",
+      "type": "newtonian",
+      "aperture": 254,
+      "focalLength": 1000
+    },
+    {
+      "id": "orion-starmax-90",
+      "name": "StarMax 90mm",
+      "manufacturer": "Orion",
+      "type": "maksutovCassegrain",
+      "aperture": 90,
+      "focalLength": 1250
+    },
+    {
+      "id": "orion-starmax-102",
+      "name": "StarMax 102mm",
+      "manufacturer": "Orion",
+      "type": "maksutovCassegrain",
+      "aperture": 102,
+      "focalLength": 1300
+    },
+    {
+      "id": "orion-starmax-127",
+      "name": "StarMax 127mm",
+      "manufacturer": "Orion",
+      "type": "maksutovCassegrain",
+      "aperture": 127,
+      "focalLength": 1540
+    },
+    {
+      "id": "meade-lx200-8",
+      "name": "LX200 8\"",
+      "manufacturer": "Meade",
+      "type": "schmidtCassegrain",
+      "aperture": 203,
+      "focalLength": 2000
+    },
+    {
+      "id": "meade-lx200-10",
+      "name": "LX200 10\"",
+      "manufacturer": "Meade",
+      "type": "schmidtCassegrain",
+      "aperture": 254,
+      "focalLength": 2500
+    },
+    {
+      "id": "meade-lx200-12",
+      "name": "LX200 12\"",
+      "manufacturer": "Meade",
+      "type": "schmidtCassegrain",
+      "aperture": 305,
+      "focalLength": 3048
+    },
+    {
+      "id": "meade-lx200-14",
+      "name": "LX200 14\"",
+      "manufacturer": "Meade",
+      "type": "schmidtCassegrain",
+      "aperture": 356,
+      "focalLength": 3556
+    },
+    {
+      "id": "meade-lx200-16",
+      "name": "LX200 16\"",
+      "manufacturer": "Meade",
+      "type": "schmidtCassegrain",
+      "aperture": 406,
+      "focalLength": 4064
+    },
+    {
+      "id": "meade-lx85-6",
+      "name": "LX85 6\" ACF",
+      "manufacturer": "Meade",
+      "type": "schmidtCassegrain",
+      "aperture": 150,
+      "focalLength": 1524
+    },
+    {
+      "id": "meade-lx85-8",
+      "name": "LX85 8\" ACF",
+      "manufacturer": "Meade",
+      "type": "schmidtCassegrain",
+      "aperture": 203,
+      "focalLength": 2032
+    },
+    {
+      "id": "meade-lx600-10",
+      "name": "LX600 10\" ACF",
+      "manufacturer": "Meade",
+      "type": "schmidtCassegrain",
+      "aperture": 254,
+      "focalLength": 2032
+    },
+    {
+      "id": "meade-lx600-12",
+      "name": "LX600 12\" ACF",
+      "manufacturer": "Meade",
+      "type": "schmidtCassegrain",
+      "aperture": 305,
+      "focalLength": 2438
+    },
+    {
+      "id": "meade-lx600-14",
+      "name": "LX600 14\" ACF",
+      "manufacturer": "Meade",
+      "type": "schmidtCassegrain",
+      "aperture": 356,
+      "focalLength": 2845
+    },
+    {
+      "id": "meade-lx600-16",
+      "name": "LX600 16\" ACF",
+      "manufacturer": "Meade",
+      "type": "schmidtCassegrain",
+      "aperture": 406,
+      "focalLength": 3251
+    },
+    {
+      "id": "meade-etx-90",
+      "name": "ETX-90",
+      "manufacturer": "Meade",
+      "type": "maksutovCassegrain",
+      "aperture": 90,
+      "focalLength": 1250
+    },
+    {
+      "id": "meade-etx-125",
+      "name": "ETX-125",
+      "manufacturer": "Meade",
+      "type": "maksutovCassegrain",
+      "aperture": 127,
+      "focalLength": 1900
+    },
+    {
+      "id": "meade-lightbridge-8",
+      "name": "LightBridge 8\"",
+      "manufacturer": "Meade",
+      "type": "dobsonian",
+      "aperture": 203,
+      "focalLength": 1219
+    },
+    {
+      "id": "meade-lightbridge-10",
+      "name": "LightBridge 10\"",
+      "manufacturer": "Meade",
+      "type": "dobsonian",
+      "aperture": 254,
+      "focalLength": 1270
+    },
+    {
+      "id": "meade-lightbridge-12",
+      "name": "LightBridge 12\"",
+      "manufacturer": "Meade",
+      "type": "dobsonian",
+      "aperture": 305,
+      "focalLength": 1524
+    },
+    {
+      "id": "meade-lightbridge-16",
+      "name": "LightBridge 16\"",
+      "manufacturer": "Meade",
+      "type": "dobsonian",
+      "aperture": 406,
+      "focalLength": 1829
+    },
+    {
+      "id": "meade-polaris-70",
+      "name": "Polaris 70AZ",
+      "manufacturer": "Meade",
+      "type": "refractor",
+      "aperture": 70,
+      "focalLength": 700
+    },
+    {
+      "id": "meade-polaris-80",
+      "name": "Polaris 80EQ",
+      "manufacturer": "Meade",
+      "type": "refractor",
+      "aperture": 80,
+      "focalLength": 900
+    },
+    {
+      "id": "meade-polaris-90",
+      "name": "Polaris 90EQ",
+      "manufacturer": "Meade",
+      "type": "refractor",
+      "aperture": 90,
+      "focalLength": 1000
+    },
+    {
+      "id": "meade-polaris-114",
+      "name": "Polaris 114EQ",
+      "manufacturer": "Meade",
+      "type": "newtonian",
+      "aperture": 114,
+      "focalLength": 1000
+    },
+    {
+      "id": "meade-polaris-127",
+      "name": "Polaris 127EQ",
+      "manufacturer": "Meade",
+      "type": "newtonian",
+      "aperture": 127,
+      "focalLength": 1000
+    },
+    {
+      "id": "meade-polaris-130",
+      "name": "Polaris 130EQ",
+      "manufacturer": "Meade",
+      "type": "newtonian",
+      "aperture": 130,
+      "focalLength": 650
+    },
+    {
+      "id": "meade-infinity-60",
+      "name": "Infinity 60mm",
+      "manufacturer": "Meade",
+      "type": "refractor",
+      "aperture": 60,
+      "focalLength": 800
+    },
+    {
+      "id": "meade-infinity-70",
+      "name": "Infinity 70mm",
+      "manufacturer": "Meade",
+      "type": "refractor",
+      "aperture": 70,
+      "focalLength": 700
+    },
+    {
+      "id": "meade-infinity-80",
+      "name": "Infinity 80mm",
+      "manufacturer": "Meade",
+      "type": "refractor",
+      "aperture": 80,
+      "focalLength": 400
+    },
+    {
+      "id": "meade-infinity-102",
+      "name": "Infinity 102mm",
+      "manufacturer": "Meade",
+      "type": "refractor",
+      "aperture": 102,
+      "focalLength": 600
+    },
+    {
+      "id": "meade-starnavigator-102",
+      "name": "StarNavigator NG 102mm",
+      "manufacturer": "Meade",
+      "type": "refractor",
+      "aperture": 102,
+      "focalLength": 660
+    },
+    {
+      "id": "meade-starnavigator-114",
+      "name": "StarNavigator NG 114mm",
+      "manufacturer": "Meade",
+      "type": "newtonian",
+      "aperture": 114,
+      "focalLength": 1000
+    },
+    {
+      "id": "meade-starnavigator-130",
+      "name": "StarNavigator NG 130mm",
+      "manufacturer": "Meade",
+      "type": "newtonian",
+      "aperture": 130,
+      "focalLength": 650
+    },
+    {
+      "id": "meade-6000-70mm",
+      "name": "Series 6000 70mm",
+      "manufacturer": "Meade",
+      "type": "refractor",
+      "aperture": 70,
+      "focalLength": 350
+    },
+    {
+      "id": "meade-6000-80mm",
+      "name": "Series 6000 80mm",
+      "manufacturer": "Meade",
+      "type": "refractor",
+      "aperture": 80,
+      "focalLength": 480
+    },
+    {
+      "id": "meade-6000-115mm",
+      "name": "Series 6000 115mm",
+      "manufacturer": "Meade",
+      "type": "refractor",
+      "aperture": 115,
+      "focalLength": 805
+    },
+    {
+      "id": "meade-6000-130mm",
+      "name": "Series 6000 130mm",
+      "manufacturer": "Meade",
+      "type": "refractor",
+      "aperture": 130,
+      "focalLength": 910
+    },
+    {
+      "id": "explore-scientific-ed80",
+      "name": "ED80 Essential",
+      "manufacturer": "Explore Scientific",
+      "type": "refractor",
+      "aperture": 80,
+      "focalLength": 480
+    },
+    {
+      "id": "explore-scientific-ed102",
+      "name": "ED102",
+      "manufacturer": "Explore Scientific",
+      "type": "refractor",
+      "aperture": 102,
+      "focalLength": 714
+    },
+    {
+      "id": "explore-scientific-ed102-cf",
+      "name": "ED102 FCD100",
+      "manufacturer": "Explore Scientific",
+      "type": "refractor",
+      "aperture": 102,
+      "focalLength": 714
+    },
+    {
+      "id": "explore-scientific-ed127",
+      "name": "ED127",
+      "manufacturer": "Explore Scientific",
+      "type": "refractor",
+      "aperture": 127,
+      "focalLength": 952
+    },
+    {
+      "id": "explore-scientific-ed127-cf",
+      "name": "ED127 FCD100 CF",
+      "manufacturer": "Explore Scientific",
+      "type": "refractor",
+      "aperture": 127,
+      "focalLength": 952
+    },
+    {
+      "id": "explore-scientific-ed140",
+      "name": "ED140 FCD100",
+      "manufacturer": "Explore Scientific",
+      "type": "refractor",
+      "aperture": 140,
+      "focalLength": 910
+    },
+    {
+      "id": "explore-scientific-ed165",
+      "name": "ED165 FCD100 CF",
+      "manufacturer": "Explore Scientific",
+      "type": "refractor",
+      "aperture": 165,
+      "focalLength": 1155
+    },
+    {
+      "id": "explore-scientific-ar102",
+      "name": "AR102",
+      "manufacturer": "Explore Scientific",
+      "type": "refractor",
+      "aperture": 102,
+      "focalLength": 663
+    },
+    {
+      "id": "explore-scientific-ar127",
+      "name": "AR127",
+      "manufacturer": "Explore Scientific",
+      "type": "refractor",
+      "aperture": 127,
+      "focalLength": 826
+    },
+    {
+      "id": "explore-scientific-ar152",
+      "name": "AR152",
+      "manufacturer": "Explore Scientific",
+      "type": "refractor",
+      "aperture": 152,
+      "focalLength": 988
+    },
+    {
+      "id": "explore-scientific-pn208",
+      "name": "PN208",
+      "manufacturer": "Explore Scientific",
+      "type": "newtonian",
+      "aperture": 208,
+      "focalLength": 812
+    },
+    {
+      "id": "explore-scientific-pn254",
+      "name": "PN254",
+      "manufacturer": "Explore Scientific",
+      "type": "newtonian",
+      "aperture": 254,
+      "focalLength": 1016
+    },
+    {
+      "id": "explore-scientific-pn305",
+      "name": "PN305",
+      "manufacturer": "Explore Scientific",
+      "type": "newtonian",
+      "aperture": 305,
+      "focalLength": 1220
+    },
+    {
+      "id": "explore-scientific-dobsonian-10",
+      "name": "Ultra Light 10\"",
+      "manufacturer": "Explore Scientific",
+      "type": "dobsonian",
+      "aperture": 254,
+      "focalLength": 1270
+    },
+    {
+      "id": "explore-scientific-dobsonian-12",
+      "name": "Ultra Light 12\"",
+      "manufacturer": "Explore Scientific",
+      "type": "dobsonian",
+      "aperture": 305,
+      "focalLength": 1524
+    },
+    {
+      "id": "explore-scientific-dobsonian-16",
+      "name": "Ultra Light 16\"",
+      "manufacturer": "Explore Scientific",
+      "type": "dobsonian",
+      "aperture": 406,
+      "focalLength": 1829
+    },
+    {
+      "id": "explore-scientific-mak-127",
+      "name": "Maksutov 127mm",
+      "manufacturer": "Explore Scientific",
+      "type": "maksutovCassegrain",
+      "aperture": 127,
+      "focalLength": 1900
+    },
+    {
+      "id": "explore-scientific-mak-152",
+      "name": "Maksutov 152mm",
+      "manufacturer": "Explore Scientific",
+      "type": "maksutovCassegrain",
+      "aperture": 152,
+      "focalLength": 1900
+    },
+    {
+      "id": "takahashi-fs-60cb",
+      "name": "FS-60CB",
+      "manufacturer": "Takahashi",
+      "type": "refractor",
+      "aperture": 60,
+      "focalLength": 355
+    },
+    {
+      "id": "takahashi-fc-76dc",
+      "name": "FC-76DC",
+      "manufacturer": "Takahashi",
+      "type": "refractor",
+      "aperture": 76,
+      "focalLength": 570
+    },
+    {
+      "id": "takahashi-fc-100dc",
+      "name": "FC-100DC",
+      "manufacturer": "Takahashi",
+      "type": "refractor",
+      "aperture": 100,
+      "focalLength": 740
+    },
+    {
+      "id": "takahashi-fc-100df",
+      "name": "FC-100DF",
+      "manufacturer": "Takahashi",
+      "type": "refractor",
+      "aperture": 100,
+      "focalLength": 580
+    },
+    {
+      "id": "takahashi-tsa-120",
+      "name": "TSA-120",
+      "manufacturer": "Takahashi",
+      "type": "refractor",
+      "aperture": 120,
+      "focalLength": 900
+    },
+    {
+      "id": "takahashi-toa-130nfb",
+      "name": "TOA-130NFB",
+      "manufacturer": "Takahashi",
+      "type": "refractor",
+      "aperture": 130,
+      "focalLength": 1000
+    },
+    {
+      "id": "takahashi-toa-150",
+      "name": "TOA-150",
+      "manufacturer": "Takahashi",
+      "type": "refractor",
+      "aperture": 150,
+      "focalLength": 1100
+    },
+    {
+      "id": "takahashi-foa-60",
+      "name": "FOA-60",
+      "manufacturer": "Takahashi",
+      "type": "refractor",
+      "aperture": 60,
+      "focalLength": 530
+    },
+    {
+      "id": "takahashi-foa-60q",
+      "name": "FOA-60Q",
+      "manufacturer": "Takahashi",
+      "type": "refractor",
+      "aperture": 60,
+      "focalLength": 355
+    },
+    {
+      "id": "takahashi-fsq-85edx",
+      "name": "FSQ-85EDX",
+      "manufacturer": "Takahashi",
+      "type": "refractor",
+      "aperture": 85,
+      "focalLength": 450
+    },
+    {
+      "id": "takahashi-fsq-106ed",
+      "name": "FSQ-106ED",
+      "manufacturer": "Takahashi",
+      "type": "refractor",
+      "aperture": 106,
+      "focalLength": 530
+    },
+    {
+      "id": "takahashi-fsq-130ed",
+      "name": "FSQ-130ED",
+      "manufacturer": "Takahashi",
+      "type": "refractor",
+      "aperture": 130,
+      "focalLength": 650
+    },
+    {
+      "id": "takahashi-epsilon-130d",
+      "name": "Epsilon-130D",
+      "manufacturer": "Takahashi",
+      "type": "newtonian",
+      "aperture": 130,
+      "focalLength": 430
+    },
+    {
+      "id": "takahashi-epsilon-160ed",
+      "name": "Epsilon-160ED",
+      "manufacturer": "Takahashi",
+      "type": "newtonian",
+      "aperture": 160,
+      "focalLength": 530
+    },
+    {
+      "id": "takahashi-mewlon-180c",
+      "name": "Mewlon-180C",
+      "manufacturer": "Takahashi",
+      "type": "ritcheyChretien",
+      "aperture": 180,
+      "focalLength": 2160
+    },
+    {
+      "id": "takahashi-mewlon-210",
+      "name": "Mewlon-210",
+      "manufacturer": "Takahashi",
+      "type": "ritcheyChretien",
+      "aperture": 210,
+      "focalLength": 2415
+    },
+    {
+      "id": "takahashi-mewlon-250crs",
+      "name": "Mewlon-250CRS",
+      "manufacturer": "Takahashi",
+      "type": "ritcheyChretien",
+      "aperture": 250,
+      "focalLength": 2500
+    },
+    {
+      "id": "takahashi-mewlon-300crs",
+      "name": "Mewlon-300CRS",
+      "manufacturer": "Takahashi",
+      "type": "ritcheyChretien",
+      "aperture": 300,
+      "focalLength": 3572
+    },
+    {
+      "id": "takahashi-cn-212",
+      "name": "CN-212",
+      "manufacturer": "Takahashi",
+      "type": "newtonian",
+      "aperture": 212,
+      "focalLength": 850
+    },
+    {
+      "id": "televue-np101is",
+      "name": "NP101is",
+      "manufacturer": "Tele Vue",
+      "type": "refractor",
+      "aperture": 101,
+      "focalLength": 540
+    },
+    {
+      "id": "televue-np127is",
+      "name": "NP127is",
+      "manufacturer": "Tele Vue",
+      "type": "refractor",
+      "aperture": 127,
+      "focalLength": 660
+    },
+    {
+      "id": "televue-tv-60",
+      "name": "TV-60",
+      "manufacturer": "Tele Vue",
+      "type": "refractor",
+      "aperture": 60,
+      "focalLength": 360
+    },
+    {
+      "id": "televue-tv-76",
+      "name": "TV-76",
+      "manufacturer": "Tele Vue",
+      "type": "refractor",
+      "aperture": 76,
+      "focalLength": 480
+    },
+    {
+      "id": "televue-tv-85",
+      "name": "TV-85",
+      "manufacturer": "Tele Vue",
+      "type": "refractor",
+      "aperture": 85,
+      "focalLength": 600
+    },
+    {
+      "id": "william-optics-z61",
+      "name": "ZenithStar 61",
+      "manufacturer": "William Optics",
+      "type": "refractor",
+      "aperture": 61,
+      "focalLength": 360
+    },
+    {
+      "id": "william-optics-z73",
+      "name": "ZenithStar 73",
+      "manufacturer": "William Optics",
+      "type": "refractor",
+      "aperture": 73,
+      "focalLength": 430
+    },
+    {
+      "id": "william-optics-z81",
+      "name": "ZenithStar 81",
+      "manufacturer": "William Optics",
+      "type": "refractor",
+      "aperture": 81,
+      "focalLength": 478
+    },
+    {
+      "id": "william-optics-gt71",
+      "name": "Gran Turismo 71",
+      "manufacturer": "William Optics",
+      "type": "refractor",
+      "aperture": 71,
+      "focalLength": 420
+    },
+    {
+      "id": "william-optics-gt81",
+      "name": "Gran Turismo 81",
+      "manufacturer": "William Optics",
+      "type": "refractor",
+      "aperture": 81,
+      "focalLength": 478
+    },
+    {
+      "id": "william-optics-gt102",
+      "name": "Gran Turismo 102",
+      "manufacturer": "William Optics",
+      "type": "refractor",
+      "aperture": 102,
+      "focalLength": 714
+    },
+    {
+      "id": "william-optics-flt91",
+      "name": "Fluorostar 91",
+      "manufacturer": "William Optics",
+      "type": "refractor",
+      "aperture": 91,
+      "focalLength": 540
+    },
+    {
+      "id": "william-optics-flt98",
+      "name": "Fluorostar 98",
+      "manufacturer": "William Optics",
+      "type": "refractor",
+      "aperture": 98,
+      "focalLength": 618
+    },
+    {
+      "id": "william-optics-flt110",
+      "name": "Fluorostar 110",
+      "manufacturer": "William Optics",
+      "type": "refractor",
+      "aperture": 110,
+      "focalLength": 770
+    },
+    {
+      "id": "william-optics-flt132",
+      "name": "Fluorostar 132",
+      "manufacturer": "William Optics",
+      "type": "refractor",
+      "aperture": 132,
+      "focalLength": 925
+    },
+    {
+      "id": "william-optics-redcat-51",
+      "name": "RedCat 51",
+      "manufacturer": "William Optics",
+      "type": "refractor",
+      "aperture": 51,
+      "focalLength": 250
+    },
+    {
+      "id": "william-optics-redcat-61",
+      "name": "RedCat 61",
+      "manufacturer": "William Optics",
+      "type": "refractor",
+      "aperture": 61,
+      "focalLength": 305
+    },
+    {
+      "id": "william-optics-redcat-71",
+      "name": "RedCat 71",
+      "manufacturer": "William Optics",
+      "type": "refractor",
+      "aperture": 71,
+      "focalLength": 350
+    },
+    {
+      "id": "william-optics-spacecat-51",
+      "name": "SpaceCat 51",
+      "manufacturer": "William Optics",
+      "type": "refractor",
+      "aperture": 51,
+      "focalLength": 250
+    },
+    {
+      "id": "stellarvue-svx80t",
+      "name": "SVX80T",
+      "manufacturer": "Stellarvue",
+      "type": "refractor",
+      "aperture": 80,
+      "focalLength": 480
+    },
+    {
+      "id": "stellarvue-svx90t",
+      "name": "SVX90T",
+      "manufacturer": "Stellarvue",
+      "type": "refractor",
+      "aperture": 90,
+      "focalLength": 540
+    },
+    {
+      "id": "stellarvue-svx102t",
+      "name": "SVX102T",
+      "manufacturer": "Stellarvue",
+      "type": "refractor",
+      "aperture": 102,
+      "focalLength": 714
+    },
+    {
+      "id": "stellarvue-svx130t",
+      "name": "SVX130T",
+      "manufacturer": "Stellarvue",
+      "type": "refractor",
+      "aperture": 130,
+      "focalLength": 910
+    },
+    {
+      "id": "stellarvue-svx152t",
+      "name": "SVX152T",
+      "manufacturer": "Stellarvue",
+      "type": "refractor",
+      "aperture": 152,
+      "focalLength": 1216
+    },
+    {
+      "id": "stellarvue-sv60ed",
+      "name": "SV60ED",
+      "manufacturer": "Stellarvue",
+      "type": "refractor",
+      "aperture": 60,
+      "focalLength": 330
+    },
+    {
+      "id": "stellarvue-sv70t",
+      "name": "SV70T",
+      "manufacturer": "Stellarvue",
+      "type": "refractor",
+      "aperture": 70,
+      "focalLength": 420
+    },
+    {
+      "id": "stellarvue-access-102ed",
+      "name": "Access 102ED",
+      "manufacturer": "Stellarvue",
+      "type": "refractor",
+      "aperture": 102,
+      "focalLength": 714
+    },
+    {
+      "id": "vixen-ed80sf",
+      "name": "ED80Sf",
+      "manufacturer": "Vixen",
+      "type": "refractor",
+      "aperture": 80,
+      "focalLength": 600
+    },
+    {
+      "id": "vixen-ed103s",
+      "name": "ED103S",
+      "manufacturer": "Vixen",
+      "type": "refractor",
+      "aperture": 103,
+      "focalLength": 795
+    },
+    {
+      "id": "vixen-ed115s",
+      "name": "ED115S",
+      "manufacturer": "Vixen",
+      "type": "refractor",
+      "aperture": 115,
+      "focalLength": 890
+    },
+    {
+      "id": "vixen-vsd100",
+      "name": "VSD100",
+      "manufacturer": "Vixen",
+      "type": "refractor",
+      "aperture": 100,
+      "focalLength": 380
+    },
+    {
+      "id": "vixen-r200ss",
+      "name": "R200SS",
+      "manufacturer": "Vixen",
+      "type": "newtonian",
+      "aperture": 200,
+      "focalLength": 800
+    },
+    {
+      "id": "vixen-vc200l",
+      "name": "VC200L",
+      "manufacturer": "Vixen",
+      "type": "ritcheyChretien",
+      "aperture": 200,
+      "focalLength": 1800
+    },
+    {
+      "id": "vixen-vmc200l",
+      "name": "VMC200L",
+      "manufacturer": "Vixen",
+      "type": "maksutovCassegrain",
+      "aperture": 200,
+      "focalLength": 1950
+    },
+    {
+      "id": "vixen-vmc260l",
+      "name": "VMC260L",
+      "manufacturer": "Vixen",
+      "type": "maksutovCassegrain",
+      "aperture": 260,
+      "focalLength": 3000
+    },
+    {
+      "id": "vixen-a70lf",
+      "name": "A70Lf",
+      "manufacturer": "Vixen",
+      "type": "refractor",
+      "aperture": 70,
+      "focalLength": 900
+    },
+    {
+      "id": "vixen-a80mf",
+      "name": "A80Mf",
+      "manufacturer": "Vixen",
+      "type": "refractor",
+      "aperture": 80,
+      "focalLength": 910
+    },
+    {
+      "id": "vixen-na140ssf",
+      "name": "NA140SSf",
+      "manufacturer": "Vixen",
+      "type": "newtonian",
+      "aperture": 140,
+      "focalLength": 800
+    },
+    {
+      "id": "apertura-ad8",
+      "name": "AD8",
+      "manufacturer": "Apertura",
+      "type": "dobsonian",
+      "aperture": 203,
+      "focalLength": 1200
+    },
+    {
+      "id": "apertura-ad10",
+      "name": "AD10",
+      "manufacturer": "Apertura",
+      "type": "dobsonian",
+      "aperture": 254,
+      "focalLength": 1250
+    },
+    {
+      "id": "apertura-ad12",
+      "name": "AD12",
+      "manufacturer": "Apertura",
+      "type": "dobsonian",
+      "aperture": 305,
+      "focalLength": 1500
+    },
+    {
+      "id": "apertura-dt6",
+      "name": "DT6",
+      "manufacturer": "Apertura",
+      "type": "dobsonian",
+      "aperture": 150,
+      "focalLength": 750
+    },
+    {
+      "id": "apertura-dt8",
+      "name": "DT8",
+      "manufacturer": "Apertura",
+      "type": "dobsonian",
+      "aperture": 203,
+      "focalLength": 1200
+    },
+    {
+      "id": "gso-dob-6",
+      "name": "Dobsonian 6\"",
+      "manufacturer": "GSO",
+      "type": "dobsonian",
+      "aperture": 150,
+      "focalLength": 1200
+    },
+    {
+      "id": "gso-dob-8",
+      "name": "Dobsonian 8\"",
+      "manufacturer": "GSO",
+      "type": "dobsonian",
+      "aperture": 203,
+      "focalLength": 1200
+    },
+    {
+      "id": "gso-dob-10",
+      "name": "Dobsonian 10\"",
+      "manufacturer": "GSO",
+      "type": "dobsonian",
+      "aperture": 254,
+      "focalLength": 1250
+    },
+    {
+      "id": "gso-dob-12",
+      "name": "Dobsonian 12\"",
+      "manufacturer": "GSO",
+      "type": "dobsonian",
+      "aperture": 305,
+      "focalLength": 1500
+    },
+    {
+      "id": "gso-dob-16",
+      "name": "Dobsonian 16\"",
+      "manufacturer": "GSO",
+      "type": "dobsonian",
+      "aperture": 406,
+      "focalLength": 1800
+    },
+    {
+      "id": "gso-8-rc",
+      "name": "8\" RC",
+      "manufacturer": "GSO",
+      "type": "ritcheyChretien",
+      "aperture": 203,
+      "focalLength": 1624
+    },
+    {
+      "id": "gso-10-rc",
+      "name": "10\" RC",
+      "manufacturer": "GSO",
+      "type": "ritcheyChretien",
+      "aperture": 254,
+      "focalLength": 2000
+    },
+    {
+      "id": "gso-12-rc",
+      "name": "12\" RC",
+      "manufacturer": "GSO",
+      "type": "ritcheyChretien",
+      "aperture": 305,
+      "focalLength": 2438
+    },
+    {
+      "id": "bresser-messier-ar-102",
+      "name": "Messier AR-102",
+      "manufacturer": "Bresser",
+      "type": "refractor",
+      "aperture": 102,
+      "focalLength": 1000
+    },
+    {
+      "id": "bresser-messier-ar-127",
+      "name": "Messier AR-127",
+      "manufacturer": "Bresser",
+      "type": "refractor",
+      "aperture": 127,
+      "focalLength": 1200
+    },
+    {
+      "id": "bresser-messier-ar-152",
+      "name": "Messier AR-152",
+      "manufacturer": "Bresser",
+      "type": "refractor",
+      "aperture": 152,
+      "focalLength": 1200
+    },
+    {
+      "id": "bresser-messier-nt-150",
+      "name": "Messier NT-150",
+      "manufacturer": "Bresser",
+      "type": "newtonian",
+      "aperture": 150,
+      "focalLength": 750
+    },
+    {
+      "id": "bresser-messier-nt-203",
+      "name": "Messier NT-203",
+      "manufacturer": "Bresser",
+      "type": "newtonian",
+      "aperture": 203,
+      "focalLength": 1000
+    },
+    {
+      "id": "bresser-messier-mc-127",
+      "name": "Messier MC-127",
+      "manufacturer": "Bresser",
+      "type": "maksutovCassegrain",
+      "aperture": 127,
+      "focalLength": 1900
+    },
+    {
+      "id": "bresser-messier-dob-8",
+      "name": "Messier DOB 8\"",
+      "manufacturer": "Bresser",
+      "type": "dobsonian",
+      "aperture": 203,
+      "focalLength": 1200
+    },
+    {
+      "id": "bresser-messier-dob-10",
+      "name": "Messier DOB 10\"",
+      "manufacturer": "Bresser",
+      "type": "dobsonian",
+      "aperture": 254,
+      "focalLength": 1250
+    },
+    {
+      "id": "askar-fra300",
+      "name": "FRA300 Pro",
+      "manufacturer": "Askar",
+      "type": "refractor",
+      "aperture": 60,
+      "focalLength": 300
+    },
+    {
+      "id": "askar-fra400",
+      "name": "FRA400",
+      "manufacturer": "Askar",
+      "type": "refractor",
+      "aperture": 72,
+      "focalLength": 400
+    },
+    {
+      "id": "askar-fra500",
+      "name": "FRA500",
+      "manufacturer": "Askar",
+      "type": "refractor",
+      "aperture": 90,
+      "focalLength": 500
+    },
+    {
+      "id": "askar-fra600",
+      "name": "FRA600",
+      "manufacturer": "Askar",
+      "type": "refractor",
+      "aperture": 108,
+      "focalLength": 600
+    },
+    {
+      "id": "askar-acl200",
+      "name": "ACL200",
+      "manufacturer": "Askar",
+      "type": "refractor",
+      "aperture": 50,
+      "focalLength": 200
+    },
+    {
+      "id": "askar-65phq",
+      "name": "65PHQ",
+      "manufacturer": "Askar",
+      "type": "refractor",
+      "aperture": 65,
+      "focalLength": 416
+    },
+    {
+      "id": "askar-80phq",
+      "name": "80PHQ",
+      "manufacturer": "Askar",
+      "type": "refractor",
+      "aperture": 80,
+      "focalLength": 512
+    },
+    {
+      "id": "askar-103apo",
+      "name": "103APO",
+      "manufacturer": "Askar",
+      "type": "refractor",
+      "aperture": 103,
+      "focalLength": 690
+    },
+    {
+      "id": "askar-151phq",
+      "name": "151PHQ",
+      "manufacturer": "Askar",
+      "type": "refractor",
+      "aperture": 151,
+      "focalLength": 1057
+    },
+    {
+      "id": "sharpstar-61edph",
+      "name": "61EDPH II",
+      "manufacturer": "Sharpstar",
+      "type": "refractor",
+      "aperture": 61,
+      "focalLength": 274
+    },
+    {
+      "id": "sharpstar-76edph",
+      "name": "76EDPH",
+      "manufacturer": "Sharpstar",
+      "type": "refractor",
+      "aperture": 76,
+      "focalLength": 342
+    },
+    {
+      "id": "sharpstar-94edph",
+      "name": "94EDPH",
+      "manufacturer": "Sharpstar",
+      "type": "refractor",
+      "aperture": 94,
+      "focalLength": 414
+    },
+    {
+      "id": "sharpstar-107ph",
+      "name": "107PH",
+      "manufacturer": "Sharpstar",
+      "type": "refractor",
+      "aperture": 107,
+      "focalLength": 749
+    },
+    {
+      "id": "sharpstar-140ph",
+      "name": "140PH",
+      "manufacturer": "Sharpstar",
+      "type": "refractor",
+      "aperture": 140,
+      "focalLength": 910
+    },
+    {
+      "id": "sharpstar-15028hnt",
+      "name": "15028HNT",
+      "manufacturer": "Sharpstar",
+      "type": "newtonian",
+      "aperture": 150,
+      "focalLength": 420
+    },
+    {
+      "id": "sharpstar-20028hnt",
+      "name": "20028HNT",
+      "manufacturer": "Sharpstar",
+      "type": "newtonian",
+      "aperture": 200,
+      "focalLength": 560
+    },
+    {
+      "id": "astro-physics-stowaway",
+      "name": "Stowaway 92mm",
+      "manufacturer": "Astro-Physics",
+      "type": "refractor",
+      "aperture": 92,
+      "focalLength": 644
+    },
+    {
+      "id": "astro-physics-traveler-105",
+      "name": "Traveler 105mm",
+      "manufacturer": "Astro-Physics",
+      "type": "refractor",
+      "aperture": 105,
+      "focalLength": 609
+    },
+    {
+      "id": "astro-physics-130gtx",
+      "name": "130GTX",
+      "manufacturer": "Astro-Physics",
+      "type": "refractor",
+      "aperture": 130,
+      "focalLength": 780
+    },
+    {
+      "id": "astro-physics-140edf",
+      "name": "140EDF",
+      "manufacturer": "Astro-Physics",
+      "type": "refractor",
+      "aperture": 140,
+      "focalLength": 980
+    },
+    {
+      "id": "astro-physics-155edf",
+      "name": "155EDF",
+      "manufacturer": "Astro-Physics",
+      "type": "refractor",
+      "aperture": 155,
+      "focalLength": 1085
+    },
+    {
+      "id": "astro-physics-175edf",
+      "name": "175EDF",
+      "manufacturer": "Astro-Physics",
+      "type": "refractor",
+      "aperture": 175,
+      "focalLength": 1225
+    },
+    {
+      "id": "planewave-cdk12.5",
+      "name": "CDK12.5",
+      "manufacturer": "PlaneWave",
+      "type": "ritcheyChretien",
+      "aperture": 318,
+      "focalLength": 2541
+    },
+    {
+      "id": "planewave-cdk14",
+      "name": "CDK14",
+      "manufacturer": "PlaneWave",
+      "type": "ritcheyChretien",
+      "aperture": 356,
+      "focalLength": 2563
+    },
+    {
+      "id": "planewave-cdk17",
+      "name": "CDK17",
+      "manufacturer": "PlaneWave",
+      "type": "ritcheyChretien",
+      "aperture": 432,
+      "focalLength": 2939
+    },
+    {
+      "id": "planewave-cdk20",
+      "name": "CDK20",
+      "manufacturer": "PlaneWave",
+      "type": "ritcheyChretien",
+      "aperture": 508,
+      "focalLength": 3454
+    },
+    {
+      "id": "planewave-cdk24",
+      "name": "CDK24",
+      "manufacturer": "PlaneWave",
+      "type": "ritcheyChretien",
+      "aperture": 610,
+      "focalLength": 3962
+    },
+    {
+      "id": "planewave-cdk700",
+      "name": "CDK700",
+      "manufacturer": "PlaneWave",
+      "type": "ritcheyChretien",
+      "aperture": 700,
+      "focalLength": 4540
+    },
+    {
+      "id": "asa-n8",
+      "name": "N8 Astrograph",
+      "manufacturer": "ASA",
+      "type": "newtonian",
+      "aperture": 200,
+      "focalLength": 560
+    },
+    {
+      "id": "asa-n10",
+      "name": "N10 Astrograph",
+      "manufacturer": "ASA",
+      "type": "newtonian",
+      "aperture": 250,
+      "focalLength": 900
+    },
+    {
+      "id": "asa-n12",
+      "name": "N12 Astrograph",
+      "manufacturer": "ASA",
+      "type": "newtonian",
+      "aperture": 300,
+      "focalLength": 1080
+    },
+    {
+      "id": "asa-rc10",
+      "name": "RC10",
+      "manufacturer": "ASA",
+      "type": "ritcheyChretien",
+      "aperture": 250,
+      "focalLength": 2000
+    },
+    {
+      "id": "asa-rc12",
+      "name": "RC12",
+      "manufacturer": "ASA",
+      "type": "ritcheyChretien",
+      "aperture": 300,
+      "focalLength": 2400
+    },
+    {
+      "id": "officina-stellare-rh200",
+      "name": "RH200",
+      "manufacturer": "Officina Stellare",
+      "type": "ritcheyChretien",
+      "aperture": 200,
+      "focalLength": 1600
+    },
+    {
+      "id": "officina-stellare-rh250",
+      "name": "RH250",
+      "manufacturer": "Officina Stellare",
+      "type": "ritcheyChretien",
+      "aperture": 250,
+      "focalLength": 2000
+    },
+    {
+      "id": "officina-stellare-rh300",
+      "name": "RH300",
+      "manufacturer": "Officina Stellare",
+      "type": "ritcheyChretien",
+      "aperture": 300,
+      "focalLength": 2400
+    },
+    {
+      "id": "officina-stellare-rh360",
+      "name": "RH360",
+      "manufacturer": "Officina Stellare",
+      "type": "ritcheyChretien",
+      "aperture": 360,
+      "focalLength": 2880
+    },
+    {
+      "id": "zwo-seestar-s50",
+      "name": "Seestar S50",
+      "manufacturer": "ZWO",
+      "type": "refractor",
+      "aperture": 50,
+      "focalLength": 250
+    },
+    {
+      "id": "zwo-ff65",
+      "name": "FF65 APO",
+      "manufacturer": "ZWO",
+      "type": "refractor",
+      "aperture": 65,
+      "focalLength": 416
+    },
+    {
+      "id": "zwo-ff80",
+      "name": "FF80 APO",
+      "manufacturer": "ZWO",
+      "type": "refractor",
+      "aperture": 80,
+      "focalLength": 513
+    },
+    {
+      "id": "zwo-ff107",
+      "name": "FF107 APO",
+      "manufacturer": "ZWO",
+      "type": "refractor",
+      "aperture": 107,
+      "focalLength": 616
+    },
+    {
+      "id": "vaonis-stellina",
+      "name": "Stellina",
+      "manufacturer": "Vaonis",
+      "type": "refractor",
+      "aperture": 80,
+      "focalLength": 400
+    },
+    {
+      "id": "vaonis-vespera",
+      "name": "Vespera",
+      "manufacturer": "Vaonis",
+      "type": "refractor",
+      "aperture": 50,
+      "focalLength": 200
+    },
+    {
+      "id": "vaonis-vespera-ii",
+      "name": "Vespera II",
+      "manufacturer": "Vaonis",
+      "type": "refractor",
+      "aperture": 50,
+      "focalLength": 250
+    },
+    {
+      "id": "vaonis-hyperia",
+      "name": "Hyperia",
+      "manufacturer": "Vaonis",
+      "type": "refractor",
+      "aperture": 150,
+      "focalLength": 540
+    },
+    {
+      "id": "unistellar-evscope",
+      "name": "eVscope",
+      "manufacturer": "Unistellar",
+      "type": "newtonian",
+      "aperture": 114,
+      "focalLength": 450
+    },
+    {
+      "id": "unistellar-evscope-2",
+      "name": "eVscope 2",
+      "manufacturer": "Unistellar",
+      "type": "newtonian",
+      "aperture": 114,
+      "focalLength": 450
+    },
+    {
+      "id": "unistellar-equinox",
+      "name": "eQuinox",
+      "manufacturer": "Unistellar",
+      "type": "newtonian",
+      "aperture": 114,
+      "focalLength": 450
+    },
+    {
+      "id": "unistellar-equinox-2",
+      "name": "eQuinox 2",
+      "manufacturer": "Unistellar",
+      "type": "newtonian",
+      "aperture": 114,
+      "focalLength": 450
+    },
+    {
+      "id": "unistellar-odyssey",
+      "name": "Odyssey",
+      "manufacturer": "Unistellar",
+      "type": "newtonian",
+      "aperture": 85,
+      "focalLength": 320
+    },
+    {
+      "id": "unistellar-odyssey-pro",
+      "name": "Odyssey Pro",
+      "manufacturer": "Unistellar",
+      "type": "newtonian",
+      "aperture": 85,
+      "focalLength": 320
+    },
+    {
+      "id": "dwarf-lab-dwarf-ii",
+      "name": "DWARF II",
+      "manufacturer": "Dwarf Lab",
+      "type": "refractor",
+      "aperture": 24,
+      "focalLength": 100
+    },
+    {
+      "id": "dwarf-lab-dwarf-3",
+      "name": "DWARF 3",
+      "manufacturer": "Dwarf Lab",
+      "type": "refractor",
+      "aperture": 65,
+      "focalLength": 280
+    },
+    {
+      "id": "svbony-sv503-70",
+      "name": "SV503 70ED",
+      "manufacturer": "SVBony",
+      "type": "refractor",
+      "aperture": 70,
+      "focalLength": 420
+    },
+    {
+      "id": "svbony-sv503-80",
+      "name": "SV503 80ED",
+      "manufacturer": "SVBony",
+      "type": "refractor",
+      "aperture": 80,
+      "focalLength": 560
+    },
+    {
+      "id": "svbony-sv503-102",
+      "name": "SV503 102ED",
+      "manufacturer": "SVBony",
+      "type": "refractor",
+      "aperture": 102,
+      "focalLength": 714
+    },
+    {
+      "id": "svbony-sv550-80",
+      "name": "SV550 80",
+      "manufacturer": "SVBony",
+      "type": "refractor",
+      "aperture": 80,
+      "focalLength": 480
+    },
+    {
+      "id": "svbony-sv550-122",
+      "name": "SV550 122",
+      "manufacturer": "SVBony",
+      "type": "refractor",
+      "aperture": 122,
+      "focalLength": 732
+    },
+    {
+      "id": "ts-optics-photoline-60",
+      "name": "Photoline 60mm",
+      "manufacturer": "TS-Optics",
+      "type": "refractor",
+      "aperture": 60,
+      "focalLength": 360
+    },
+    {
+      "id": "ts-optics-photoline-80",
+      "name": "Photoline 80mm",
+      "manufacturer": "TS-Optics",
+      "type": "refractor",
+      "aperture": 80,
+      "focalLength": 480
+    },
+    {
+      "id": "ts-optics-photoline-102",
+      "name": "Photoline 102mm",
+      "manufacturer": "TS-Optics",
+      "type": "refractor",
+      "aperture": 102,
+      "focalLength": 714
+    },
+    {
+      "id": "ts-optics-photoline-130",
+      "name": "Photoline 130mm",
+      "manufacturer": "TS-Optics",
+      "type": "refractor",
+      "aperture": 130,
+      "focalLength": 910
+    },
+    {
+      "id": "ts-optics-cf-apo-80",
+      "name": "CF-APO 80mm",
+      "manufacturer": "TS-Optics",
+      "type": "refractor",
+      "aperture": 80,
+      "focalLength": 480
+    },
+    {
+      "id": "ts-optics-rc8",
+      "name": "RC 8\"",
+      "manufacturer": "TS-Optics",
+      "type": "ritcheyChretien",
+      "aperture": 203,
+      "focalLength": 1624
+    },
+    {
+      "id": "ts-optics-rc10",
+      "name": "RC 10\"",
+      "manufacturer": "TS-Optics",
+      "type": "ritcheyChretien",
+      "aperture": 254,
+      "focalLength": 2000
+    },
+    {
+      "id": "tecnosky-ag70",
+      "name": "AG70",
+      "manufacturer": "Tecnosky",
+      "type": "refractor",
+      "aperture": 70,
+      "focalLength": 350
+    },
+    {
+      "id": "tecnosky-ag102",
+      "name": "AG102",
+      "manufacturer": "Tecnosky",
+      "type": "refractor",
+      "aperture": 102,
+      "focalLength": 510
+    },
+    {
+      "id": "tecnosky-rc6",
+      "name": "RC 6\"",
+      "manufacturer": "Tecnosky",
+      "type": "ritcheyChretien",
+      "aperture": 154,
+      "focalLength": 1370
+    },
+    {
+      "id": "tecnosky-rc8",
+      "name": "RC 8\"",
+      "manufacturer": "Tecnosky",
+      "type": "ritcheyChretien",
+      "aperture": 203,
+      "focalLength": 1624
+    },
+    {
+      "id": "agema-sd-80",
+      "name": "SD 80",
+      "manufacturer": "Agema Optics",
+      "type": "refractor",
+      "aperture": 80,
+      "focalLength": 500
+    },
+    {
+      "id": "agema-sd-105",
+      "name": "SD 105",
+      "manufacturer": "Agema Optics",
+      "type": "refractor",
+      "aperture": 105,
+      "focalLength": 660
+    },
+    {
+      "id": "agema-sd-120",
+      "name": "SD 120",
+      "manufacturer": "Agema Optics",
+      "type": "refractor",
+      "aperture": 120,
+      "focalLength": 744
+    },
+    {
+      "id": "agema-sd-150",
+      "name": "SD 150",
+      "manufacturer": "Agema Optics",
+      "type": "refractor",
+      "aperture": 150,
+      "focalLength": 930
+    },
+    {
+      "id": "lunt-ls60tha",
+      "name": "LS60THa",
+      "manufacturer": "Lunt",
+      "type": "refractor",
+      "aperture": 60,
+      "focalLength": 500
+    },
+    {
+      "id": "lunt-ls80tha",
+      "name": "LS80THa",
+      "manufacturer": "Lunt",
+      "type": "refractor",
+      "aperture": 80,
+      "focalLength": 560
+    },
+    {
+      "id": "lunt-ls100tha",
+      "name": "LS100THa",
+      "manufacturer": "Lunt",
+      "type": "refractor",
+      "aperture": 100,
+      "focalLength": 714
+    },
+    {
+      "id": "lunt-ls130tha",
+      "name": "LS130THa",
+      "manufacturer": "Lunt",
+      "type": "refractor",
+      "aperture": 130,
+      "focalLength": 910
+    },
+    {
+      "id": "lunt-ls152tha",
+      "name": "LS152THa",
+      "manufacturer": "Lunt",
+      "type": "refractor",
+      "aperture": 152,
+      "focalLength": 900
+    },
+    {
+      "id": "lunt-ls35",
+      "name": "LS35",
+      "manufacturer": "Lunt",
+      "type": "refractor",
+      "aperture": 35,
+      "focalLength": 400
+    },
+    {
+      "id": "lunt-ls50",
+      "name": "LS50",
+      "manufacturer": "Lunt",
+      "type": "refractor",
+      "aperture": 50,
+      "focalLength": 350
+    },
+    {
+      "id": "coronado-pst",
+      "name": "PST",
+      "manufacturer": "Coronado",
+      "type": "refractor",
+      "aperture": 40,
+      "focalLength": 400
+    },
+    {
+      "id": "coronado-solarmax-60",
+      "name": "SolarMax II 60",
+      "manufacturer": "Coronado",
+      "type": "refractor",
+      "aperture": 60,
+      "focalLength": 400
+    },
+    {
+      "id": "coronado-solarmax-90",
+      "name": "SolarMax II 90",
+      "manufacturer": "Coronado",
+      "type": "refractor",
+      "aperture": 90,
+      "focalLength": 800
+    }
+  ]
+}

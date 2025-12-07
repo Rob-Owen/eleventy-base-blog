@@ -1,0 +1,629 @@
+{
+  "version": 1,
+  "generatedAt": "2025-12-07T00:00:00Z",
+  "barlows": [
+    {
+      "id": "televue-powermate-2x-125",
+      "name": "Powermate 2x 1.25\"",
+      "manufacturer": "Tele Vue",
+      "factor": 2.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "televue-powermate-25x-125",
+      "name": "Powermate 2.5x 1.25\"",
+      "manufacturer": "Tele Vue",
+      "factor": 2.5,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "televue-powermate-4x-125",
+      "name": "Powermate 4x 1.25\"",
+      "manufacturer": "Tele Vue",
+      "factor": 4.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "televue-powermate-5x-125",
+      "name": "Powermate 5x 1.25\"",
+      "manufacturer": "Tele Vue",
+      "factor": 5.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "televue-powermate-2x-2",
+      "name": "Powermate 2x 2\"",
+      "manufacturer": "Tele Vue",
+      "factor": 2.0,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "televue-powermate-25x-2",
+      "name": "Powermate 2.5x 2\"",
+      "manufacturer": "Tele Vue",
+      "factor": 2.5,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "televue-powermate-4x-2",
+      "name": "Powermate 4x 2\"",
+      "manufacturer": "Tele Vue",
+      "factor": 4.0,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "televue-powermate-5x-2",
+      "name": "Powermate 5x 2\"",
+      "manufacturer": "Tele Vue",
+      "factor": 5.0,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "televue-big-barlow-2x",
+      "name": "Big Barlow 2x 2\"",
+      "manufacturer": "Tele Vue",
+      "factor": 2.0,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "televue-barlow-2x-125",
+      "name": "Barlow 2x 1.25\"",
+      "manufacturer": "Tele Vue",
+      "factor": 2.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "televue-barlow-3x-125",
+      "name": "Barlow 3x 1.25\"",
+      "manufacturer": "Tele Vue",
+      "factor": 3.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "celestron-x-cel-lx-2x-125",
+      "name": "X-Cel LX 2x 1.25\"",
+      "manufacturer": "Celestron",
+      "factor": 2.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "celestron-x-cel-lx-3x-125",
+      "name": "X-Cel LX 3x 1.25\"",
+      "manufacturer": "Celestron",
+      "factor": 3.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "celestron-x-cel-lx-2x-2",
+      "name": "X-Cel LX 2x 2\"",
+      "manufacturer": "Celestron",
+      "factor": 2.0,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "celestron-ultima-2x-125",
+      "name": "Ultima 2x 1.25\"",
+      "manufacturer": "Celestron",
+      "factor": 2.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "celestron-ultima-5x-125",
+      "name": "Ultima 5x 1.25\"",
+      "manufacturer": "Celestron",
+      "factor": 5.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "celestron-luminos-2x-125",
+      "name": "Luminos 2x 1.25\"",
+      "manufacturer": "Celestron",
+      "factor": 2.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "celestron-luminos-25x-2",
+      "name": "Luminos 2.5x 2\"",
+      "manufacturer": "Celestron",
+      "factor": 2.5,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "celestron-omni-2x-125",
+      "name": "Omni 2x 1.25\"",
+      "manufacturer": "Celestron",
+      "factor": 2.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "celestron-reducer-063-sct",
+      "name": "f/6.3 Reducer/Corrector",
+      "manufacturer": "Celestron",
+      "factor": 0.63,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "celestron-reducer-075-edgehd",
+      "name": "f/7 Reducer EdgeHD",
+      "manufacturer": "Celestron",
+      "factor": 0.7,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "baader-q-barlow-225x-125",
+      "name": "Q-Barlow 2.25x 1.25\"",
+      "manufacturer": "Baader",
+      "factor": 2.25,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "baader-morpheus-225x-2",
+      "name": "Morpheus 2.25x 2\"",
+      "manufacturer": "Baader",
+      "factor": 2.25,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "baader-vip-2x-125",
+      "name": "VIP 2x 1.25\"",
+      "manufacturer": "Baader",
+      "factor": 2.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "baader-classic-ortho-2x-125",
+      "name": "Classic Ortho 2x 1.25\"",
+      "manufacturer": "Baader",
+      "factor": 2.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "baader-mark-iv-4x-125",
+      "name": "Mark IV 4x 1.25\"",
+      "manufacturer": "Baader",
+      "factor": 4.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "explore-scientific-focal-extender-2x-125",
+      "name": "2x Focal Extender 1.25\"",
+      "manufacturer": "Explore Scientific",
+      "factor": 2.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "explore-scientific-focal-extender-3x-125",
+      "name": "3x Focal Extender 1.25\"",
+      "manufacturer": "Explore Scientific",
+      "factor": 3.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "explore-scientific-focal-extender-2x-2",
+      "name": "2x Focal Extender 2\"",
+      "manufacturer": "Explore Scientific",
+      "factor": 2.0,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "explore-scientific-focal-extender-3x-2",
+      "name": "3x Focal Extender 2\"",
+      "manufacturer": "Explore Scientific",
+      "factor": 3.0,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "explore-scientific-reducer-068",
+      "name": "0.68x Focal Reducer",
+      "manufacturer": "Explore Scientific",
+      "factor": 0.68,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "orion-shorty-2x-125",
+      "name": "Shorty 2x 1.25\"",
+      "manufacturer": "Orion",
+      "factor": 2.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "orion-shorty-125x-125",
+      "name": "Shorty 1.25x 1.25\"",
+      "manufacturer": "Orion",
+      "factor": 1.25,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "orion-deluxe-2x-125",
+      "name": "Deluxe 2x 1.25\"",
+      "manufacturer": "Orion",
+      "factor": 2.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "orion-deluxe-3x-125",
+      "name": "Deluxe 3x 1.25\"",
+      "manufacturer": "Orion",
+      "factor": 3.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "orion-ultimate-2x-125",
+      "name": "Ultimate 2x 1.25\"",
+      "manufacturer": "Orion",
+      "factor": 2.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "orion-edge-on-2x-125",
+      "name": "Edge-On 2x 1.25\"",
+      "manufacturer": "Orion",
+      "factor": 2.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "meade-4000-140-2x-125",
+      "name": "#140 2x 1.25\"",
+      "manufacturer": "Meade",
+      "factor": 2.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "meade-4000-140-3x-125",
+      "name": "#140 3x 1.25\"",
+      "manufacturer": "Meade",
+      "factor": 3.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "meade-4000-126-2x-2",
+      "name": "#126 2x 2\"",
+      "manufacturer": "Meade",
+      "factor": 2.0,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "meade-reducer-063",
+      "name": "f/6.3 Reducer/Corrector",
+      "manufacturer": "Meade",
+      "factor": 0.63,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "meade-reducer-033",
+      "name": "f/3.3 Reducer",
+      "manufacturer": "Meade",
+      "factor": 0.33,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "gso-2x-125",
+      "name": "2x Barlow 1.25\"",
+      "manufacturer": "GSO",
+      "factor": 2.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "gso-3x-125",
+      "name": "3x Barlow 1.25\"",
+      "manufacturer": "GSO",
+      "factor": 3.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "gso-5x-125",
+      "name": "5x Barlow 1.25\"",
+      "manufacturer": "GSO",
+      "factor": 5.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "gso-2x-2",
+      "name": "2x Barlow 2\"",
+      "manufacturer": "GSO",
+      "factor": 2.0,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "svbony-2x-125",
+      "name": "2x Barlow 1.25\"",
+      "manufacturer": "Svbony",
+      "factor": 2.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "svbony-3x-125",
+      "name": "3x Barlow 1.25\"",
+      "manufacturer": "Svbony",
+      "factor": 3.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "svbony-5x-125",
+      "name": "5x Barlow 1.25\"",
+      "manufacturer": "Svbony",
+      "factor": 5.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "svbony-2x-2",
+      "name": "2x Barlow 2\"",
+      "manufacturer": "Svbony",
+      "factor": 2.0,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "antares-2x-125",
+      "name": "2x Barlow 1.25\"",
+      "manufacturer": "Antares",
+      "factor": 2.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "antares-3x-125",
+      "name": "3x Barlow 1.25\"",
+      "manufacturer": "Antares",
+      "factor": 3.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "antares-ultimate-2x-125",
+      "name": "Ultimate 2x 1.25\"",
+      "manufacturer": "Antares",
+      "factor": 2.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "antares-speers-waler-125x-125",
+      "name": "Speers-Waler 1.25x 1.25\"",
+      "manufacturer": "Antares",
+      "factor": 1.25,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "antares-speers-waler-14x-125",
+      "name": "Speers-Waler 1.4x 1.25\"",
+      "manufacturer": "Antares",
+      "factor": 1.4,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "antares-speers-waler-17x-125",
+      "name": "Speers-Waler 1.7x 1.25\"",
+      "manufacturer": "Antares",
+      "factor": 1.7,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "antares-speers-waler-2x-2",
+      "name": "Speers-Waler 2x 2\"",
+      "manufacturer": "Antares",
+      "factor": 2.0,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "astronomics-2x-125",
+      "name": "2x Barlow 1.25\"",
+      "manufacturer": "Astronomics",
+      "factor": 2.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "astronomics-3x-125",
+      "name": "3x Barlow 1.25\"",
+      "manufacturer": "Astronomics",
+      "factor": 3.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "bresser-2x-125",
+      "name": "2x Barlow 1.25\"",
+      "manufacturer": "Bresser",
+      "factor": 2.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "bresser-3x-125",
+      "name": "3x Barlow 1.25\"",
+      "manufacturer": "Bresser",
+      "factor": 3.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "bresser-5x-125",
+      "name": "5x Barlow 1.25\"",
+      "manufacturer": "Bresser",
+      "factor": 5.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "skywatcher-2x-125",
+      "name": "2x Barlow 1.25\"",
+      "manufacturer": "Sky-Watcher",
+      "factor": 2.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "skywatcher-3x-125",
+      "name": "3x Barlow 1.25\"",
+      "manufacturer": "Sky-Watcher",
+      "factor": 3.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "skywatcher-5x-125",
+      "name": "5x Barlow 1.25\"",
+      "manufacturer": "Sky-Watcher",
+      "factor": 5.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "skywatcher-2x-2",
+      "name": "2x Barlow 2\"",
+      "manufacturer": "Sky-Watcher",
+      "factor": 2.0,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "skywatcher-reducer-085",
+      "name": "0.85x Reducer",
+      "manufacturer": "Sky-Watcher",
+      "factor": 0.85,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "apm-barcon-225x-125",
+      "name": "BarCon 2.25x 1.25\"",
+      "manufacturer": "APM",
+      "factor": 2.25,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "apm-barcon-225x-2",
+      "name": "BarCon 2.25x 2\"",
+      "manufacturer": "APM",
+      "factor": 2.25,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "apm-barcon-27x-2",
+      "name": "BarCon 2.7x 2\"",
+      "manufacturer": "APM",
+      "factor": 2.7,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "astro-professional-2x-125",
+      "name": "ED 2x 1.25\"",
+      "manufacturer": "Astro Professional",
+      "factor": 2.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "astro-professional-3x-125",
+      "name": "ED 3x 1.25\"",
+      "manufacturer": "Astro Professional",
+      "factor": 3.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "pentax-xw-2x-125",
+      "name": "XW 2x 1.25\"",
+      "manufacturer": "Pentax",
+      "factor": 2.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "pentax-xw-3x-125",
+      "name": "XW 3x 1.25\"",
+      "manufacturer": "Pentax",
+      "factor": 3.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "takahashi-exb-2x-125",
+      "name": "EXB 2x 1.25\"",
+      "manufacturer": "Takahashi",
+      "factor": 2.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "takahashi-exb-25x-125",
+      "name": "EXB 2.5x 1.25\"",
+      "manufacturer": "Takahashi",
+      "factor": 2.5,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "takahashi-reducer-075",
+      "name": "0.75x Reducer",
+      "manufacturer": "Takahashi",
+      "factor": 0.75,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "takahashi-reducer-067",
+      "name": "0.67x Reducer",
+      "manufacturer": "Takahashi",
+      "factor": 0.67,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "william-optics-2x-125",
+      "name": "SWAN 2x 1.25\"",
+      "manufacturer": "William Optics",
+      "factor": 2.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "william-optics-reducer-08",
+      "name": "0.8x Reducer",
+      "manufacturer": "William Optics",
+      "factor": 0.8,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "william-optics-reducer-073",
+      "name": "0.73x Reducer",
+      "manufacturer": "William Optics",
+      "factor": 0.73,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "vixen-2x-125",
+      "name": "NLV 2x 1.25\"",
+      "manufacturer": "Vixen",
+      "factor": 2.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "vixen-3x-125",
+      "name": "NLV 3x 1.25\"",
+      "manufacturer": "Vixen",
+      "factor": 3.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "vixen-reducer-067",
+      "name": "0.67x Reducer",
+      "manufacturer": "Vixen",
+      "factor": 0.67,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "borg-reducer-07",
+      "name": "0.7x Reducer",
+      "manufacturer": "Borg",
+      "factor": 0.7,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "borg-reducer-066",
+      "name": "0.66x Reducer",
+      "manufacturer": "Borg",
+      "factor": 0.66,
+      "barrelSize": "2\""
+    },
+    {
+      "id": "hotech-sca-2x-125",
+      "name": "SCA 2x 1.25\"",
+      "manufacturer": "Hotech",
+      "factor": 2.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "hotech-sca-3x-125",
+      "name": "SCA 3x 1.25\"",
+      "manufacturer": "Hotech",
+      "factor": 3.0,
+      "barrelSize": "1.25\""
+    },
+    {
+      "id": "hotech-sca-reducer-067",
+      "name": "SCA 0.67x Reducer",
+      "manufacturer": "Hotech",
+      "factor": 0.67,
+      "barrelSize": "2\""
+    }
+  ]
+}

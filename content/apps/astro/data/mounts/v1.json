@@ -1,0 +1,1491 @@
+{
+  "version": 1,
+  "generatedAt": "2025-12-07T00:00:00Z",
+  "mounts": [
+    {
+      "id": "skywatcher-eq6-r-pro",
+      "name": "EQ6-R Pro",
+      "manufacturer": "Sky-Watcher",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 20,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "skywatcher-eq6-r",
+      "name": "EQ6-R",
+      "manufacturer": "Sky-Watcher",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 20,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "skywatcher-neq6-pro",
+      "name": "NEQ6 Pro",
+      "manufacturer": "Sky-Watcher",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 18,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "skywatcher-eq5-pro",
+      "name": "EQ5 Pro SynScan",
+      "manufacturer": "Sky-Watcher",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 10,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "skywatcher-eq5",
+      "name": "EQ5",
+      "manufacturer": "Sky-Watcher",
+      "type": "equatorialManual",
+      "payloadCapacity": 10,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "skywatcher-eq3-pro",
+      "name": "EQ3 Pro SynScan",
+      "manufacturer": "Sky-Watcher",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 5.5,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "skywatcher-eq3-2",
+      "name": "EQ3-2",
+      "manufacturer": "Sky-Watcher",
+      "type": "equatorialManual",
+      "payloadCapacity": 5.5,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "skywatcher-eq2",
+      "name": "EQ2",
+      "manufacturer": "Sky-Watcher",
+      "type": "equatorialManual",
+      "payloadCapacity": 3.5,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "skywatcher-eq1",
+      "name": "EQ1",
+      "manufacturer": "Sky-Watcher",
+      "type": "equatorialManual",
+      "payloadCapacity": 2,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "skywatcher-heq5-pro",
+      "name": "HEQ5 Pro",
+      "manufacturer": "Sky-Watcher",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 13,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "skywatcher-az-eq6-gt",
+      "name": "AZ-EQ6 GT",
+      "manufacturer": "Sky-Watcher",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 20,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "skywatcher-az-eq5-gt",
+      "name": "AZ-EQ5 GT",
+      "manufacturer": "Sky-Watcher",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 10,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "skywatcher-eq8-r-pro",
+      "name": "EQ8-R Pro",
+      "manufacturer": "Sky-Watcher",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 50,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "skywatcher-eq8-rh",
+      "name": "EQ8-RH",
+      "manufacturer": "Sky-Watcher",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 50,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "skywatcher-az-gti",
+      "name": "AZ-GTi",
+      "manufacturer": "Sky-Watcher",
+      "type": "altAzGoTo",
+      "payloadCapacity": 5,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "skywatcher-az-gte",
+      "name": "AZ-GTe",
+      "manufacturer": "Sky-Watcher",
+      "type": "altAzGoTo",
+      "payloadCapacity": 6,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "skywatcher-star-adventurer-2i",
+      "name": "Star Adventurer 2i",
+      "manufacturer": "Sky-Watcher",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 5,
+      "hasTracking": true,
+      "hasGoTo": false
+    },
+    {
+      "id": "skywatcher-star-adventurer-gti",
+      "name": "Star Adventurer GTi",
+      "manufacturer": "Sky-Watcher",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 5,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "skywatcher-star-adventurer-mini",
+      "name": "Star Adventurer Mini",
+      "manufacturer": "Sky-Watcher",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 3,
+      "hasTracking": true,
+      "hasGoTo": false
+    },
+    {
+      "id": "skywatcher-virtuoso-gti",
+      "name": "Virtuoso GTi",
+      "manufacturer": "Sky-Watcher",
+      "type": "altAzGoTo",
+      "payloadCapacity": 5,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "skywatcher-az4",
+      "name": "AZ4",
+      "manufacturer": "Sky-Watcher",
+      "type": "altAzManual",
+      "payloadCapacity": 5,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "skywatcher-az5",
+      "name": "AZ5 Deluxe",
+      "manufacturer": "Sky-Watcher",
+      "type": "altAzManual",
+      "payloadCapacity": 6,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "skywatcher-dob-base",
+      "name": "Dobsonian Base",
+      "manufacturer": "Sky-Watcher",
+      "type": "dobsonian",
+      "payloadCapacity": 20,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "skywatcher-synscan-dob",
+      "name": "SynScan Dobsonian",
+      "manufacturer": "Sky-Watcher",
+      "type": "dobsonian",
+      "payloadCapacity": 20,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "ioptron-cem26",
+      "name": "CEM26",
+      "manufacturer": "iOptron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 12,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "ioptron-cem26-ec",
+      "name": "CEM26 EC",
+      "manufacturer": "iOptron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 12,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "ioptron-cem40",
+      "name": "CEM40",
+      "manufacturer": "iOptron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 18,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "ioptron-cem40-ec",
+      "name": "CEM40 EC",
+      "manufacturer": "iOptron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 18,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "ioptron-cem70",
+      "name": "CEM70",
+      "manufacturer": "iOptron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 31,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "ioptron-cem70-ec",
+      "name": "CEM70 EC",
+      "manufacturer": "iOptron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 31,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "ioptron-cem120",
+      "name": "CEM120",
+      "manufacturer": "iOptron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 52,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "ioptron-cem120-ec",
+      "name": "CEM120 EC",
+      "manufacturer": "iOptron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 52,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "ioptron-gem28",
+      "name": "GEM28",
+      "manufacturer": "iOptron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 13,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "ioptron-gem28-ec",
+      "name": "GEM28 EC",
+      "manufacturer": "iOptron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 13,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "ioptron-gem45",
+      "name": "GEM45",
+      "manufacturer": "iOptron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 20,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "ioptron-gem45-ec",
+      "name": "GEM45 EC",
+      "manufacturer": "iOptron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 20,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "ioptron-hae29",
+      "name": "HAE29",
+      "manufacturer": "iOptron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 13,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "ioptron-hae29-ec",
+      "name": "HAE29 EC",
+      "manufacturer": "iOptron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 13,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "ioptron-hae43",
+      "name": "HAE43",
+      "manufacturer": "iOptron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 19,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "ioptron-hae43-ec",
+      "name": "HAE43 EC",
+      "manufacturer": "iOptron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 19,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "ioptron-hae69",
+      "name": "HAE69",
+      "manufacturer": "iOptron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 31,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "ioptron-skyguider-pro",
+      "name": "SkyGuider Pro",
+      "manufacturer": "iOptron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 5,
+      "hasTracking": true,
+      "hasGoTo": false
+    },
+    {
+      "id": "ioptron-skytracker-pro",
+      "name": "SkyTracker Pro",
+      "manufacturer": "iOptron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 3,
+      "hasTracking": true,
+      "hasGoTo": false
+    },
+    {
+      "id": "ioptron-smarteq-pro",
+      "name": "SmartEQ Pro+",
+      "manufacturer": "iOptron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 5,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "ioptron-azmp",
+      "name": "AZ Mount Pro",
+      "manufacturer": "iOptron",
+      "type": "altAzGoTo",
+      "payloadCapacity": 15,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "ioptron-cube-pro",
+      "name": "Cube Pro",
+      "manufacturer": "iOptron",
+      "type": "altAzGoTo",
+      "payloadCapacity": 5,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "ioptron-photron",
+      "name": "Photron",
+      "manufacturer": "iOptron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 5,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "celestron-avx",
+      "name": "Advanced VX",
+      "manufacturer": "Celestron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 13.6,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "celestron-cgem-ii",
+      "name": "CGEM II",
+      "manufacturer": "Celestron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 18,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "celestron-cgx",
+      "name": "CGX",
+      "manufacturer": "Celestron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 24.9,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "celestron-cgx-l",
+      "name": "CGX-L",
+      "manufacturer": "Celestron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 34,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "celestron-cg-4",
+      "name": "CG-4",
+      "manufacturer": "Celestron",
+      "type": "equatorialManual",
+      "payloadCapacity": 6,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "celestron-cg-5",
+      "name": "CG-5 GT",
+      "manufacturer": "Celestron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 14.5,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "celestron-nexstar-se-mount",
+      "name": "NexStar SE Mount",
+      "manufacturer": "Celestron",
+      "type": "altAzGoTo",
+      "payloadCapacity": 5,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "celestron-nexstar-evolution-mount",
+      "name": "NexStar Evolution Mount",
+      "manufacturer": "Celestron",
+      "type": "altAzGoTo",
+      "payloadCapacity": 6,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "celestron-cpc-mount",
+      "name": "CPC Mount",
+      "manufacturer": "Celestron",
+      "type": "altAzGoTo",
+      "payloadCapacity": 15,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "celestron-cpc-deluxe-mount",
+      "name": "CPC Deluxe Mount",
+      "manufacturer": "Celestron",
+      "type": "altAzGoTo",
+      "payloadCapacity": 18,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "celestron-astrofi-mount",
+      "name": "AstroFi Mount",
+      "manufacturer": "Celestron",
+      "type": "altAzGoTo",
+      "payloadCapacity": 4,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "celestron-starsense-explorer",
+      "name": "StarSense Explorer Mount",
+      "manufacturer": "Celestron",
+      "type": "altAzManual",
+      "payloadCapacity": 4,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "celestron-az-mount",
+      "name": "AZ Mount",
+      "manufacturer": "Celestron",
+      "type": "altAzManual",
+      "payloadCapacity": 4,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "celestron-origin-intelligent-home",
+      "name": "Origin Mount",
+      "manufacturer": "Celestron",
+      "type": "altAzGoTo",
+      "payloadCapacity": 5,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "meade-lx200-classic-mount",
+      "name": "LX200 Classic Mount",
+      "manufacturer": "Meade",
+      "type": "altAzGoTo",
+      "payloadCapacity": 14,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "meade-lx200-gps-mount",
+      "name": "LX200 GPS Mount",
+      "manufacturer": "Meade",
+      "type": "altAzGoTo",
+      "payloadCapacity": 18,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "meade-lx600-mount",
+      "name": "LX600 Mount",
+      "manufacturer": "Meade",
+      "type": "altAzGoTo",
+      "payloadCapacity": 25,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "meade-lx65-mount",
+      "name": "LX65 Mount",
+      "manufacturer": "Meade",
+      "type": "altAzGoTo",
+      "payloadCapacity": 6,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "meade-lx85-mount",
+      "name": "LX85 Mount",
+      "manufacturer": "Meade",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 15,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "meade-lx90-mount",
+      "name": "LX90 Mount",
+      "manufacturer": "Meade",
+      "type": "altAzGoTo",
+      "payloadCapacity": 14,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "meade-etx-mount",
+      "name": "ETX Mount",
+      "manufacturer": "Meade",
+      "type": "altAzGoTo",
+      "payloadCapacity": 4,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "meade-polaris-eq-mount",
+      "name": "Polaris EQ Mount",
+      "manufacturer": "Meade",
+      "type": "equatorialManual",
+      "payloadCapacity": 5,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "meade-starnavigator-mount",
+      "name": "StarNavigator NG Mount",
+      "manufacturer": "Meade",
+      "type": "altAzGoTo",
+      "payloadCapacity": 4,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "meade-lightbridge-dob",
+      "name": "LightBridge Base",
+      "manufacturer": "Meade",
+      "type": "dobsonian",
+      "payloadCapacity": 25,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "orion-sirius-eq-g",
+      "name": "Sirius EQ-G",
+      "manufacturer": "Orion",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 13,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "orion-atlas-eq-g",
+      "name": "Atlas EQ-G",
+      "manufacturer": "Orion",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 18,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "orion-atlas-pro-az-eq",
+      "name": "Atlas Pro AZ/EQ-G",
+      "manufacturer": "Orion",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 18,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "orion-skyview-pro",
+      "name": "SkyView Pro",
+      "manufacturer": "Orion",
+      "type": "equatorialManual",
+      "payloadCapacity": 9,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "orion-skyview-pro-goto",
+      "name": "SkyView Pro GoTo",
+      "manufacturer": "Orion",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 9,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "orion-eq-1",
+      "name": "EQ-1",
+      "manufacturer": "Orion",
+      "type": "equatorialManual",
+      "payloadCapacity": 3,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "orion-eq-2",
+      "name": "EQ-2",
+      "manufacturer": "Orion",
+      "type": "equatorialManual",
+      "payloadCapacity": 4,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "orion-eq-3m",
+      "name": "EQ-3M",
+      "manufacturer": "Orion",
+      "type": "equatorialManual",
+      "payloadCapacity": 5.5,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "orion-astroview",
+      "name": "AstroView",
+      "manufacturer": "Orion",
+      "type": "equatorialManual",
+      "payloadCapacity": 7,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "orion-starseeker-iv",
+      "name": "StarSeeker IV",
+      "manufacturer": "Orion",
+      "type": "altAzGoTo",
+      "payloadCapacity": 5,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "orion-starblast-autotracker",
+      "name": "StarBlast AutoTracker",
+      "manufacturer": "Orion",
+      "type": "altAzGoTo",
+      "payloadCapacity": 4,
+      "hasTracking": true,
+      "hasGoTo": false
+    },
+    {
+      "id": "orion-versago-e",
+      "name": "VersaGo E-Series",
+      "manufacturer": "Orion",
+      "type": "altAzManual",
+      "payloadCapacity": 6,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "orion-skyquest-dob-base",
+      "name": "SkyQuest Dob Base",
+      "manufacturer": "Orion",
+      "type": "dobsonian",
+      "payloadCapacity": 20,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "orion-skyquest-intelliscope",
+      "name": "SkyQuest IntelliScope Base",
+      "manufacturer": "Orion",
+      "type": "dobsonian",
+      "payloadCapacity": 20,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "orion-starshoot-tracker",
+      "name": "StarShoot Tracker",
+      "manufacturer": "Orion",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 3.4,
+      "hasTracking": true,
+      "hasGoTo": false
+    },
+    {
+      "id": "orion-min-eq",
+      "name": "Min-EQ",
+      "manufacturer": "Orion",
+      "type": "equatorialManual",
+      "payloadCapacity": 2.5,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "losmandy-g11",
+      "name": "G11",
+      "manufacturer": "Losmandy",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 27,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "losmandy-g11-gemini-2",
+      "name": "G11 Gemini 2",
+      "manufacturer": "Losmandy",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 27,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "losmandy-gm8",
+      "name": "GM8",
+      "manufacturer": "Losmandy",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 13.6,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "losmandy-gm8-gemini-2",
+      "name": "GM8 Gemini 2",
+      "manufacturer": "Losmandy",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 13.6,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "losmandy-hgm-titan",
+      "name": "HGM Titan",
+      "manufacturer": "Losmandy",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 68,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "astro-physics-mach1gto",
+      "name": "Mach1GTO",
+      "manufacturer": "Astro-Physics",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 18,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "astro-physics-mach2gto",
+      "name": "Mach2GTO",
+      "manufacturer": "Astro-Physics",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 27,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "astro-physics-1100gto",
+      "name": "1100GTO",
+      "manufacturer": "Astro-Physics",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 45,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "astro-physics-1600gto",
+      "name": "1600GTO",
+      "manufacturer": "Astro-Physics",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 90,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "astro-physics-3600gto",
+      "name": "3600GTO",
+      "manufacturer": "Astro-Physics",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 163,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "software-bisque-myt",
+      "name": "MyT",
+      "manufacturer": "Software Bisque",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 23,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "software-bisque-mx",
+      "name": "Paramount MX",
+      "manufacturer": "Software Bisque",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 45,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "software-bisque-mx-plus",
+      "name": "Paramount MX+",
+      "manufacturer": "Software Bisque",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 50,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "software-bisque-me",
+      "name": "Paramount ME",
+      "manufacturer": "Software Bisque",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 68,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "software-bisque-me-ii",
+      "name": "Paramount ME II",
+      "manufacturer": "Software Bisque",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 68,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "software-bisque-taurus-400",
+      "name": "Taurus 400",
+      "manufacturer": "Software Bisque",
+      "type": "altAzGoTo",
+      "payloadCapacity": 90,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "takahashi-em-11",
+      "name": "EM-11 Temma 3",
+      "manufacturer": "Takahashi",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 7,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "takahashi-em-200",
+      "name": "EM-200 Temma 3",
+      "manufacturer": "Takahashi",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 16,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "takahashi-em-400",
+      "name": "EM-400 Temma 3",
+      "manufacturer": "Takahashi",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 35,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "takahashi-em-500",
+      "name": "EM-500 Temma 3",
+      "manufacturer": "Takahashi",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 45,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "takahashi-pm-1",
+      "name": "PM-1",
+      "manufacturer": "Takahashi",
+      "type": "equatorialManual",
+      "payloadCapacity": 5,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "vixen-ap-sm",
+      "name": "Advanced Polaris-SM",
+      "manufacturer": "Vixen",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 7,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "vixen-sx2",
+      "name": "SX2",
+      "manufacturer": "Vixen",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 12,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "vixen-sxd2",
+      "name": "SXD2",
+      "manufacturer": "Vixen",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 15,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "vixen-sxp2",
+      "name": "SXP2",
+      "manufacturer": "Vixen",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 17,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "vixen-axj",
+      "name": "AXJ",
+      "manufacturer": "Vixen",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 22,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "vixen-axd2",
+      "name": "AXD2",
+      "manufacturer": "Vixen",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 30,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "vixen-polarie",
+      "name": "Polarie",
+      "manufacturer": "Vixen",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 2,
+      "hasTracking": true,
+      "hasGoTo": false
+    },
+    {
+      "id": "vixen-polarie-u",
+      "name": "Polarie U",
+      "manufacturer": "Vixen",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 6.5,
+      "hasTracking": true,
+      "hasGoTo": false
+    },
+    {
+      "id": "vixen-porta-ii",
+      "name": "Porta II",
+      "manufacturer": "Vixen",
+      "type": "altAzManual",
+      "payloadCapacity": 5,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "vixen-mobile-porta",
+      "name": "Mobile Porta",
+      "manufacturer": "Vixen",
+      "type": "altAzManual",
+      "payloadCapacity": 3,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "vixen-ap-mount",
+      "name": "AP Mount",
+      "manufacturer": "Vixen",
+      "type": "equatorialManual",
+      "payloadCapacity": 6,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "10micron-gm1000hps",
+      "name": "GM1000 HPS",
+      "manufacturer": "10Micron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 24,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "10micron-gm2000hps",
+      "name": "GM2000 HPS II",
+      "manufacturer": "10Micron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 50,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "10micron-gm3000hps",
+      "name": "GM3000 HPS",
+      "manufacturer": "10Micron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 100,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "10micron-gm4000hps",
+      "name": "GM4000 HPS II",
+      "manufacturer": "10Micron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 150,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "10micron-az2000hps",
+      "name": "AZ2000 HPS",
+      "manufacturer": "10Micron",
+      "type": "altAzGoTo",
+      "payloadCapacity": 50,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "avalon-linear",
+      "name": "M-Uno",
+      "manufacturer": "Avalon",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 15,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "avalon-linear-fast-reverse",
+      "name": "M-Uno Fast Reverse",
+      "manufacturer": "Avalon",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 15,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "avalon-m-zero",
+      "name": "M-Zero",
+      "manufacturer": "Avalon",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 18,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "avalon-t-pod",
+      "name": "T-Pod",
+      "manufacturer": "Avalon",
+      "type": "altAzGoTo",
+      "payloadCapacity": 15,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "avalon-stargo",
+      "name": "StarGo",
+      "manufacturer": "Avalon",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 7,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "planewave-l-350",
+      "name": "L-350",
+      "manufacturer": "PlaneWave",
+      "type": "altAzGoTo",
+      "payloadCapacity": 68,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "planewave-l-500",
+      "name": "L-500",
+      "manufacturer": "PlaneWave",
+      "type": "altAzGoTo",
+      "payloadCapacity": 113,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "planewave-l-600",
+      "name": "L-600",
+      "manufacturer": "PlaneWave",
+      "type": "altAzGoTo",
+      "payloadCapacity": 150,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "planewave-ascension-200",
+      "name": "Ascension 200HR",
+      "manufacturer": "PlaneWave",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 90,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "asa-ddm60",
+      "name": "DDM60",
+      "manufacturer": "ASA",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 25,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "asa-ddm85",
+      "name": "DDM85",
+      "manufacturer": "ASA",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 40,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "asa-ddm100",
+      "name": "DDM100",
+      "manufacturer": "ASA",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 75,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "asa-ddm160",
+      "name": "DDM160",
+      "manufacturer": "ASA",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 120,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "asa-ddm200",
+      "name": "DDM200",
+      "manufacturer": "ASA",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 180,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "eq-platform-equatorial",
+      "name": "EQ Platform",
+      "manufacturer": "Various",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 50,
+      "hasTracking": true,
+      "hasGoTo": false
+    },
+    {
+      "id": "tom-osypowski-platform",
+      "name": "Osypowski Platform",
+      "manufacturer": "Tom Osypowski",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 70,
+      "hasTracking": true,
+      "hasGoTo": false
+    },
+    {
+      "id": "sky-tracker-eq",
+      "name": "Sky Tracker EQ Platform",
+      "manufacturer": "Sky Tracker",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 45,
+      "hasTracking": true,
+      "hasGoTo": false
+    },
+    {
+      "id": "explore-scientific-exos2-gt",
+      "name": "EXOS2-GT",
+      "manufacturer": "Explore Scientific",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 12,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "explore-scientific-exos2-pmc8",
+      "name": "EXOS2-GT PMC-Eight",
+      "manufacturer": "Explore Scientific",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 12,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "explore-scientific-iexos100",
+      "name": "iEXOS-100",
+      "manufacturer": "Explore Scientific",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 9,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "explore-scientific-iexos100-2",
+      "name": "iEXOS-100-2",
+      "manufacturer": "Explore Scientific",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 10,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "explore-scientific-twilight-i",
+      "name": "Twilight I",
+      "manufacturer": "Explore Scientific",
+      "type": "altAzManual",
+      "payloadCapacity": 5,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "explore-scientific-twilight-ii",
+      "name": "Twilight II",
+      "manufacturer": "Explore Scientific",
+      "type": "altAzManual",
+      "payloadCapacity": 8,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "apertura-ad-platform",
+      "name": "AD Platform",
+      "manufacturer": "Apertura",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 40,
+      "hasTracking": true,
+      "hasGoTo": false
+    },
+    {
+      "id": "apertura-ad-rocker",
+      "name": "AD Rocker Box",
+      "manufacturer": "Apertura",
+      "type": "dobsonian",
+      "payloadCapacity": 25,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "bresser-messier-exos-1",
+      "name": "Messier EXOS-1",
+      "manufacturer": "Bresser",
+      "type": "equatorialManual",
+      "payloadCapacity": 4,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "bresser-messier-exos-2",
+      "name": "Messier EXOS-2",
+      "manufacturer": "Bresser",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 12,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "bresser-az-mount",
+      "name": "AZ Mount",
+      "manufacturer": "Bresser",
+      "type": "altAzManual",
+      "payloadCapacity": 4,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "zwo-am3",
+      "name": "AM3",
+      "manufacturer": "ZWO",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 8,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "zwo-am5",
+      "name": "AM5",
+      "manufacturer": "ZWO",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 13,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "zwo-am5n",
+      "name": "AM5N",
+      "manufacturer": "ZWO",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 20,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "rainbow-rsth-135",
+      "name": "RST-135",
+      "manufacturer": "Rainbow Astro",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 13,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "rainbow-rsth-135e",
+      "name": "RST-135E",
+      "manufacturer": "Rainbow Astro",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 13,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "rainbow-rsth-300",
+      "name": "RST-300",
+      "manufacturer": "Rainbow Astro",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 30,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "pegasus-nyx-101",
+      "name": "NYX-101",
+      "manufacturer": "Pegasus Astro",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 15,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "pegasus-nyx-101-encoder",
+      "name": "NYX-101 Encoder",
+      "manufacturer": "Pegasus Astro",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 15,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "player-one-cg3",
+      "name": "CG3",
+      "manufacturer": "Player One",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 3,
+      "hasTracking": true,
+      "hasGoTo": false
+    },
+    {
+      "id": "mks-eq-mount",
+      "name": "EQ Mount",
+      "manufacturer": "MKS",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 12,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "mks-az-mount",
+      "name": "AZ Mount",
+      "manufacturer": "MKS",
+      "type": "altAzGoTo",
+      "payloadCapacity": 8,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "svbony-sv181",
+      "name": "SV181",
+      "manufacturer": "SVBony",
+      "type": "altAzManual",
+      "payloadCapacity": 3,
+      "hasTracking": false,
+      "hasGoTo": false
+    },
+    {
+      "id": "svbony-sv168",
+      "name": "SV168",
+      "manufacturer": "SVBony",
+      "type": "equatorialManual",
+      "payloadCapacity": 4,
+      "hasTracking": false,
+      "hasGoTo": false
+    }
+  ]
+}

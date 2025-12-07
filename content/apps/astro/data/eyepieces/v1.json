@@ -1,0 +1,2973 @@
+{
+  "version": 1,
+  "generatedAt": "2025-12-07T00:00:00Z",
+  "eyepieces": [
+    {
+      "id": "televue-ethos-3.7",
+      "name": "Ethos 3.7mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 3.7,
+      "apparentFOV": 110,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-ethos-4.7",
+      "name": "Ethos 4.7mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 4.7,
+      "apparentFOV": 110,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-ethos-6",
+      "name": "Ethos 6mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 6,
+      "apparentFOV": 100,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-ethos-8",
+      "name": "Ethos 8mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 8,
+      "apparentFOV": 100,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-ethos-10",
+      "name": "Ethos 10mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 10,
+      "apparentFOV": 100,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-ethos-13",
+      "name": "Ethos 13mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 13,
+      "apparentFOV": 100,
+      "eyeRelief": 15,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-ethos-17",
+      "name": "Ethos 17mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 17,
+      "apparentFOV": 100,
+      "eyeRelief": 15,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-ethos-21",
+      "name": "Ethos 21mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 21,
+      "apparentFOV": 100,
+      "eyeRelief": 15,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-ethos-sx-3.7",
+      "name": "Ethos-SX 3.7mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 3.7,
+      "apparentFOV": 110,
+      "eyeRelief": 15,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-ethos-sx-4.7",
+      "name": "Ethos-SX 4.7mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 4.7,
+      "apparentFOV": 110,
+      "eyeRelief": 15,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-nagler-2.5",
+      "name": "Nagler Type 6 2.5mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 2.5,
+      "apparentFOV": 82,
+      "eyeRelief": 10,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-nagler-3.5",
+      "name": "Nagler Type 6 3.5mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 3.5,
+      "apparentFOV": 82,
+      "eyeRelief": 10,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-nagler-5",
+      "name": "Nagler Type 6 5mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 5,
+      "apparentFOV": 82,
+      "eyeRelief": 12,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-nagler-7",
+      "name": "Nagler Type 6 7mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 7,
+      "apparentFOV": 82,
+      "eyeRelief": 12,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-nagler-9",
+      "name": "Nagler Type 6 9mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 9,
+      "apparentFOV": 82,
+      "eyeRelief": 12,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-nagler-11",
+      "name": "Nagler Type 6 11mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 11,
+      "apparentFOV": 82,
+      "eyeRelief": 12,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-nagler-13",
+      "name": "Nagler Type 6 13mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 13,
+      "apparentFOV": 82,
+      "eyeRelief": 12,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-nagler-16",
+      "name": "Nagler Type 5 16mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 16,
+      "apparentFOV": 82,
+      "eyeRelief": 12,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-nagler-20",
+      "name": "Nagler Type 5 20mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 20,
+      "apparentFOV": 82,
+      "eyeRelief": 12,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-nagler-22",
+      "name": "Nagler Type 4 22mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 22,
+      "apparentFOV": 82,
+      "eyeRelief": 19,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-nagler-26",
+      "name": "Nagler Type 5 26mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 26,
+      "apparentFOV": 82,
+      "eyeRelief": 19,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-nagler-31",
+      "name": "Nagler Type 5 31mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 31,
+      "apparentFOV": 82,
+      "eyeRelief": 19,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-delos-3.5",
+      "name": "Delos 3.5mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 3.5,
+      "apparentFOV": 72,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-delos-4.5",
+      "name": "Delos 4.5mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 4.5,
+      "apparentFOV": 72,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-delos-6",
+      "name": "Delos 6mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 6,
+      "apparentFOV": 72,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-delos-8",
+      "name": "Delos 8mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 8,
+      "apparentFOV": 72,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-delos-10",
+      "name": "Delos 10mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 10,
+      "apparentFOV": 72,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-delos-12",
+      "name": "Delos 12mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 12,
+      "apparentFOV": 72,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-delos-14",
+      "name": "Delos 14mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 14,
+      "apparentFOV": 72,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-delos-17.3",
+      "name": "Delos 17.3mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 17.3,
+      "apparentFOV": 72,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-panoptic-19",
+      "name": "Panoptic 19mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 19,
+      "apparentFOV": 68,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-panoptic-22",
+      "name": "Panoptic 22mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 22,
+      "apparentFOV": 68,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-panoptic-24",
+      "name": "Panoptic 24mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 24,
+      "apparentFOV": 68,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-panoptic-27",
+      "name": "Panoptic 27mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 27,
+      "apparentFOV": 68,
+      "eyeRelief": 19,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-panoptic-35",
+      "name": "Panoptic 35mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 35,
+      "apparentFOV": 68,
+      "eyeRelief": 24,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-panoptic-41",
+      "name": "Panoptic 41mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 41,
+      "apparentFOV": 68,
+      "eyeRelief": 27,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-plossl-8",
+      "name": "Plössl 8mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 8,
+      "apparentFOV": 50,
+      "eyeRelief": 6,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-plossl-11",
+      "name": "Plössl 11mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 11,
+      "apparentFOV": 50,
+      "eyeRelief": 8,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-plossl-15",
+      "name": "Plössl 15mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 15,
+      "apparentFOV": 50,
+      "eyeRelief": 11,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-plossl-20",
+      "name": "Plössl 20mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 20,
+      "apparentFOV": 50,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-plossl-25",
+      "name": "Plössl 25mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 25,
+      "apparentFOV": 50,
+      "eyeRelief": 18,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-plossl-32",
+      "name": "Plössl 32mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 32,
+      "apparentFOV": 50,
+      "eyeRelief": 23,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-plossl-40",
+      "name": "Plössl 40mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 40,
+      "apparentFOV": 43,
+      "eyeRelief": 28,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-plossl-55",
+      "name": "Plössl 55mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 55,
+      "apparentFOV": 50,
+      "eyeRelief": 39,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-zoom-3-6",
+      "name": "Nagler Zoom 3-6mm",
+      "manufacturer": "Tele Vue",
+      "minFocalLength": 3,
+      "maxFocalLength": 6,
+      "apparentFOV": 50,
+      "eyeRelief": 10,
+      "barrelSize": "1.25\"",
+      "isZoom": true
+    },
+    {
+      "id": "televue-zoom-8-24",
+      "name": "Click-Stop Zoom 8-24mm",
+      "manufacturer": "Tele Vue",
+      "minFocalLength": 8,
+      "maxFocalLength": 24,
+      "apparentFOV": 60,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": true
+    },
+    {
+      "id": "es-82-4.7",
+      "name": "82° 4.7mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 4.7,
+      "apparentFOV": 82,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-82-6.7",
+      "name": "82° 6.7mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 6.7,
+      "apparentFOV": 82,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-82-8.8",
+      "name": "82° 8.8mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 8.8,
+      "apparentFOV": 82,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-82-11",
+      "name": "82° 11mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 11,
+      "apparentFOV": 82,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-82-14",
+      "name": "82° 14mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 14,
+      "apparentFOV": 82,
+      "eyeRelief": 18,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-82-18",
+      "name": "82° 18mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 18,
+      "apparentFOV": 82,
+      "eyeRelief": 15,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-82-24",
+      "name": "82° 24mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 24,
+      "apparentFOV": 82,
+      "eyeRelief": 18,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-82-30",
+      "name": "82° 30mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 30,
+      "apparentFOV": 82,
+      "eyeRelief": 22,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-100-5.5",
+      "name": "100° 5.5mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 5.5,
+      "apparentFOV": 100,
+      "eyeRelief": 15,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-100-9",
+      "name": "100° 9mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 9,
+      "apparentFOV": 100,
+      "eyeRelief": 15,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-100-14",
+      "name": "100° 14mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 14,
+      "apparentFOV": 100,
+      "eyeRelief": 18,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-100-20",
+      "name": "100° 20mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 20,
+      "apparentFOV": 100,
+      "eyeRelief": 15,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-100-25",
+      "name": "100° 25mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 25,
+      "apparentFOV": 100,
+      "eyeRelief": 18,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-68-16",
+      "name": "68° 16mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 16,
+      "apparentFOV": 68,
+      "eyeRelief": 12,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-68-20",
+      "name": "68° 20mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 20,
+      "apparentFOV": 68,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-68-24",
+      "name": "68° 24mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 24,
+      "apparentFOV": 68,
+      "eyeRelief": 18,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-68-28",
+      "name": "68° 28mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 28,
+      "apparentFOV": 68,
+      "eyeRelief": 20,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-68-34",
+      "name": "68° 34mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 34,
+      "apparentFOV": 68,
+      "eyeRelief": 24,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-68-40",
+      "name": "68° 40mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 40,
+      "apparentFOV": 68,
+      "eyeRelief": 28,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-52-3",
+      "name": "52° 3mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 3,
+      "apparentFOV": 52,
+      "eyeRelief": 8,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-52-4.5",
+      "name": "52° 4.5mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 4.5,
+      "apparentFOV": 52,
+      "eyeRelief": 9,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-52-6.5",
+      "name": "52° 6.5mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 6.5,
+      "apparentFOV": 52,
+      "eyeRelief": 10,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-52-10",
+      "name": "52° 10mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 10,
+      "apparentFOV": 52,
+      "eyeRelief": 12,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-52-15",
+      "name": "52° 15mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 15,
+      "apparentFOV": 52,
+      "eyeRelief": 14,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-52-25",
+      "name": "52° 25mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 25,
+      "apparentFOV": 52,
+      "eyeRelief": 18,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-52-40",
+      "name": "52° 40mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 40,
+      "apparentFOV": 52,
+      "eyeRelief": 28,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "baader-hyperion-3.5",
+      "name": "Hyperion 3.5mm",
+      "manufacturer": "Baader",
+      "focalLength": 3.5,
+      "apparentFOV": 68,
+      "eyeRelief": 12,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "baader-hyperion-5",
+      "name": "Hyperion 5mm",
+      "manufacturer": "Baader",
+      "focalLength": 5,
+      "apparentFOV": 68,
+      "eyeRelief": 12,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "baader-hyperion-8",
+      "name": "Hyperion 8mm",
+      "manufacturer": "Baader",
+      "focalLength": 8,
+      "apparentFOV": 68,
+      "eyeRelief": 17,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "baader-hyperion-10",
+      "name": "Hyperion 10mm",
+      "manufacturer": "Baader",
+      "focalLength": 10,
+      "apparentFOV": 68,
+      "eyeRelief": 14,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "baader-hyperion-13",
+      "name": "Hyperion 13mm",
+      "manufacturer": "Baader",
+      "focalLength": 13,
+      "apparentFOV": 68,
+      "eyeRelief": 17,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "baader-hyperion-17",
+      "name": "Hyperion 17mm",
+      "manufacturer": "Baader",
+      "focalLength": 17,
+      "apparentFOV": 68,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "baader-hyperion-21",
+      "name": "Hyperion 21mm",
+      "manufacturer": "Baader",
+      "focalLength": 21,
+      "apparentFOV": 68,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "baader-hyperion-24",
+      "name": "Hyperion 24mm",
+      "manufacturer": "Baader",
+      "focalLength": 24,
+      "apparentFOV": 68,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "baader-hyperion-36",
+      "name": "Hyperion Aspheric 36mm",
+      "manufacturer": "Baader",
+      "focalLength": 36,
+      "apparentFOV": 72,
+      "eyeRelief": 20,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "baader-hyperion-zoom",
+      "name": "Hyperion Zoom 8-24mm",
+      "manufacturer": "Baader",
+      "minFocalLength": 8,
+      "maxFocalLength": 24,
+      "apparentFOV": 68,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": true
+    },
+    {
+      "id": "baader-morpheus-4.5",
+      "name": "Morpheus 4.5mm",
+      "manufacturer": "Baader",
+      "focalLength": 4.5,
+      "apparentFOV": 76,
+      "eyeRelief": 17.5,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "baader-morpheus-6.5",
+      "name": "Morpheus 6.5mm",
+      "manufacturer": "Baader",
+      "focalLength": 6.5,
+      "apparentFOV": 76,
+      "eyeRelief": 17.5,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "baader-morpheus-9",
+      "name": "Morpheus 9mm",
+      "manufacturer": "Baader",
+      "focalLength": 9,
+      "apparentFOV": 76,
+      "eyeRelief": 17.5,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "baader-morpheus-12.5",
+      "name": "Morpheus 12.5mm",
+      "manufacturer": "Baader",
+      "focalLength": 12.5,
+      "apparentFOV": 76,
+      "eyeRelief": 17.5,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "baader-morpheus-14",
+      "name": "Morpheus 14mm",
+      "manufacturer": "Baader",
+      "focalLength": 14,
+      "apparentFOV": 76,
+      "eyeRelief": 17.5,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "baader-morpheus-17.5",
+      "name": "Morpheus 17.5mm",
+      "manufacturer": "Baader",
+      "focalLength": 17.5,
+      "apparentFOV": 76,
+      "eyeRelief": 17.5,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "baader-classic-ortho-6",
+      "name": "Classic Ortho 6mm",
+      "manufacturer": "Baader",
+      "focalLength": 6,
+      "apparentFOV": 50,
+      "eyeRelief": 4,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "baader-classic-ortho-10",
+      "name": "Classic Ortho 10mm",
+      "manufacturer": "Baader",
+      "focalLength": 10,
+      "apparentFOV": 50,
+      "eyeRelief": 8,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "baader-classic-ortho-18",
+      "name": "Classic Ortho 18mm",
+      "manufacturer": "Baader",
+      "focalLength": 18,
+      "apparentFOV": 50,
+      "eyeRelief": 12,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "baader-classic-plossl-32",
+      "name": "Classic Plössl 32mm",
+      "manufacturer": "Baader",
+      "focalLength": 32,
+      "apparentFOV": 50,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "pentax-xw-3.5",
+      "name": "XW 3.5mm",
+      "manufacturer": "Pentax",
+      "focalLength": 3.5,
+      "apparentFOV": 70,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "pentax-xw-5",
+      "name": "XW 5mm",
+      "manufacturer": "Pentax",
+      "focalLength": 5,
+      "apparentFOV": 70,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "pentax-xw-7",
+      "name": "XW 7mm",
+      "manufacturer": "Pentax",
+      "focalLength": 7,
+      "apparentFOV": 70,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "pentax-xw-10",
+      "name": "XW 10mm",
+      "manufacturer": "Pentax",
+      "focalLength": 10,
+      "apparentFOV": 70,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "pentax-xw-14",
+      "name": "XW 14mm",
+      "manufacturer": "Pentax",
+      "focalLength": 14,
+      "apparentFOV": 70,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "pentax-xw-20",
+      "name": "XW 20mm",
+      "manufacturer": "Pentax",
+      "focalLength": 20,
+      "apparentFOV": 70,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "pentax-xw-30",
+      "name": "XW 30mm",
+      "manufacturer": "Pentax",
+      "focalLength": 30,
+      "apparentFOV": 70,
+      "eyeRelief": 20,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "pentax-xw-40",
+      "name": "XW 40mm",
+      "manufacturer": "Pentax",
+      "focalLength": 40,
+      "apparentFOV": 70,
+      "eyeRelief": 20,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "nikon-nav-hw-10",
+      "name": "NAV-HW 10mm",
+      "manufacturer": "Nikon",
+      "focalLength": 10,
+      "apparentFOV": 102,
+      "eyeRelief": 10,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "nikon-nav-hw-12.5",
+      "name": "NAV-HW 12.5mm",
+      "manufacturer": "Nikon",
+      "focalLength": 12.5,
+      "apparentFOV": 102,
+      "eyeRelief": 10,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "nikon-nav-hw-17",
+      "name": "NAV-HW 17mm",
+      "manufacturer": "Nikon",
+      "focalLength": 17,
+      "apparentFOV": 102,
+      "eyeRelief": 10,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-x-cel-lx-2.3",
+      "name": "X-Cel LX 2.3mm",
+      "manufacturer": "Celestron",
+      "focalLength": 2.3,
+      "apparentFOV": 60,
+      "eyeRelief": 11,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-x-cel-lx-5",
+      "name": "X-Cel LX 5mm",
+      "manufacturer": "Celestron",
+      "focalLength": 5,
+      "apparentFOV": 60,
+      "eyeRelief": 16,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-x-cel-lx-7",
+      "name": "X-Cel LX 7mm",
+      "manufacturer": "Celestron",
+      "focalLength": 7,
+      "apparentFOV": 60,
+      "eyeRelief": 17,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-x-cel-lx-9",
+      "name": "X-Cel LX 9mm",
+      "manufacturer": "Celestron",
+      "focalLength": 9,
+      "apparentFOV": 60,
+      "eyeRelief": 16,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-x-cel-lx-12",
+      "name": "X-Cel LX 12mm",
+      "manufacturer": "Celestron",
+      "focalLength": 12,
+      "apparentFOV": 60,
+      "eyeRelief": 18,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-x-cel-lx-18",
+      "name": "X-Cel LX 18mm",
+      "manufacturer": "Celestron",
+      "focalLength": 18,
+      "apparentFOV": 60,
+      "eyeRelief": 14,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-x-cel-lx-25",
+      "name": "X-Cel LX 25mm",
+      "manufacturer": "Celestron",
+      "focalLength": 25,
+      "apparentFOV": 60,
+      "eyeRelief": 16,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-luminos-7",
+      "name": "Luminos 7mm",
+      "manufacturer": "Celestron",
+      "focalLength": 7,
+      "apparentFOV": 82,
+      "eyeRelief": 18,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-luminos-10",
+      "name": "Luminos 10mm",
+      "manufacturer": "Celestron",
+      "focalLength": 10,
+      "apparentFOV": 82,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-luminos-15",
+      "name": "Luminos 15mm",
+      "manufacturer": "Celestron",
+      "focalLength": 15,
+      "apparentFOV": 82,
+      "eyeRelief": 18,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-luminos-19",
+      "name": "Luminos 19mm",
+      "manufacturer": "Celestron",
+      "focalLength": 19,
+      "apparentFOV": 82,
+      "eyeRelief": 15,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-luminos-23",
+      "name": "Luminos 23mm",
+      "manufacturer": "Celestron",
+      "focalLength": 23,
+      "apparentFOV": 82,
+      "eyeRelief": 18,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-luminos-31",
+      "name": "Luminos 31mm",
+      "manufacturer": "Celestron",
+      "focalLength": 31,
+      "apparentFOV": 82,
+      "eyeRelief": 19,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-omni-4",
+      "name": "Omni 4mm",
+      "manufacturer": "Celestron",
+      "focalLength": 4,
+      "apparentFOV": 52,
+      "eyeRelief": 5,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-omni-6",
+      "name": "Omni 6mm",
+      "manufacturer": "Celestron",
+      "focalLength": 6,
+      "apparentFOV": 52,
+      "eyeRelief": 4,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-omni-9",
+      "name": "Omni 9mm",
+      "manufacturer": "Celestron",
+      "focalLength": 9,
+      "apparentFOV": 52,
+      "eyeRelief": 6,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-omni-12",
+      "name": "Omni 12mm",
+      "manufacturer": "Celestron",
+      "focalLength": 12,
+      "apparentFOV": 52,
+      "eyeRelief": 9,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-omni-15",
+      "name": "Omni 15mm",
+      "manufacturer": "Celestron",
+      "focalLength": 15,
+      "apparentFOV": 52,
+      "eyeRelief": 10,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-omni-20",
+      "name": "Omni 20mm",
+      "manufacturer": "Celestron",
+      "focalLength": 20,
+      "apparentFOV": 52,
+      "eyeRelief": 14,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-omni-25",
+      "name": "Omni 25mm",
+      "manufacturer": "Celestron",
+      "focalLength": 25,
+      "apparentFOV": 52,
+      "eyeRelief": 18,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-omni-32",
+      "name": "Omni 32mm",
+      "manufacturer": "Celestron",
+      "focalLength": 32,
+      "apparentFOV": 52,
+      "eyeRelief": 22,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-omni-40",
+      "name": "Omni 40mm",
+      "manufacturer": "Celestron",
+      "focalLength": 40,
+      "apparentFOV": 43,
+      "eyeRelief": 28,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-omni-56",
+      "name": "Omni 56mm",
+      "manufacturer": "Celestron",
+      "focalLength": 56,
+      "apparentFOV": 52,
+      "eyeRelief": 38,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-zoom-8-24",
+      "name": "Zoom 8-24mm",
+      "manufacturer": "Celestron",
+      "minFocalLength": 8,
+      "maxFocalLength": 24,
+      "apparentFOV": 60,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": true
+    },
+    {
+      "id": "celestron-ultima-edge-10",
+      "name": "Ultima Edge 10mm",
+      "manufacturer": "Celestron",
+      "focalLength": 10,
+      "apparentFOV": 60,
+      "eyeRelief": 16,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-ultima-edge-15",
+      "name": "Ultima Edge 15mm",
+      "manufacturer": "Celestron",
+      "focalLength": 15,
+      "apparentFOV": 60,
+      "eyeRelief": 18,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-ultima-edge-18",
+      "name": "Ultima Edge 18mm",
+      "manufacturer": "Celestron",
+      "focalLength": 18,
+      "apparentFOV": 60,
+      "eyeRelief": 17,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-ultima-edge-24",
+      "name": "Ultima Edge 24mm",
+      "manufacturer": "Celestron",
+      "focalLength": 24,
+      "apparentFOV": 60,
+      "eyeRelief": 16,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "celestron-ultima-edge-30",
+      "name": "Ultima Edge 30mm",
+      "manufacturer": "Celestron",
+      "focalLength": 30,
+      "apparentFOV": 60,
+      "eyeRelief": 20,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-series-4000-4.7",
+      "name": "Series 4000 4.7mm",
+      "manufacturer": "Meade",
+      "focalLength": 4.7,
+      "apparentFOV": 82,
+      "eyeRelief": 10,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-series-4000-6.7",
+      "name": "Series 4000 6.7mm",
+      "manufacturer": "Meade",
+      "focalLength": 6.7,
+      "apparentFOV": 82,
+      "eyeRelief": 12,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-series-4000-8.8",
+      "name": "Series 4000 8.8mm",
+      "manufacturer": "Meade",
+      "focalLength": 8.8,
+      "apparentFOV": 82,
+      "eyeRelief": 14,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-series-4000-14",
+      "name": "Series 4000 14mm",
+      "manufacturer": "Meade",
+      "focalLength": 14,
+      "apparentFOV": 82,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-series-4000-24",
+      "name": "Series 4000 24mm",
+      "manufacturer": "Meade",
+      "focalLength": 24,
+      "apparentFOV": 82,
+      "eyeRelief": 17,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-series-5000-5.5",
+      "name": "Series 5000 5.5mm",
+      "manufacturer": "Meade",
+      "focalLength": 5.5,
+      "apparentFOV": 100,
+      "eyeRelief": 13,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-series-5000-9",
+      "name": "Series 5000 9mm",
+      "manufacturer": "Meade",
+      "focalLength": 9,
+      "apparentFOV": 100,
+      "eyeRelief": 15,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-series-5000-14",
+      "name": "Series 5000 14mm",
+      "manufacturer": "Meade",
+      "focalLength": 14,
+      "apparentFOV": 100,
+      "eyeRelief": 15,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-series-5000-20",
+      "name": "Series 5000 20mm",
+      "manufacturer": "Meade",
+      "focalLength": 20,
+      "apparentFOV": 100,
+      "eyeRelief": 17,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-mwa-5",
+      "name": "MWA 5mm",
+      "manufacturer": "Meade",
+      "focalLength": 5,
+      "apparentFOV": 100,
+      "eyeRelief": 13,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-mwa-10",
+      "name": "MWA 10mm",
+      "manufacturer": "Meade",
+      "focalLength": 10,
+      "apparentFOV": 100,
+      "eyeRelief": 13,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-mwa-15",
+      "name": "MWA 15mm",
+      "manufacturer": "Meade",
+      "focalLength": 15,
+      "apparentFOV": 100,
+      "eyeRelief": 13,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-mwa-21",
+      "name": "MWA 21mm",
+      "manufacturer": "Meade",
+      "focalLength": 21,
+      "apparentFOV": 100,
+      "eyeRelief": 17,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-hd-60-4.5",
+      "name": "HD-60 4.5mm",
+      "manufacturer": "Meade",
+      "focalLength": 4.5,
+      "apparentFOV": 60,
+      "eyeRelief": 10,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-hd-60-6.5",
+      "name": "HD-60 6.5mm",
+      "manufacturer": "Meade",
+      "focalLength": 6.5,
+      "apparentFOV": 60,
+      "eyeRelief": 12,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-hd-60-9",
+      "name": "HD-60 9mm",
+      "manufacturer": "Meade",
+      "focalLength": 9,
+      "apparentFOV": 60,
+      "eyeRelief": 14,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-hd-60-12",
+      "name": "HD-60 12mm",
+      "manufacturer": "Meade",
+      "focalLength": 12,
+      "apparentFOV": 60,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-hd-60-18",
+      "name": "HD-60 18mm",
+      "manufacturer": "Meade",
+      "focalLength": 18,
+      "apparentFOV": 60,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-hd-60-25",
+      "name": "HD-60 25mm",
+      "manufacturer": "Meade",
+      "focalLength": 25,
+      "apparentFOV": 60,
+      "eyeRelief": 17,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-plossl-6.4",
+      "name": "Super Plössl 6.4mm",
+      "manufacturer": "Meade",
+      "focalLength": 6.4,
+      "apparentFOV": 52,
+      "eyeRelief": 5,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-plossl-9.7",
+      "name": "Super Plössl 9.7mm",
+      "manufacturer": "Meade",
+      "focalLength": 9.7,
+      "apparentFOV": 52,
+      "eyeRelief": 7,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-plossl-12.4",
+      "name": "Super Plössl 12.4mm",
+      "manufacturer": "Meade",
+      "focalLength": 12.4,
+      "apparentFOV": 52,
+      "eyeRelief": 9,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-plossl-15",
+      "name": "Super Plössl 15mm",
+      "manufacturer": "Meade",
+      "focalLength": 15,
+      "apparentFOV": 52,
+      "eyeRelief": 11,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-plossl-20",
+      "name": "Super Plössl 20mm",
+      "manufacturer": "Meade",
+      "focalLength": 20,
+      "apparentFOV": 52,
+      "eyeRelief": 14,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-plossl-26",
+      "name": "Super Plössl 26mm",
+      "manufacturer": "Meade",
+      "focalLength": 26,
+      "apparentFOV": 52,
+      "eyeRelief": 18,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-plossl-32",
+      "name": "Super Plössl 32mm",
+      "manufacturer": "Meade",
+      "focalLength": 32,
+      "apparentFOV": 52,
+      "eyeRelief": 22,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-plossl-40",
+      "name": "Super Plössl 40mm",
+      "manufacturer": "Meade",
+      "focalLength": 40,
+      "apparentFOV": 44,
+      "eyeRelief": 28,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-plossl-56",
+      "name": "Super Plössl 56mm",
+      "manufacturer": "Meade",
+      "focalLength": 56,
+      "apparentFOV": 52,
+      "eyeRelief": 38,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "meade-zoom-8-24",
+      "name": "Zoom 8-24mm",
+      "manufacturer": "Meade",
+      "minFocalLength": 8,
+      "maxFocalLength": 24,
+      "apparentFOV": 60,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": true
+    },
+    {
+      "id": "orion-stratus-3.5",
+      "name": "Stratus 3.5mm",
+      "manufacturer": "Orion",
+      "focalLength": 3.5,
+      "apparentFOV": 68,
+      "eyeRelief": 12,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-stratus-5",
+      "name": "Stratus 5mm",
+      "manufacturer": "Orion",
+      "focalLength": 5,
+      "apparentFOV": 68,
+      "eyeRelief": 12,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-stratus-8",
+      "name": "Stratus 8mm",
+      "manufacturer": "Orion",
+      "focalLength": 8,
+      "apparentFOV": 68,
+      "eyeRelief": 17,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-stratus-13",
+      "name": "Stratus 13mm",
+      "manufacturer": "Orion",
+      "focalLength": 13,
+      "apparentFOV": 68,
+      "eyeRelief": 17,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-stratus-17",
+      "name": "Stratus 17mm",
+      "manufacturer": "Orion",
+      "focalLength": 17,
+      "apparentFOV": 68,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-stratus-21",
+      "name": "Stratus 21mm",
+      "manufacturer": "Orion",
+      "focalLength": 21,
+      "apparentFOV": 68,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-lanthanum-4",
+      "name": "Lanthanum 4mm",
+      "manufacturer": "Orion",
+      "focalLength": 4,
+      "apparentFOV": 80,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-lanthanum-5",
+      "name": "Lanthanum 5mm",
+      "manufacturer": "Orion",
+      "focalLength": 5,
+      "apparentFOV": 80,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-lanthanum-9",
+      "name": "Lanthanum 9mm",
+      "manufacturer": "Orion",
+      "focalLength": 9,
+      "apparentFOV": 80,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-lanthanum-12",
+      "name": "Lanthanum 12mm",
+      "manufacturer": "Orion",
+      "focalLength": 12,
+      "apparentFOV": 80,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-lanthanum-18",
+      "name": "Lanthanum 18mm",
+      "manufacturer": "Orion",
+      "focalLength": 18,
+      "apparentFOV": 80,
+      "eyeRelief": 15,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-lanthanum-22",
+      "name": "Lanthanum 22mm",
+      "manufacturer": "Orion",
+      "focalLength": 22,
+      "apparentFOV": 80,
+      "eyeRelief": 17,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-edge-on-3",
+      "name": "Edge-On 3mm",
+      "manufacturer": "Orion",
+      "focalLength": 3,
+      "apparentFOV": 110,
+      "eyeRelief": 12,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-edge-on-5",
+      "name": "Edge-On 5mm",
+      "manufacturer": "Orion",
+      "focalLength": 5,
+      "apparentFOV": 110,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-edge-on-9",
+      "name": "Edge-On 9mm",
+      "manufacturer": "Orion",
+      "focalLength": 9,
+      "apparentFOV": 110,
+      "eyeRelief": 15,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-edge-on-14",
+      "name": "Edge-On 14mm",
+      "manufacturer": "Orion",
+      "focalLength": 14,
+      "apparentFOV": 100,
+      "eyeRelief": 16,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-edge-on-18",
+      "name": "Edge-On 18mm",
+      "manufacturer": "Orion",
+      "focalLength": 18,
+      "apparentFOV": 100,
+      "eyeRelief": 15,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-sirius-plossl-6.3",
+      "name": "Sirius Plössl 6.3mm",
+      "manufacturer": "Orion",
+      "focalLength": 6.3,
+      "apparentFOV": 52,
+      "eyeRelief": 4,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-sirius-plossl-10",
+      "name": "Sirius Plössl 10mm",
+      "manufacturer": "Orion",
+      "focalLength": 10,
+      "apparentFOV": 52,
+      "eyeRelief": 7,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-sirius-plossl-17",
+      "name": "Sirius Plössl 17mm",
+      "manufacturer": "Orion",
+      "focalLength": 17,
+      "apparentFOV": 52,
+      "eyeRelief": 12,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-sirius-plossl-25",
+      "name": "Sirius Plössl 25mm",
+      "manufacturer": "Orion",
+      "focalLength": 25,
+      "apparentFOV": 52,
+      "eyeRelief": 18,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-sirius-plossl-32",
+      "name": "Sirius Plössl 32mm",
+      "manufacturer": "Orion",
+      "focalLength": 32,
+      "apparentFOV": 52,
+      "eyeRelief": 22,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-sirius-plossl-40",
+      "name": "Sirius Plössl 40mm",
+      "manufacturer": "Orion",
+      "focalLength": 40,
+      "apparentFOV": 43,
+      "eyeRelief": 28,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-expanse-6",
+      "name": "Expanse 6mm",
+      "manufacturer": "Orion",
+      "focalLength": 6,
+      "apparentFOV": 66,
+      "eyeRelief": 16,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-expanse-9",
+      "name": "Expanse 9mm",
+      "manufacturer": "Orion",
+      "focalLength": 9,
+      "apparentFOV": 66,
+      "eyeRelief": 16,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-expanse-15",
+      "name": "Expanse 15mm",
+      "manufacturer": "Orion",
+      "focalLength": 15,
+      "apparentFOV": 66,
+      "eyeRelief": 16,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-expanse-20",
+      "name": "Expanse 20mm",
+      "manufacturer": "Orion",
+      "focalLength": 20,
+      "apparentFOV": 66,
+      "eyeRelief": 16,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-q70-26",
+      "name": "Q70 26mm",
+      "manufacturer": "Orion",
+      "focalLength": 26,
+      "apparentFOV": 70,
+      "eyeRelief": 18,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-q70-32",
+      "name": "Q70 32mm",
+      "manufacturer": "Orion",
+      "focalLength": 32,
+      "apparentFOV": 70,
+      "eyeRelief": 22,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "orion-q70-38",
+      "name": "Q70 38mm",
+      "manufacturer": "Orion",
+      "focalLength": 38,
+      "apparentFOV": 70,
+      "eyeRelief": 26,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "skywatcher-plossl-10",
+      "name": "Super Plössl 10mm",
+      "manufacturer": "Sky-Watcher",
+      "focalLength": 10,
+      "apparentFOV": 52,
+      "eyeRelief": 8,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "skywatcher-plossl-25",
+      "name": "Super Plössl 25mm",
+      "manufacturer": "Sky-Watcher",
+      "focalLength": 25,
+      "apparentFOV": 52,
+      "eyeRelief": 18,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "skywatcher-lr-5",
+      "name": "LR 5mm",
+      "manufacturer": "Sky-Watcher",
+      "focalLength": 5,
+      "apparentFOV": 58,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "skywatcher-lr-10",
+      "name": "LR 10mm",
+      "manufacturer": "Sky-Watcher",
+      "focalLength": 10,
+      "apparentFOV": 58,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "skywatcher-lr-15",
+      "name": "LR 15mm",
+      "manufacturer": "Sky-Watcher",
+      "focalLength": 15,
+      "apparentFOV": 58,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "skywatcher-lr-20",
+      "name": "LR 20mm",
+      "manufacturer": "Sky-Watcher",
+      "focalLength": 20,
+      "apparentFOV": 58,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "skywatcher-uwa-4",
+      "name": "UWA 4mm",
+      "manufacturer": "Sky-Watcher",
+      "focalLength": 4,
+      "apparentFOV": 82,
+      "eyeRelief": 10,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "skywatcher-uwa-7",
+      "name": "UWA 7mm",
+      "manufacturer": "Sky-Watcher",
+      "focalLength": 7,
+      "apparentFOV": 82,
+      "eyeRelief": 12,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "skywatcher-uwa-11",
+      "name": "UWA 11mm",
+      "manufacturer": "Sky-Watcher",
+      "focalLength": 11,
+      "apparentFOV": 82,
+      "eyeRelief": 14,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "skywatcher-uwa-16",
+      "name": "UWA 16mm",
+      "manufacturer": "Sky-Watcher",
+      "focalLength": 16,
+      "apparentFOV": 82,
+      "eyeRelief": 15,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "skywatcher-uwa-20",
+      "name": "UWA 20mm",
+      "manufacturer": "Sky-Watcher",
+      "focalLength": 20,
+      "apparentFOV": 82,
+      "eyeRelief": 17,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "skywatcher-nirvana-uwa-4",
+      "name": "Nirvana UWA 4mm",
+      "manufacturer": "Sky-Watcher",
+      "focalLength": 4,
+      "apparentFOV": 82,
+      "eyeRelief": 12,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "skywatcher-nirvana-uwa-7",
+      "name": "Nirvana UWA 7mm",
+      "manufacturer": "Sky-Watcher",
+      "focalLength": 7,
+      "apparentFOV": 82,
+      "eyeRelief": 14,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "skywatcher-nirvana-uwa-16",
+      "name": "Nirvana UWA 16mm",
+      "manufacturer": "Sky-Watcher",
+      "focalLength": 16,
+      "apparentFOV": 82,
+      "eyeRelief": 16,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "apm-ufl-6",
+      "name": "UFL 6mm",
+      "manufacturer": "APM",
+      "focalLength": 6,
+      "apparentFOV": 65,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "apm-ufl-10",
+      "name": "UFL 10mm",
+      "manufacturer": "APM",
+      "focalLength": 10,
+      "apparentFOV": 65,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "apm-ufl-18",
+      "name": "UFL 18mm",
+      "manufacturer": "APM",
+      "focalLength": 18,
+      "apparentFOV": 65,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "apm-ufl-24",
+      "name": "UFL 24mm",
+      "manufacturer": "APM",
+      "focalLength": 24,
+      "apparentFOV": 65,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "apm-hdr-4.5",
+      "name": "HDR 4.5mm",
+      "manufacturer": "APM",
+      "focalLength": 4.5,
+      "apparentFOV": 110,
+      "eyeRelief": 15,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "apm-hdr-6.5",
+      "name": "HDR 6.5mm",
+      "manufacturer": "APM",
+      "focalLength": 6.5,
+      "apparentFOV": 110,
+      "eyeRelief": 15,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "apm-hdr-9",
+      "name": "HDR 9mm",
+      "manufacturer": "APM",
+      "focalLength": 9,
+      "apparentFOV": 110,
+      "eyeRelief": 15,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "apm-hdr-12",
+      "name": "HDR 12mm",
+      "manufacturer": "APM",
+      "focalLength": 12,
+      "apparentFOV": 110,
+      "eyeRelief": 15,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "apm-hdr-18",
+      "name": "HDR 18mm",
+      "manufacturer": "APM",
+      "focalLength": 18,
+      "apparentFOV": 100,
+      "eyeRelief": 16,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "apm-xwa-5",
+      "name": "XWA 5mm",
+      "manufacturer": "APM",
+      "focalLength": 5,
+      "apparentFOV": 110,
+      "eyeRelief": 15,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "apm-xwa-9",
+      "name": "XWA 9mm",
+      "manufacturer": "APM",
+      "focalLength": 9,
+      "apparentFOV": 110,
+      "eyeRelief": 15,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "apm-xwa-13",
+      "name": "XWA 13mm",
+      "manufacturer": "APM",
+      "focalLength": 13,
+      "apparentFOV": 100,
+      "eyeRelief": 16,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "apm-xwa-20",
+      "name": "XWA 20mm",
+      "manufacturer": "APM",
+      "focalLength": 20,
+      "apparentFOV": 100,
+      "eyeRelief": 16,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-spl-3.8",
+      "name": "SPL 3.8mm",
+      "manufacturer": "Vixen",
+      "focalLength": 3.8,
+      "apparentFOV": 52,
+      "eyeRelief": 2.5,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-spl-6.4",
+      "name": "SPL 6.4mm",
+      "manufacturer": "Vixen",
+      "focalLength": 6.4,
+      "apparentFOV": 52,
+      "eyeRelief": 4.5,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-spl-9.7",
+      "name": "SPL 9.7mm",
+      "manufacturer": "Vixen",
+      "focalLength": 9.7,
+      "apparentFOV": 52,
+      "eyeRelief": 7,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-spl-15",
+      "name": "SPL 15mm",
+      "manufacturer": "Vixen",
+      "focalLength": 15,
+      "apparentFOV": 52,
+      "eyeRelief": 11,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-spl-25",
+      "name": "SPL 25mm",
+      "manufacturer": "Vixen",
+      "focalLength": 25,
+      "apparentFOV": 52,
+      "eyeRelief": 18,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-spl-40",
+      "name": "SPL 40mm",
+      "manufacturer": "Vixen",
+      "focalLength": 40,
+      "apparentFOV": 45,
+      "eyeRelief": 28,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-spl-50",
+      "name": "SPL 50mm",
+      "manufacturer": "Vixen",
+      "focalLength": 50,
+      "apparentFOV": 52,
+      "eyeRelief": 35,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-nlv-2.5",
+      "name": "NLV 2.5mm",
+      "manufacturer": "Vixen",
+      "focalLength": 2.5,
+      "apparentFOV": 50,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-nlv-4",
+      "name": "NLV 4mm",
+      "manufacturer": "Vixen",
+      "focalLength": 4,
+      "apparentFOV": 50,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-nlv-5",
+      "name": "NLV 5mm",
+      "manufacturer": "Vixen",
+      "focalLength": 5,
+      "apparentFOV": 50,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-nlv-6",
+      "name": "NLV 6mm",
+      "manufacturer": "Vixen",
+      "focalLength": 6,
+      "apparentFOV": 50,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-nlv-9",
+      "name": "NLV 9mm",
+      "manufacturer": "Vixen",
+      "focalLength": 9,
+      "apparentFOV": 50,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-nlv-10",
+      "name": "NLV 10mm",
+      "manufacturer": "Vixen",
+      "focalLength": 10,
+      "apparentFOV": 50,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-nlv-12",
+      "name": "NLV 12mm",
+      "manufacturer": "Vixen",
+      "focalLength": 12,
+      "apparentFOV": 50,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-nlv-15",
+      "name": "NLV 15mm",
+      "manufacturer": "Vixen",
+      "focalLength": 15,
+      "apparentFOV": 50,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-nlv-20",
+      "name": "NLV 20mm",
+      "manufacturer": "Vixen",
+      "focalLength": 20,
+      "apparentFOV": 50,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-nlv-25",
+      "name": "NLV 25mm",
+      "manufacturer": "Vixen",
+      "focalLength": 25,
+      "apparentFOV": 50,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-nlv-30",
+      "name": "NLV 30mm",
+      "manufacturer": "Vixen",
+      "focalLength": 30,
+      "apparentFOV": 50,
+      "eyeRelief": 20,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-ssw-3.5",
+      "name": "SSW 3.5mm",
+      "manufacturer": "Vixen",
+      "focalLength": 3.5,
+      "apparentFOV": 83,
+      "eyeRelief": 13,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-ssw-5",
+      "name": "SSW 5mm",
+      "manufacturer": "Vixen",
+      "focalLength": 5,
+      "apparentFOV": 83,
+      "eyeRelief": 13,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-ssw-7",
+      "name": "SSW 7mm",
+      "manufacturer": "Vixen",
+      "focalLength": 7,
+      "apparentFOV": 83,
+      "eyeRelief": 13,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-ssw-10",
+      "name": "SSW 10mm",
+      "manufacturer": "Vixen",
+      "focalLength": 10,
+      "apparentFOV": 83,
+      "eyeRelief": 13,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-ssw-14",
+      "name": "SSW 14mm",
+      "manufacturer": "Vixen",
+      "focalLength": 14,
+      "apparentFOV": 83,
+      "eyeRelief": 13,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-sxw-3.5",
+      "name": "SXW 3.5mm",
+      "manufacturer": "Vixen",
+      "focalLength": 3.5,
+      "apparentFOV": 110,
+      "eyeRelief": 13,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-sxw-5",
+      "name": "SXW 5mm",
+      "manufacturer": "Vixen",
+      "focalLength": 5,
+      "apparentFOV": 110,
+      "eyeRelief": 13,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-sxw-7",
+      "name": "SXW 7mm",
+      "manufacturer": "Vixen",
+      "focalLength": 7,
+      "apparentFOV": 110,
+      "eyeRelief": 13,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-sxw-10",
+      "name": "SXW 10mm",
+      "manufacturer": "Vixen",
+      "focalLength": 10,
+      "apparentFOV": 110,
+      "eyeRelief": 15,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-sxw-14",
+      "name": "SXW 14mm",
+      "manufacturer": "Vixen",
+      "focalLength": 14,
+      "apparentFOV": 110,
+      "eyeRelief": 15,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-hr-1.6",
+      "name": "HR 1.6mm",
+      "manufacturer": "Vixen",
+      "focalLength": 1.6,
+      "apparentFOV": 42,
+      "eyeRelief": 3.4,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-hr-2",
+      "name": "HR 2mm",
+      "manufacturer": "Vixen",
+      "focalLength": 2,
+      "apparentFOV": 42,
+      "eyeRelief": 4.8,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-hr-2.4",
+      "name": "HR 2.4mm",
+      "manufacturer": "Vixen",
+      "focalLength": 2.4,
+      "apparentFOV": 42,
+      "eyeRelief": 6,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-hr-3.4",
+      "name": "HR 3.4mm",
+      "manufacturer": "Vixen",
+      "focalLength": 3.4,
+      "apparentFOV": 42,
+      "eyeRelief": 8,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "masuyama-uwa-4",
+      "name": "UWA 4mm",
+      "manufacturer": "Masuyama",
+      "focalLength": 4,
+      "apparentFOV": 85,
+      "eyeRelief": 13,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "masuyama-uwa-5",
+      "name": "UWA 5mm",
+      "manufacturer": "Masuyama",
+      "focalLength": 5,
+      "apparentFOV": 85,
+      "eyeRelief": 13,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "masuyama-uwa-7",
+      "name": "UWA 7mm",
+      "manufacturer": "Masuyama",
+      "focalLength": 7,
+      "apparentFOV": 85,
+      "eyeRelief": 13,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "masuyama-uwa-10",
+      "name": "UWA 10mm",
+      "manufacturer": "Masuyama",
+      "focalLength": 10,
+      "apparentFOV": 85,
+      "eyeRelief": 13,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "masuyama-uwa-15",
+      "name": "UWA 15mm",
+      "manufacturer": "Masuyama",
+      "focalLength": 15,
+      "apparentFOV": 85,
+      "eyeRelief": 13,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "masuyama-uwa-22",
+      "name": "UWA 22mm",
+      "manufacturer": "Masuyama",
+      "focalLength": 22,
+      "apparentFOV": 85,
+      "eyeRelief": 15,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "masuyama-uwa-32",
+      "name": "UWA 32mm",
+      "manufacturer": "Masuyama",
+      "focalLength": 32,
+      "apparentFOV": 85,
+      "eyeRelief": 18,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "takahashi-hi-le-2.8",
+      "name": "Hi-LE 2.8mm",
+      "manufacturer": "Takahashi",
+      "focalLength": 2.8,
+      "apparentFOV": 42,
+      "eyeRelief": 12,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "takahashi-hi-le-3.6",
+      "name": "Hi-LE 3.6mm",
+      "manufacturer": "Takahashi",
+      "focalLength": 3.6,
+      "apparentFOV": 45,
+      "eyeRelief": 12,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "takahashi-hi-le-5",
+      "name": "Hi-LE 5mm",
+      "manufacturer": "Takahashi",
+      "focalLength": 5,
+      "apparentFOV": 48,
+      "eyeRelief": 12,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "takahashi-hi-le-7.5",
+      "name": "Hi-LE 7.5mm",
+      "manufacturer": "Takahashi",
+      "focalLength": 7.5,
+      "apparentFOV": 48,
+      "eyeRelief": 12,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "takahashi-hi-le-12.5",
+      "name": "Hi-LE 12.5mm",
+      "manufacturer": "Takahashi",
+      "focalLength": 12.5,
+      "apparentFOV": 48,
+      "eyeRelief": 12,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "takahashi-hi-le-18",
+      "name": "Hi-LE 18mm",
+      "manufacturer": "Takahashi",
+      "focalLength": 18,
+      "apparentFOV": 48,
+      "eyeRelief": 12,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "takahashi-hi-le-25",
+      "name": "Hi-LE 25mm",
+      "manufacturer": "Takahashi",
+      "focalLength": 25,
+      "apparentFOV": 48,
+      "eyeRelief": 12,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "takahashi-toa-35",
+      "name": "TOA 35mm",
+      "manufacturer": "Takahashi",
+      "focalLength": 35,
+      "apparentFOV": 65,
+      "eyeRelief": 22,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "svbony-sv154-8-24",
+      "name": "SV154 8-24mm",
+      "manufacturer": "SVBony",
+      "minFocalLength": 8,
+      "maxFocalLength": 24,
+      "apparentFOV": 65,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": true
+    },
+    {
+      "id": "svbony-sv135-7-21",
+      "name": "SV135 7-21mm",
+      "manufacturer": "SVBony",
+      "minFocalLength": 7,
+      "maxFocalLength": 21,
+      "apparentFOV": 60,
+      "eyeRelief": 12,
+      "barrelSize": "1.25\"",
+      "isZoom": true
+    },
+    {
+      "id": "svbony-sv190-3.2",
+      "name": "SV190 3.2mm",
+      "manufacturer": "SVBony",
+      "focalLength": 3.2,
+      "apparentFOV": 62,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "svbony-sv190-4.5",
+      "name": "SV190 4.5mm",
+      "manufacturer": "SVBony",
+      "focalLength": 4.5,
+      "apparentFOV": 62,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "svbony-sv190-6.5",
+      "name": "SV190 6.5mm",
+      "manufacturer": "SVBony",
+      "focalLength": 6.5,
+      "apparentFOV": 62,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "svbony-sv190-9",
+      "name": "SV190 9mm",
+      "manufacturer": "SVBony",
+      "focalLength": 9,
+      "apparentFOV": 62,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "svbony-sv190-12.5",
+      "name": "SV190 12.5mm",
+      "manufacturer": "SVBony",
+      "focalLength": 12.5,
+      "apparentFOV": 62,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "svbony-sv190-17.5",
+      "name": "SV190 17.5mm",
+      "manufacturer": "SVBony",
+      "focalLength": 17.5,
+      "apparentFOV": 62,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "svbony-gold-6",
+      "name": "Gold Line 6mm",
+      "manufacturer": "SVBony",
+      "focalLength": 6,
+      "apparentFOV": 66,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "svbony-gold-9",
+      "name": "Gold Line 9mm",
+      "manufacturer": "SVBony",
+      "focalLength": 9,
+      "apparentFOV": 66,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "svbony-gold-15",
+      "name": "Gold Line 15mm",
+      "manufacturer": "SVBony",
+      "focalLength": 15,
+      "apparentFOV": 66,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "svbony-gold-20",
+      "name": "Gold Line 20mm",
+      "manufacturer": "SVBony",
+      "focalLength": 20,
+      "apparentFOV": 66,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "gso-superview-30",
+      "name": "SuperView 30mm",
+      "manufacturer": "GSO",
+      "focalLength": 30,
+      "apparentFOV": 70,
+      "eyeRelief": 22,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "gso-superview-42",
+      "name": "SuperView 42mm",
+      "manufacturer": "GSO",
+      "focalLength": 42,
+      "apparentFOV": 65,
+      "eyeRelief": 26,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "gso-plossl-6",
+      "name": "Plössl 6mm",
+      "manufacturer": "GSO",
+      "focalLength": 6,
+      "apparentFOV": 52,
+      "eyeRelief": 4,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "gso-plossl-10",
+      "name": "Plössl 10mm",
+      "manufacturer": "GSO",
+      "focalLength": 10,
+      "apparentFOV": 52,
+      "eyeRelief": 7,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "gso-plossl-15",
+      "name": "Plössl 15mm",
+      "manufacturer": "GSO",
+      "focalLength": 15,
+      "apparentFOV": 52,
+      "eyeRelief": 11,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "gso-plossl-25",
+      "name": "Plössl 25mm",
+      "manufacturer": "GSO",
+      "focalLength": 25,
+      "apparentFOV": 52,
+      "eyeRelief": 18,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "gso-plossl-32",
+      "name": "Plössl 32mm",
+      "manufacturer": "GSO",
+      "focalLength": 32,
+      "apparentFOV": 52,
+      "eyeRelief": 22,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "gso-plossl-40",
+      "name": "Plössl 40mm",
+      "manufacturer": "GSO",
+      "focalLength": 40,
+      "apparentFOV": 43,
+      "eyeRelief": 28,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "agena-sw-6",
+      "name": "Starguider 6mm",
+      "manufacturer": "Agena",
+      "focalLength": 6,
+      "apparentFOV": 60,
+      "eyeRelief": 12,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "agena-sw-9",
+      "name": "Starguider 9mm",
+      "manufacturer": "Agena",
+      "focalLength": 9,
+      "apparentFOV": 60,
+      "eyeRelief": 14,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "agena-sw-12",
+      "name": "Starguider 12mm",
+      "manufacturer": "Agena",
+      "focalLength": 12,
+      "apparentFOV": 60,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "agena-sw-15",
+      "name": "Starguider 15mm",
+      "manufacturer": "Agena",
+      "focalLength": 15,
+      "apparentFOV": 60,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "agena-sw-18",
+      "name": "Starguider 18mm",
+      "manufacturer": "Agena",
+      "focalLength": 18,
+      "apparentFOV": 60,
+      "eyeRelief": 16,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "agena-sw-25",
+      "name": "Starguider 25mm",
+      "manufacturer": "Agena",
+      "focalLength": 25,
+      "apparentFOV": 60,
+      "eyeRelief": 17,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "agena-swa-15",
+      "name": "SWA 15mm",
+      "manufacturer": "Agena",
+      "focalLength": 15,
+      "apparentFOV": 70,
+      "eyeRelief": 13,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "agena-swa-20",
+      "name": "SWA 20mm",
+      "manufacturer": "Agena",
+      "focalLength": 20,
+      "apparentFOV": 70,
+      "eyeRelief": 16,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "agena-swa-26",
+      "name": "SWA 26mm",
+      "manufacturer": "Agena",
+      "focalLength": 26,
+      "apparentFOV": 70,
+      "eyeRelief": 18,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "agena-swa-32",
+      "name": "SWA 32mm",
+      "manufacturer": "Agena",
+      "focalLength": 32,
+      "apparentFOV": 70,
+      "eyeRelief": 20,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "agena-swa-38",
+      "name": "SWA 38mm",
+      "manufacturer": "Agena",
+      "focalLength": 38,
+      "apparentFOV": 70,
+      "eyeRelief": 23,
+      "barrelSize": "2\"",
+      "isZoom": false
+    }
+  ]
+}
