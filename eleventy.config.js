@@ -110,6 +110,21 @@ module.exports = function(eleventyConfig) {
 		}
 	});
 
+	// Resolve the accent color for an app sub-page (press/privacy/faqs/contact)
+	// by looking up the parent app's main page accent.
+	eleventyConfig.addFilter("getAppAccent", (collection, currentPage) => {
+		// currentPage.filePathStem e.g. "/apps/orbit/press" or "/apps/orbit/orbit"
+		const parts = currentPage.filePathStem.split('/').filter(Boolean);
+		if (parts.length < 2) return null;
+		const appSlug = parts[parts.length - 2];
+		for (let item of collection) {
+			if (item.fileSlug === appSlug && item.data && item.data.accent) {
+				return item.data.accent;
+			}
+		}
+		return null;
+	});
+
 	// Customize Markdown library settings:
 	eleventyConfig.amendLibrary("md", mdLib => {
 		mdLib.use(markdownItAnchor, {

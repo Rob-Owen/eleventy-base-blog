@@ -1,0 +1,45 @@
+---
+layout: layouts/base.njk
+---
+{%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %}
+{%- css %}{% include "public/css/prism-diff.css" %}{%- endcss %}
+
+{%- set pressPage = collections.all | pressPage(page.fileSlug) %}
+{%- set privacyPage = collections.all | privacyPage(page.fileSlug) %}
+{%- set faqsPage = collections.all | faqsPage(page.fileSlug) %}
+
+{% if pressPage or privacyPage or faqsPage %}
+<nav class="app-secondary-nav" aria-label="More about {{ title }}">
+	<ul>
+		{% if faqsPage %}<li><a href="{{ faqsPage.url }}">FAQs</a></li>{% endif %}
+		{% if pressPage %}<li><a href="{{ pressPage.url }}">Press</a></li>{% endif %}
+		{% if privacyPage %}<li><a href="{{ privacyPage.url }}">Privacy</a></li>{% endif %}
+	</ul>
+</nav>
+{% endif %}
+
+<section class="app-hero">
+	<div class="app-hero__copy">
+		<div class="app-hero__icon">
+			{% image "icon.png", title + " app icon", "120px", [128, 256] %}
+		</div>
+		<h1 class="app-hero__title">{{ title }}</h1>
+		{% if description %}<p class="app-hero__tagline">{{ description }}</p>{% endif %}
+		{% if appleAppId %}
+		<p class="app-hero__cta">
+			<a class="apple-cta" href="https://apps.apple.com/app/id{{ appleAppId }}?itsct=apps_box_badge&amp;itscg=30200">
+				<img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/white/en-us?size=220x73&amp;releaseDate=1690416000" alt="Download on the App Store" width="220" height="73">
+			</a>
+		</p>
+		{% endif %}
+	</div>
+	{% if heroImage %}
+	<div class="app-hero__image">
+		{% image heroImage, heroAlt or (title + " screenshot"), "(max-width: 48rem) 100vw, 40vw", [600, 1200] %}
+	</div>
+	{% endif %}
+</section>
+
+<div class="prose">
+	{{ content | safe }}
+</div>

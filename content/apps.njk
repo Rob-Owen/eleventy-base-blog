@@ -5,31 +5,28 @@ eleventyNavigation:
   order: 0
 permalink: "index.html"
 ---
-<h1>My Apps</h1>
+<section class="page-intro">
+	<span class="page-intro__eyebrow">Indie Development</span>
+	<h1>Dedicated indie apps for iOS, iPadOS, watchOS, visionOS &amp; macOS.</h1>
+	<p>I work with the latest native frameworks, continually developing and improving based on user feedback. Every app is built with privacy in mind — no user tracking, no advertising, supported entirely by the people who use them.</p>
+</section>
 
-<p>
-	Here you can find all my apps for Apple platforms, including iOS, iPadOS, watchOS and visionOS.
-</p>
-
-<p>
-	I work with the latest native frameworks, continually developing and improving based on user feedback. 
-	Every app is built with privacy in mind - no user tracking, no advertising. These apps are entirely supported by users.
-</p>
-
-<ul class="app-list">
+<ul class="app-grid">
 	{%- for entry in collections.Apps %}
-	<li class="app-list-entry">
-	<div class="app-header-container">
-		<div class="app-header">
-			{%- set iconPath = "apps/" + entry.data.title.toLowerCase() + "/icon.png" %}
-			{% image iconPath, "App Icon", "(max-width: 300px) 256px,
-			512px", [256, 512] %}
-		</div>
-		<a href="{{ entry.url }}">
-			<h2>{{ entry.data.title }}</h2>
+	<li>
+		<a class="app-card" href="{{ entry.url }}"{% if entry.data.accent %} style="--card-accent: {{ entry.data.accent }};"{% endif %}>
+			<div class="app-card__head">
+				<div class="app-card__icon">
+					{%- set iconPath = "apps/" + entry.data.title.toLowerCase() + "/icon.png" %}
+					{% image iconPath, entry.data.title + " app icon", "64px", [128, 256] %}
+				</div>
+				<div class="app-card__titles">
+					<h2 class="app-card__title">{{ entry.data.title }}</h2>
+					{% if entry.data.description %}<p class="app-card__tagline">{{ entry.data.description }}</p>{% endif %}
+				</div>
+			</div>
+			<span class="app-card__cta">View {{ entry.data.title }} →</span>
 		</a>
-	</div>
-	<p>{{ entry.data.description }}</p>
 	</li>
 	{%- endfor %}
 </ul>

@@ -10,69 +10,55 @@
 		<meta name="apple-itunes-app" content="{{ appleAppId | prefixAppStoreMeta }}">
 		{% endif %}
 
-		{#- Atom and JSON feeds included by default #}
 		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
 		<link rel="alternate" href="/feed/feed.json" type="application/json" title="{{ metadata.title }}">
 
-		{#- Uncomment this if you’d like folks to know that you used Eleventy to build your site!  #}
-		{#- <meta name="generator" content="{{ eleventy.generator }}"> #}
-
-		{#-
-		CSS bundles are provided via the `eleventy-plugin-bundle` plugin:
-		1. You can add to them using `{% css %}`
-		2. You can get from them using `{% getBundle "css" %}` or `{% getBundleFileUrl "css" %}`
-		3. You can do the same for JS: {% js %}{% endjs %} and <script>{% getBundle "js" %}</script>
-		4. Learn more: https://github.com/11ty/eleventy-plugin-bundle
-		#}
-
-		{#- Add an arbitrary string to the bundle #}
-		{%- css %}* { box-sizing: border-box; }{% endcss %}
-		{#- Add the contents of a file to the bundle #}
 		{%- css %}{% include "public/css/index.css" %}{% endcss %}
-		{#- Or add from node_modules #}
-		{# {%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %} #}
 
-		{#- Render the CSS bundle using Inlined CSS (for the fastest site performance in production) #}
 		<style>{% getBundle "css" %}</style>
-		{#- Renders the CSS bundle using a separate file, if you can't set CSP directive style-src: 'unsafe-inline' #}
-		{#- <link rel="stylesheet" href="{% getBundleFileUrl "css" %}"> #}
 
 		<script
-		src="https://cdn.telemetrydeck.com/websdk/telemetrydeck.min.js"
-		data-app-id="881FDAD4-45B3-44AA-96A3-C3907003188A"
+			src="https://cdn.telemetrydeck.com/websdk/telemetrydeck.min.js"
+			data-app-id="881FDAD4-45B3-44AA-96A3-C3907003188A"
 		></script>
 	</head>
-	<body>
+	<body{% if accent %} style="--accent: {{ accent }};"{% endif %}>
 		<a href="#skip" class="visually-hidden">Skip to main content</a>
 
-		<header>
-			<a href="/" class="home-link">{{ metadata.title }}</a>
-
-			{#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
-			<nav>
-				<h2 class="visually-hidden">Top level navigation menu</h2>
-				<ul class="nav">
-				{%- for entry in collections.all | eleventyNavigation %}
-					<li class="nav-item"><a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
-				{%- endfor %}
-				</ul>
-			</nav>
+		<header class="site-header">
+			<div class="site-header__inner">
+				<a href="/" class="site-brand">
+					<span class="site-brand__dot" aria-hidden="true"></span>
+					{{ metadata.title }}
+				</a>
+				<nav class="site-nav" aria-label="Primary">
+					<h2 class="visually-hidden">Top level navigation menu</h2>
+					<ul>
+					{%- for entry in collections.all | eleventyNavigation %}
+						<li><a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
+					{%- endfor %}
+					</ul>
+				</nav>
+			</div>
 		</header>
 
-		<main id="skip">
+		<main id="skip" class="site-main">
 			{{ content | safe }}
 		</main>
 
-		<footer>
-			<p>© Rob Owen 2024</p>
-			<a href="mailto:hello@robowen.io">hello@robowen.io</a>
-			<a href="https://mastodon.social/@robowen" target="_blank" rel="noopener noreferrer">
-				<img src="/img/mastodon.svg" alt="Follow me on Mastodon" width="24" height="24">
-			</a>
+		<footer class="site-footer">
+			<div class="site-footer__inner">
+				<p>© Rob Owen 2026</p>
+				<div class="site-footer__links">
+					<a href="mailto:hello@robowen.io">hello@robowen.io</a>
+					<a href="/feed/feed.xml" aria-label="RSS feed">RSS</a>
+					<a href="https://mastodon.social/@robowen" target="_blank" rel="noopener noreferrer" aria-label="Follow me on Mastodon">
+						<img class="site-footer__icon" src="/img/mastodon.svg" alt="" width="20" height="20">
+					</a>
+				</div>
+			</div>
 		</footer>
 
 		<!-- This page `{{ page.url | htmlBaseUrl }}` was built on {% currentBuildDate %} -->
 	</body>
-
-
 </html>

@@ -1,5 +1,5 @@
 ---
-layout: "layouts/app.njk"
+layout: "layouts/app_showcase.njk"
 title: Darkfield
 description: Astronomy companion for iPhone, iPad, and Mac.
 tags: 
@@ -7,6 +7,7 @@ tags:
   - iOS
 appleAppId: 6756084342
 appleShortLink: ""
+accent: "#3E5C9A"
 draft: false
 eleventyNavigation:
   parent: Apps

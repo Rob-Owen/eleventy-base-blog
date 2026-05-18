@@ -1,8 +1,14 @@
 ---
-layout: "layouts/app.njk"
+layout: "layouts/app_showcase.njk"
 title: Orbit
 description: Distraction-free daily prioritization.
 appleAppId: 6503322144
+accent: "#FF8A3D"
+heroImage: "./orbit-demo.png"
+heroAlt: "Orbit screenshots showing prioritised daily task lists for personal growth and exercise, and a preview of the app's daily review screen."
+tags:
+  - Apps
+  - iOS
 eleventyNavigation:
   parent: Apps
   key: Orbit
@@ -10,13 +16,6 @@ eleventyNavigation:
 ---
 
 Orbit is an iOS 18 app for daily priorities. Prioritise, refine, and make progress on what's important to you without managing endless task lists. Orbit keeps you focused with a clean UI, deep system integrations and an interactive daily review flow.
-
-<a class="apple-cta" href="https://apps.apple.com/app/orbit-task-focus-planner/id6503322144?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/white/en-us?size=250x83&amp;releaseDate=1690416000" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
-
-<div class="img-container">
-  {% image "./orbit-demo.png", "Orbit screenshots showing prioritised daily task lists for personal growth and exercise, and a preview of the app's daily review screen.", "80em" %}
-</div>
-
 
 ## The Orbit Philosphy
 

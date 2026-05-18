@@ -1,0 +1,16 @@
+---
+layout: layouts/base.njk
+---
+{%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %}
+{%- css %}{% include "public/css/prism-diff.css" %}{%- endcss %}
+
+{%- set inheritedAccent = collections.all | getAppAccent(page) %}
+<div{% if inheritedAccent %} style="--accent: {{ inheritedAccent }};"{% endif %}>
+	<header class="post-header">
+		<span class="post-header__eyebrow">{{ page.filePathStem.split('/')[2] | capitalize if page.filePathStem else "" }}</span>
+		<h1>{{ title }}</h1>
+	</header>
+	<article class="prose">
+		{{ content | safe }}
+	</article>
+</div>
