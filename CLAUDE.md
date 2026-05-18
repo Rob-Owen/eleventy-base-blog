@@ -32,7 +32,7 @@ npm run benchmark
 
 - **`content/`** - All source content (input directory)
   - `blog/` - Blog posts organized by year
-  - `apps/` - App showcase pages (orbit, stylus, octoscope, homeui, octopump, astro)
+  - `apps/` - App showcase pages (orbit, stylus, octoscope, homeui, octopump, darkfield)
   - `about/` - About page
   - `feed/` - RSS/JSON feed templates
   - `sitemap/` - Sitemap generation
@@ -102,9 +102,13 @@ Images are optimized using `@11ty/eleventy-img`:
 - Lighthouse plugin enabled with strict thresholds (1.0 for all categories)
 - Performance targets: 0 CLS, 0ms TBT
 
+### App Data Files
+
+Files under `content/apps/*/data/**/*.json` are server-side caches consumed directly by iOS apps at runtime. **Never modify these files without explicit instruction** — changes affect live app behavior, not just the website.
+
 ## Content Notes
 
 - Site owner: Rob Owen (hello@robowen.io)
 - Site URL: https://robowen.io/
-- Apps featured: Orbit, Stylus, Octoscope, HomeUI, Octopump, Astro
+- Apps featured: Orbit, Stylus, Octoscope, HomeUI, Octopump, Darkfield
 - Each app has subdirectory with pages like privacy.md, press.md, contact.md, faqs.md
