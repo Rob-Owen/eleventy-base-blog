@@ -239,12 +239,13 @@ hr {
 	padding: var(--s-6) var(--s-5);
 	display: flex;
 	flex-wrap: wrap;
-	align-items: center;
+	align-items: baseline;
 	justify-content: space-between;
 	gap: var(--s-4);
 	color: var(--text-muted);
 	font-size: var(--fs-small);
 }
+.site-footer__inner > p { margin: 0; }
 .site-footer__links {
 	display: flex;
 	align-items: center;
