@@ -7,6 +7,8 @@ tags:
   - iOS
   - UK
 appleAppId: 6743010923
+appCategory: "UtilitiesApplication"
+appOS: "iOS 17.0"
 accent: "#F5B400"
 draft: false
 eleventyNavigation:

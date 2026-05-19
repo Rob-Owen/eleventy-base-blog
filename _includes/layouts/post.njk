@@ -1,8 +1,26 @@
 ---
 layout: layouts/base.njk
+ogType: "article"
 ---
 {%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %}
 {%- css %}{% include "public/css/prism-diff.css" %}{%- endcss %}
+
+<script type="application/ld+json">
+{
+	"@context": "https://schema.org",
+	"@type": "Article",
+	"headline": {{ title | jsonEscape | safe }},
+	"datePublished": "{{ page.date | htmlDateString }}",
+	"dateModified": "{{ page.date | htmlDateString }}",
+	"author": { "@id": "{{ metadata.url }}#person" },
+	"publisher": { "@id": "{{ metadata.url }}#organization" },
+	"mainEntityOfPage": "{{ page.url | htmlBaseUrl(metadata.url) }}"
+}
+</script>
+
+{% set breadcrumbSection = "Blog" %}
+{% set breadcrumbSectionUrl = metadata.url + "blog/" %}
+{% include "breadcrumb.njk" %}
 
 <header class="post-header">
 	<span class="post-header__eyebrow">News</span>

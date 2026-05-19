@@ -6,7 +6,9 @@ tags:
   - Apps
   - iOS
 appleAppId: 6756084342
-appleShortLink: ""
+isBeta: true
+appCategory: "ReferenceApplication"
+appOS: "iOS 17.0, iPadOS 17.0, macOS 14.0"
 accent: "#3E5C9A"
 draft: false
 eleventyNavigation:
@@ -15,7 +17,9 @@ eleventyNavigation:
   title: Darkfield
 ---
 
-An astronomy companion for iPhone, iPad, and Mac — track your stargazing all in one place.
+An astronomy companion for iPhone, iPad, and Mac.
+
+Plan, record and reflect on your stargazing adventures. Darkfield is my latest app, designed specifically for amateur astronomers (with all the gear, or none).
 
 Darkfield is in public beta. To join, fill out the form below!
 

@@ -7,6 +7,8 @@ tags:
   - iOS
   - UK
 appleAppId: 6447790899
+appCategory: "UtilitiesApplication"
+appOS: "iOS 17.0, iPadOS 17.0, macOS 14.0, watchOS 10.0"
 accent: "#E91E78"
 heroImage: "./octoscope-banner.png"
 heroAlt: "Octoscope App Screenshots"

@@ -7,6 +7,8 @@ tags:
   - visionOS
 appleAppId: 6477536116
 appleShortLink: "https://apple.co/3yw6lh8"
+appCategory: "HomeAndGardenApplication"
+appOS: "visionOS 1.0"
 accent: "#1FB6A6"
 heroImage: "./homeui-controls.png"
 heroAlt: "A screenshot of HomeUI running on visionOS showing HomeKit Camera feeds and 2D and 3D controls"

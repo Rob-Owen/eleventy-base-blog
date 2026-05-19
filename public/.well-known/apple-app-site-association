@@ -1,66 +1,43 @@
 {
   "applinks": {
-      "details": [
-           {
-             "appID": "2FQW47U53P.io.robowen.Cera",
-             "components": [
-               {
-                  "/": "/apps/orbit/data/in-app"
-               },
-               {
-                "/": "/apps/orbit/contact"
-               },
-               {
-                "/": "/apps/stylus/data/in-app"
-              },
-              {
-                "/": "/apps/stylus/contact"
-              }
-              ]
-           },
-           {
-            "appID": "2FQW47U53P.io.robowen.Cera.CeraWidgets",
-            "components": [
-              {
-                 "/": "/apps/orbit/data/in-app"
-              },
-              {
-                "/": "/apps/stylus/data/in-app"
-             }
-            ]
-          },
-          {
-            "appID": "2FQW47U53P.rocks.robecca.energy",
-            "components": [
-              {
-                "/": "/apps/octoscope/auth"
-              }
-            ]
-          },
-          {
-            "appID": "2FQW47U53P.rocks.robecca.energy.energyWidgets",
-            "components": [
-              {
-                "/": "/apps/octoscope/auth"
-              }
-            ]
-          },
-          {
-            "appID": "2FQW47U53P.rocks.robecca.energy.watchkitapp",
-            "components": [
-              {
-                "/": "/apps/octoscope/auth"
-              }
-            ]
-          },
-          {
-            "appID": "2FQW47U53P.rocks.robecca.energy.watchkitapp.energyWidgets",
-            "components": [
-              {
-                "/": "/apps/octoscope/auth"
-              }
-            ]
-          }
-       ]
-   }
+    "details": [
+      {
+        "appID": "2FQW47U53P.io.robowen.Cera",
+        "components": [
+          { "/": "/apps/stylus/data/in-app" },
+          { "/": "/apps/stylus/contact" }
+        ]
+      },
+      {
+        "appID": "2FQW47U53P.io.robowen.Cera.CeraWidgets",
+        "components": [
+          { "/": "/apps/stylus/data/in-app" }
+        ]
+      },
+      {
+        "appID": "2FQW47U53P.rocks.robecca.energy",
+        "components": [
+          { "/": "/apps/octoscope/auth" }
+        ]
+      },
+      {
+        "appID": "2FQW47U53P.rocks.robecca.energy.energyWidgets",
+        "components": [
+          { "/": "/apps/octoscope/auth" }
+        ]
+      },
+      {
+        "appID": "2FQW47U53P.rocks.robecca.energy.watchkitapp",
+        "components": [
+          { "/": "/apps/octoscope/auth" }
+        ]
+      },
+      {
+        "appID": "2FQW47U53P.rocks.robecca.energy.watchkitapp.energyWidgets",
+        "components": [
+          { "/": "/apps/octoscope/auth" }
+        ]
+      }
+    ]
+  }
 }

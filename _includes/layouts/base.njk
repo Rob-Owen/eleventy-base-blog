@@ -2,12 +2,32 @@
 <html lang="{{ metadata.language }}">
 	<head>
 		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 		<title>{{ title or metadata.title }}</title>
 		<meta name="description" content="{{ description or metadata.description }}">
+		<link rel="canonical" href="{{ page.url | htmlBaseUrl(metadata.url) }}">
 
-		{% if appleAppId %}
-		<meta name="apple-itunes-app" content="{{ appleAppId | prefixAppStoreMeta }}">
+		<meta name="theme-color" content="#0a0a0a" media="(prefers-color-scheme: dark)">
+		<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-title" content="Robowen">
+
+		<meta property="og:title" content="{{ title or metadata.title }}">
+		<meta property="og:description" content="{{ description or metadata.description }}">
+		<meta property="og:url" content="{{ page.url | htmlBaseUrl(metadata.url) }}">
+		{% if ogImage %}<meta property="og:image" content="{{ ogImage | htmlBaseUrl(metadata.url) }}">{% endif %}
+		<meta property="og:type" content="{{ ogType or 'website' }}">
+		<meta property="og:site_name" content="{{ metadata.title }}">
+
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:site" content="@robowen_io">
+		<meta name="twitter:creator" content="@robowen_io">
+		<meta name="twitter:title" content="{{ title or metadata.title }}">
+		<meta name="twitter:description" content="{{ description or metadata.description }}">
+		{% if ogImage %}<meta name="twitter:image" content="{{ ogImage | htmlBaseUrl(metadata.url) }}">{% endif %}
+
+		{% if appleAppId and not isBeta %}
+		<meta name="apple-itunes-app" content="app-id={{ appleAppId }}, app-argument={{ page.url | htmlBaseUrl(metadata.url) }}, affiliate-data=ct=site-banner-{{ page.fileSlug }}">
 		{% endif %}
 
 		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
@@ -16,6 +36,35 @@
 		{%- css %}{% include "public/css/index.css" %}{% endcss %}
 
 		<style>{% getBundle "css" %}</style>
+
+		<script type="application/ld+json">
+		{
+			"@context": "https://schema.org",
+			"@graph": [
+				{
+					"@type": "Person",
+					"@id": "{{ metadata.url }}#person",
+					"name": {{ metadata.author.name | jsonEscape | safe }},
+					"url": "{{ metadata.url }}",
+					"jobTitle": "Independent iOS Developer",
+					"knowsAbout": ["iOS development", "SwiftUI", "Astronomy", "Home automation", "Octopus Energy"],
+					"sameAs": [
+						"https://mastodon.social/@robowen",
+						"https://bsky.app/profile/robowen.io",
+						"https://github.com/robowen",
+						"https://www.linkedin.com/in/robowen/"
+					]
+				},
+				{
+					"@type": "Organization",
+					"@id": "{{ metadata.url }}#organization",
+					"name": "Robowen",
+					"url": "{{ metadata.url }}",
+					"founder": { "@id": "{{ metadata.url }}#person" }
+				}
+			]
+		}
+		</script>
 
 		<script
 			src="https://cdn.telemetrydeck.com/websdk/telemetrydeck.min.js"

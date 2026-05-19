@@ -3,6 +3,8 @@ layout: "layouts/app_showcase.njk"
 title: Stylus
 description: Distraction-free daily prioritization.
 appleAppId: 6503322144
+appCategory: "UtilitiesApplication"
+appOS: "iOS 18.0"
 accent: "#7A5CFA"
 heroImage: "./stylus-demo.png"
 heroAlt: "Stylus screenshots showing prioritised daily task lists for personal growth and exercise, and a preview of the app's daily review screen."

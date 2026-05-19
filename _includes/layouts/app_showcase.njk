@@ -4,6 +4,28 @@ layout: layouts/base.njk
 {%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %}
 {%- css %}{% include "public/css/prism-diff.css" %}{%- endcss %}
 
+{% if appleAppId and not isBeta %}
+<script type="application/ld+json">
+{
+	"@context": "https://schema.org",
+	"@type": "MobileApplication",
+	"@id": "{{ page.url | htmlBaseUrl(metadata.url) }}#app",
+	"name": {{ title | jsonEscape | safe }},
+	"applicationCategory": {{ (appCategory or "UtilitiesApplication") | jsonEscape | safe }},
+	"operatingSystem": {{ (appOS or "iOS") | jsonEscape | safe }},
+	"url": "{{ page.url | htmlBaseUrl(metadata.url) }}",
+	"downloadUrl": "https://apps.apple.com/app/id{{ appleAppId }}",
+	"description": {{ description | jsonEscape | safe }},
+	"author": { "@id": "{{ metadata.url }}#person" },
+	"publisher": { "@id": "{{ metadata.url }}#organization" }
+}
+</script>
+{% endif %}
+
+{% set breadcrumbSection = "Apps" %}
+{% set breadcrumbSectionUrl = metadata.url + "apps/" %}
+{% include "breadcrumb.njk" %}
+
 {%- set pressPage = collections.all | pressPage(page.fileSlug) %}
 {%- set privacyPage = collections.all | privacyPage(page.fileSlug) %}
 {%- set faqsPage = collections.all | faqsPage(page.fileSlug) %}
@@ -25,7 +47,7 @@ layout: layouts/base.njk
 		</div>
 		<h1 class="app-hero__title">{{ title }}</h1>
 		{% if description %}<p class="app-hero__tagline">{{ description }}</p>{% endif %}
-		{% if appleAppId %}
+		{% if appleAppId and not isBeta %}
 		<p class="app-hero__cta">
 			<a class="apple-cta" href="https://apps.apple.com/app/id{{ appleAppId }}?itsct=apps_box_badge&amp;itscg=30200">
 				<img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/white/en-us?size=220x73&amp;releaseDate=1690416000" alt="Download on the App Store" width="220" height="73">

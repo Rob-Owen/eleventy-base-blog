@@ -21,6 +21,9 @@ module.exports = function(eleventyConfig) {
 	// Copy JSON files from content directory as static assets
 	eleventyConfig.addPassthroughCopy("content/**/*.json");
 
+	// Copy app icons so they're available at a predictable URL for OG images
+	eleventyConfig.addPassthroughCopy("content/apps/**/icon.png");
+
 	// Run Eleventy when these files change:
 	// https://www.11ty.dev/docs/watch-serve/#add-your-own-watch-targets
 
@@ -81,9 +84,7 @@ module.exports = function(eleventyConfig) {
 		return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
 	});
 
-	eleventyConfig.addFilter("prefixAppStoreMeta", value => {
-		return `app-id=${value}`
-	});
+	eleventyConfig.addFilter("jsonEscape", value => JSON.stringify(String(value || "")));
 
 	eleventyConfig.addFilter("pressPage", (collection, page) => {
 		for (let item of collection) {
