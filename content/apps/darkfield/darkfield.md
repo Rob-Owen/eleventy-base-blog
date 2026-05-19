@@ -24,11 +24,11 @@ Plan, record and reflect on your stargazing adventures. Darkfield is my latest a
 Darkfield is in public beta. To join, fill out the form below!
 
 <form
-  action="https://buttondown.com/api/emails/embed-subscribe/878vj2g62k"
+  action="https://buttondown.com/api/emails/embed-subscribe/darkfield"
   method="post"
   class="embeddable-buttondown-form"
 >
   <label for="bd-email">Email</label>
-  <input type="email" name="email" id="bd-email" />
-  <input type="submit" value="Join Mailing List" />
+  <input type="email" name="email" id="bd-email" placeholder="you@example.com" autocomplete="email" />
+  <input type="submit" value="Join beta" />
 </form>
