@@ -30,6 +30,9 @@ module.exports = function(eleventyConfig) {
 	// Watch content images for the image pipeline.
 	eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpeg}");
 
+	// Never include CLAUDE.md files in the build output
+	eleventyConfig.ignores.add("**/CLAUDE.md");
+
 	// App plugins
 	eleventyConfig.addPlugin(pluginDrafts);
 	eleventyConfig.addPlugin(pluginImages);

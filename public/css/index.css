@@ -707,25 +707,42 @@ p:has(.apple-cta) { text-align: left; }
    Forms (Darkfield mailing list)
    ========================================================= */
 .embeddable-buttondown-form {
-	display: flex;
-	flex-wrap: wrap;
+	display: grid;
+	grid-template-columns: 1fr;
 	gap: var(--s-2);
-	align-items: center;
-	margin: var(--s-4) 0;
+	margin: var(--s-5) 0;
+	padding: var(--s-5);
+	background: var(--bg-elev);
+	border: 1px solid var(--border);
+	border-radius: var(--r-md);
+}
+@media (min-width: 36rem) {
+	.embeddable-buttondown-form {
+		grid-template-columns: 1fr auto;
+		grid-template-areas: "label label" "email submit";
+	}
+	.embeddable-buttondown-form label        { grid-area: label; }
+	.embeddable-buttondown-form input[type="email"]  { grid-area: email; }
+	.embeddable-buttondown-form input[type="submit"] { grid-area: submit; }
 }
 .embeddable-buttondown-form label {
 	font-size: var(--fs-small);
-	color: var(--text-muted);
+	font-weight: 600;
+	color: var(--text);
 }
 .embeddable-buttondown-form input[type="email"] {
-	flex: 1 1 16rem;
+	width: 100%;
+	min-width: 0;
 	padding: var(--s-2) var(--s-3);
 	border: 1px solid var(--border);
 	border-radius: var(--r-sm);
-	background: var(--bg-elev);
+	background: var(--bg);
 	color: var(--text);
 	font: inherit;
 	font-size: var(--fs-body);
+}
+.embeddable-buttondown-form input[type="email"]::placeholder {
+	color: var(--text-faint);
 }
 .embeddable-buttondown-form input[type="email"]:focus {
 	outline: none;
@@ -733,7 +750,7 @@ p:has(.apple-cta) { text-align: left; }
 	box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 25%, transparent);
 }
 .embeddable-buttondown-form input[type="submit"] {
-	padding: var(--s-2) var(--s-4);
+	padding: var(--s-2) var(--s-5);
 	border: 0;
 	border-radius: var(--r-sm);
 	background: var(--accent);
@@ -742,6 +759,7 @@ p:has(.apple-cta) { text-align: left; }
 	font-weight: 600;
 	font-size: var(--fs-body);
 	cursor: pointer;
+	white-space: nowrap;
 }
 .embeddable-buttondown-form input[type="submit"]:hover { opacity: 0.9; }
 
