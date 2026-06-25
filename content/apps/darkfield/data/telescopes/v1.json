@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2025-12-07T00:00:00Z",
+  "generatedAt": "2026-06-24T00:00:00Z",
   "telescopes": [
     {
       "id": "celestron-nexstar-4se",
@@ -2761,6 +2761,158 @@
       "type": "refractor",
       "aperture": 90,
       "focalLength": 800
+    },
+    {
+      "id": "zwo-seestar-s30",
+      "name": "Seestar S30",
+      "manufacturer": "ZWO",
+      "type": "refractor",
+      "aperture": 30,
+      "focalLength": 150
+    },
+    {
+      "id": "celestron-origin",
+      "name": "Origin",
+      "manufacturer": "Celestron",
+      "type": "other",
+      "aperture": 152,
+      "focalLength": 335
+    },
+    {
+      "id": "vaonis-vespera-pro",
+      "name": "Vespera Pro",
+      "manufacturer": "Vaonis",
+      "type": "refractor",
+      "aperture": 50,
+      "focalLength": 250
+    },
+    {
+      "id": "askar-sqa55",
+      "name": "SQA55",
+      "manufacturer": "Askar",
+      "type": "refractor",
+      "aperture": 55,
+      "focalLength": 264
+    },
+    {
+      "id": "askar-sqa85",
+      "name": "SQA85",
+      "manufacturer": "Askar",
+      "type": "refractor",
+      "aperture": 85,
+      "focalLength": 405
+    },
+    {
+      "id": "askar-sqa106",
+      "name": "SQA106",
+      "manufacturer": "Askar",
+      "type": "refractor",
+      "aperture": 106,
+      "focalLength": 509
+    },
+    {
+      "id": "askar-71f",
+      "name": "71F",
+      "manufacturer": "Askar",
+      "type": "refractor",
+      "aperture": 71,
+      "focalLength": 490
+    },
+    {
+      "id": "askar-fma180",
+      "name": "FMA180 Pro",
+      "manufacturer": "Askar",
+      "type": "refractor",
+      "aperture": 40,
+      "focalLength": 180
+    },
+    {
+      "id": "askar-fma230",
+      "name": "FMA230",
+      "manufacturer": "Askar",
+      "type": "refractor",
+      "aperture": 50,
+      "focalLength": 230
+    },
+    {
+      "id": "skywatcher-evolux-62ed",
+      "name": "Evolux 62ED",
+      "manufacturer": "Sky-Watcher",
+      "type": "refractor",
+      "aperture": 62,
+      "focalLength": 400
+    },
+    {
+      "id": "skywatcher-evolux-82ed",
+      "name": "Evolux 82ED",
+      "manufacturer": "Sky-Watcher",
+      "type": "refractor",
+      "aperture": 82,
+      "focalLength": 530
+    },
+    {
+      "id": "skywatcher-explorer-130pds",
+      "name": "Explorer 130PDS",
+      "manufacturer": "Sky-Watcher",
+      "type": "newtonian",
+      "aperture": 130,
+      "focalLength": 650
+    },
+    {
+      "id": "skywatcher-explorer-150pds",
+      "name": "Explorer 150PDS",
+      "manufacturer": "Sky-Watcher",
+      "type": "newtonian",
+      "aperture": 150,
+      "focalLength": 750
+    },
+    {
+      "id": "skywatcher-explorer-200pds",
+      "name": "Explorer 200PDS",
+      "manufacturer": "Sky-Watcher",
+      "type": "newtonian",
+      "aperture": 200,
+      "focalLength": 1000
+    },
+    {
+      "id": "skywatcher-explorer-250pds",
+      "name": "Explorer 250PDS",
+      "manufacturer": "Sky-Watcher",
+      "type": "newtonian",
+      "aperture": 254,
+      "focalLength": 1200
+    },
+    {
+      "id": "celestron-nexstar-102slt",
+      "name": "NexStar 102SLT",
+      "manufacturer": "Celestron",
+      "type": "refractor",
+      "aperture": 102,
+      "focalLength": 660
+    },
+    {
+      "id": "celestron-nexstar-127slt",
+      "name": "NexStar 127SLT",
+      "manufacturer": "Celestron",
+      "type": "maksutovCassegrain",
+      "aperture": 127,
+      "focalLength": 1500
+    },
+    {
+      "id": "celestron-nexstar-130slt",
+      "name": "NexStar 130SLT",
+      "manufacturer": "Celestron",
+      "type": "newtonian",
+      "aperture": 130,
+      "focalLength": 650
+    },
+    {
+      "id": "william-optics-redcat-91",
+      "name": "RedCat 91",
+      "manufacturer": "William Optics",
+      "type": "refractor",
+      "aperture": 91,
+      "focalLength": 448
     }
   ]
 }

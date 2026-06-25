@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2025-12-07T00:00:00Z",
+  "generatedAt": "2026-06-24T00:00:00Z",
   "binoculars": [
     {
       "id": "nikon-aculon-7x35",
@@ -2001,6 +2001,46 @@
       "aperture": 100,
       "magnification": 25,
       "fieldOfView": 2.8
+    },
+    {
+      "id": "nikon-monarch-m7-8x42",
+      "name": "Monarch M7 8x42",
+      "manufacturer": "Nikon",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 8.2
+    },
+    {
+      "id": "nikon-monarch-m7-10x42",
+      "name": "Monarch M7 10x42",
+      "manufacturer": "Nikon",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 6.9
+    },
+    {
+      "id": "nikon-monarch-m5-8x42",
+      "name": "Monarch M5 8x42",
+      "manufacturer": "Nikon",
+      "aperture": 42,
+      "magnification": 8,
+      "fieldOfView": 6.4
+    },
+    {
+      "id": "nikon-monarch-m5-10x42",
+      "name": "Monarch M5 10x42",
+      "manufacturer": "Nikon",
+      "aperture": 42,
+      "magnification": 10,
+      "fieldOfView": 5.5
+    },
+    {
+      "id": "nikon-monarch-m5-12x42",
+      "name": "Monarch M5 12x42",
+      "manufacturer": "Nikon",
+      "aperture": 42,
+      "magnification": 12,
+      "fieldOfView": 5.0
     }
   ]
 }

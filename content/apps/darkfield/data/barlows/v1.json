@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2025-12-07T00:00:00Z",
+  "generatedAt": "2026-06-24T00:00:00Z",
   "barlows": [
     {
       "id": "televue-powermate-2x-125",
@@ -327,28 +327,28 @@
     {
       "id": "svbony-2x-125",
       "name": "2x Barlow 1.25\"",
-      "manufacturer": "Svbony",
+      "manufacturer": "SVBony",
       "factor": 2.0,
       "barrelSize": "1.25\""
     },
     {
       "id": "svbony-3x-125",
       "name": "3x Barlow 1.25\"",
-      "manufacturer": "Svbony",
+      "manufacturer": "SVBony",
       "factor": 3.0,
       "barrelSize": "1.25\""
     },
     {
       "id": "svbony-5x-125",
       "name": "5x Barlow 1.25\"",
-      "manufacturer": "Svbony",
+      "manufacturer": "SVBony",
       "factor": 5.0,
       "barrelSize": "1.25\""
     },
     {
       "id": "svbony-2x-2",
       "name": "2x Barlow 2\"",
-      "manufacturer": "Svbony",
+      "manufacturer": "SVBony",
       "factor": 2.0,
       "barrelSize": "2\""
     },

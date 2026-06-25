@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2025-12-07T00:00:00Z",
+  "generatedAt": "2026-06-24T00:00:00Z",
   "eyepieces": [
     {
       "id": "televue-ethos-3.7",
@@ -1011,7 +1011,7 @@
       "manufacturer": "Nikon",
       "focalLength": 10,
       "apparentFOV": 102,
-      "eyeRelief": 10,
+      "eyeRelief": 16,
       "barrelSize": "2\"",
       "isZoom": false
     },
@@ -1021,7 +1021,7 @@
       "manufacturer": "Nikon",
       "focalLength": 12.5,
       "apparentFOV": 102,
-      "eyeRelief": 10,
+      "eyeRelief": 16,
       "barrelSize": "2\"",
       "isZoom": false
     },
@@ -1031,7 +1031,7 @@
       "manufacturer": "Nikon",
       "focalLength": 17,
       "apparentFOV": 102,
-      "eyeRelief": 10,
+      "eyeRelief": 16,
       "barrelSize": "2\"",
       "isZoom": false
     },
@@ -2418,56 +2418,6 @@
       "isZoom": false
     },
     {
-      "id": "vixen-sxw-3.5",
-      "name": "SXW 3.5mm",
-      "manufacturer": "Vixen",
-      "focalLength": 3.5,
-      "apparentFOV": 110,
-      "eyeRelief": 13,
-      "barrelSize": "1.25\"",
-      "isZoom": false
-    },
-    {
-      "id": "vixen-sxw-5",
-      "name": "SXW 5mm",
-      "manufacturer": "Vixen",
-      "focalLength": 5,
-      "apparentFOV": 110,
-      "eyeRelief": 13,
-      "barrelSize": "2\"",
-      "isZoom": false
-    },
-    {
-      "id": "vixen-sxw-7",
-      "name": "SXW 7mm",
-      "manufacturer": "Vixen",
-      "focalLength": 7,
-      "apparentFOV": 110,
-      "eyeRelief": 13,
-      "barrelSize": "2\"",
-      "isZoom": false
-    },
-    {
-      "id": "vixen-sxw-10",
-      "name": "SXW 10mm",
-      "manufacturer": "Vixen",
-      "focalLength": 10,
-      "apparentFOV": 110,
-      "eyeRelief": 15,
-      "barrelSize": "2\"",
-      "isZoom": false
-    },
-    {
-      "id": "vixen-sxw-14",
-      "name": "SXW 14mm",
-      "manufacturer": "Vixen",
-      "focalLength": 14,
-      "apparentFOV": 110,
-      "eyeRelief": 15,
-      "barrelSize": "2\"",
-      "isZoom": false
-    },
-    {
       "id": "vixen-hr-1.6",
       "name": "HR 1.6mm",
       "manufacturer": "Vixen",
@@ -2966,6 +2916,326 @@
       "focalLength": 38,
       "apparentFOV": 70,
       "eyeRelief": 23,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-delite-3",
+      "name": "DeLite 3mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 3,
+      "apparentFOV": 62,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-delite-4",
+      "name": "DeLite 4mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 4,
+      "apparentFOV": 62,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-delite-5",
+      "name": "DeLite 5mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 5,
+      "apparentFOV": 62,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-delite-7",
+      "name": "DeLite 7mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 7,
+      "apparentFOV": 62,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-delite-9",
+      "name": "DeLite 9mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 9,
+      "apparentFOV": 62,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-delite-11",
+      "name": "DeLite 11mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 11,
+      "apparentFOV": 62,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-delite-13",
+      "name": "DeLite 13mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 13,
+      "apparentFOV": 62,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-delite-15",
+      "name": "DeLite 15mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 15,
+      "apparentFOV": 62,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "televue-delite-182",
+      "name": "DeLite 18.2mm",
+      "manufacturer": "Tele Vue",
+      "focalLength": 18.2,
+      "apparentFOV": 62,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-slv-2.5",
+      "name": "SLV 2.5mm",
+      "manufacturer": "Vixen",
+      "focalLength": 2.5,
+      "apparentFOV": 50,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-slv-4",
+      "name": "SLV 4mm",
+      "manufacturer": "Vixen",
+      "focalLength": 4,
+      "apparentFOV": 50,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-slv-5",
+      "name": "SLV 5mm",
+      "manufacturer": "Vixen",
+      "focalLength": 5,
+      "apparentFOV": 50,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-slv-6",
+      "name": "SLV 6mm",
+      "manufacturer": "Vixen",
+      "focalLength": 6,
+      "apparentFOV": 50,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-slv-9",
+      "name": "SLV 9mm",
+      "manufacturer": "Vixen",
+      "focalLength": 9,
+      "apparentFOV": 50,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-slv-10",
+      "name": "SLV 10mm",
+      "manufacturer": "Vixen",
+      "focalLength": 10,
+      "apparentFOV": 50,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-slv-12",
+      "name": "SLV 12mm",
+      "manufacturer": "Vixen",
+      "focalLength": 12,
+      "apparentFOV": 50,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-slv-15",
+      "name": "SLV 15mm",
+      "manufacturer": "Vixen",
+      "focalLength": 15,
+      "apparentFOV": 50,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-slv-20",
+      "name": "SLV 20mm",
+      "manufacturer": "Vixen",
+      "focalLength": 20,
+      "apparentFOV": 50,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "vixen-slv-25",
+      "name": "SLV 25mm",
+      "manufacturer": "Vixen",
+      "focalLength": 25,
+      "apparentFOV": 50,
+      "eyeRelief": 20,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "nikon-nav-sw-10",
+      "name": "NAV-SW 10mm",
+      "manufacturer": "Nikon",
+      "focalLength": 10,
+      "apparentFOV": 72,
+      "eyeRelief": 16,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "nikon-nav-sw-12.5",
+      "name": "NAV-SW 12.5mm",
+      "manufacturer": "Nikon",
+      "focalLength": 12.5,
+      "apparentFOV": 72,
+      "eyeRelief": 16,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "nikon-nav-sw-14",
+      "name": "NAV-SW 14mm",
+      "manufacturer": "Nikon",
+      "focalLength": 14,
+      "apparentFOV": 72,
+      "eyeRelief": 16,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "nikon-nav-sw-17.5",
+      "name": "NAV-SW 17.5mm",
+      "manufacturer": "Nikon",
+      "focalLength": 17.5,
+      "apparentFOV": 72,
+      "eyeRelief": 16,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-92-12",
+      "name": "92° 12mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 12,
+      "apparentFOV": 92,
+      "eyeRelief": 20,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-92-17",
+      "name": "92° 17mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 17,
+      "apparentFOV": 92,
+      "eyeRelief": 20,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-62-5.5",
+      "name": "62° 5.5mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 5.5,
+      "apparentFOV": 62,
+      "eyeRelief": 13,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-62-9",
+      "name": "62° 9mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 9,
+      "apparentFOV": 62,
+      "eyeRelief": 13,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-62-14",
+      "name": "62° 14mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 14,
+      "apparentFOV": 62,
+      "eyeRelief": 10,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-62-20",
+      "name": "62° 20mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 20,
+      "apparentFOV": 62,
+      "eyeRelief": 15,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-62-26",
+      "name": "62° 26mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 26,
+      "apparentFOV": 62,
+      "eyeRelief": 19,
+      "barrelSize": "1.25\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-62-32",
+      "name": "62° 32mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 32,
+      "apparentFOV": 62,
+      "eyeRelief": 22,
+      "barrelSize": "2\"",
+      "isZoom": false
+    },
+    {
+      "id": "es-62-40",
+      "name": "62° 40mm",
+      "manufacturer": "Explore Scientific",
+      "focalLength": 40,
+      "apparentFOV": 62,
+      "eyeRelief": 28,
       "barrelSize": "2\"",
       "isZoom": false
     }

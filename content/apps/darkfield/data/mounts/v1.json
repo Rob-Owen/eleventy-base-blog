@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2025-12-07T00:00:00Z",
+  "generatedAt": "2026-06-24T00:00:00Z",
   "mounts": [
     {
       "id": "skywatcher-eq6-r-pro",
@@ -1486,6 +1486,60 @@
       "payloadCapacity": 4,
       "hasTracking": false,
       "hasGoTo": false
+    },
+    {
+      "id": "skywatcher-wave-100i",
+      "name": "Wave 100i",
+      "manufacturer": "Sky-Watcher",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 10,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "skywatcher-wave-150i",
+      "name": "Wave 150i",
+      "manufacturer": "Sky-Watcher",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 15,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "ioptron-hem27",
+      "name": "HEM27",
+      "manufacturer": "iOptron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 13.5,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "ioptron-hem27-ec",
+      "name": "HEM27 EC",
+      "manufacturer": "iOptron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 13.5,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "ioptron-hem44",
+      "name": "HEM44",
+      "manufacturer": "iOptron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 20,
+      "hasTracking": true,
+      "hasGoTo": true
+    },
+    {
+      "id": "ioptron-hem44-ec",
+      "name": "HEM44 EC",
+      "manufacturer": "iOptron",
+      "type": "equatorialGoTo",
+      "payloadCapacity": 20,
+      "hasTracking": true,
+      "hasGoTo": true
     }
   ]
 }
