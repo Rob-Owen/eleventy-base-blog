@@ -30,8 +30,11 @@ module.exports = function(eleventyConfig) {
 	// Watch content images for the image pipeline.
 	eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpeg}");
 
-	// Never include CLAUDE.md files in the build output
+	// Never include CLAUDE.md or README.md files in the build output.
+	// These are repo/documentation files (some dirs are symlinked into app
+	// repos) and must not be rendered as orphan pages.
 	eleventyConfig.ignores.add("**/CLAUDE.md");
+	eleventyConfig.ignores.add("**/README.md");
 
 	// App plugins
 	eleventyConfig.addPlugin(pluginDrafts);
@@ -120,10 +123,15 @@ module.exports = function(eleventyConfig) {
 		// currentPage.filePathStem e.g. "/apps/orbit/press" or "/apps/orbit/orbit"
 		const parts = currentPage.filePathStem.split('/').filter(Boolean);
 		if (parts.length < 2) return null;
-		const appSlug = parts[parts.length - 2];
-		for (let item of collection) {
-			if (item.fileSlug === appSlug && item.data && item.data.accent) {
-				return item.data.accent;
+		// Walk up the path (e.g. /apps/darkfield/data/constellation-figures/index)
+		// and use the nearest ancestor segment that matches an app slug, so
+		// nested pages still inherit their parent app's accent.
+		for (let i = parts.length - 2; i >= 0; i--) {
+			const appSlug = parts[i];
+			for (let item of collection) {
+				if (item.fileSlug === appSlug && item.data && item.data.accent) {
+					return item.data.accent;
+				}
 			}
 		}
 		return null;
