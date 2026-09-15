@@ -30,9 +30,9 @@ This page walks through setting it up once, then wiring it to a physical button 
 The screenshot above shows the settings you're aiming for:
 
 - **Intensity** — drag this **all the way to the right**. At lower intensities the filter only tints the screen, and you'll still get plenty of blue and green light leaking through. At maximum, everything is rendered in shades of a single colour.
-- **Hue** — drag this **all the way to the right** too. The hue slider runs through the colour wheel; the far right end is a deep red. (The far left is also red, but the right-hand end gives the purer, deeper tone you want.)
+- **Hue** — drag this to **either end** of the slider. The hue slider runs around the colour wheel, so both the far left and the far right are red — they're equivalent, so pick whichever is easier to reach. The screenshot shows it at the far right.
 
-The row of coloured pencils at the top of the screen is a live preview. When both sliders are at maximum, every pencil should look red — if you can still make out green or blue ones, nudge the sliders further.
+The row of coloured pencils at the top of the screen is a live preview. With intensity at maximum and hue at either end, every pencil should look red — if you can still make out green or blue ones, nudge the sliders further.
 
 ### Reduce brightness too
 
